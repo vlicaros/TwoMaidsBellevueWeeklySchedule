@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Schedule – Two Maids Bellevue</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Mono:wght@400;500&display=swap');
+
+:root {
+  --pink: #e57dad;
+  --pink-dark: #c45d8d;
+  --pink-pale: #fdf0f7;
+  --pink-border: #f0d6e8;
+  --green: #2a9e82;
+  --green-pale: #f0f9f6;
+  --text: #1a1a2e;
+  --muted: #6b7280;
+  --light: #f7f3f8;
+  --white: #ffffff;
+  --border: #e8e0ee;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  background: var(--light);
+  color: var(--text);
+  min-height: 100vh;
+  padding-bottom: 3rem;
+}
+
+/* ── HEADER ── */
+.header {
+  background: var(--white);
+  border-bottom: 3px solid var(--pink);
+  padding: 0.875rem 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(229,125,173,0.12);
+}
+.header-dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: var(--pink);
+  flex-shrink: 0;
+}
+.header-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text);
+  flex: 1;
+}
+.header-badge {
+  font-size: 0.7rem;
+  font-family: 'DM Mono', monospace;
+  color: var(--pink);
+  background: var(--pink-pale);
+  padding: 0.2rem 0.6rem;
+  border-radius: 100px;
+  border: 1px solid var(--pink-border);
+}
+
+/* ── MAIN ── */
+.container {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem;
+}
+
+/* ── PROFILE CARD ── */
+.profile-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: var(--shadow);
+}
+.avatar {
+  width: 52px; height: 52px;
+  border-radius: 50%;
+  background: var(--pink);
+  color: var(--white);
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  letter-spacing: 0.02em;
+}
+.profile-info {}
+.profile-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+}
+.profile-week {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 3px;
+}
+.profile-stats {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 6px;
+}
+.stat-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 100px;
+}
+.stat-jobs { background: var(--pink-pale); color: var(--pink-dark); }
+.stat-total { background: var(--green-pale); color: var(--green); }
+
+/* ── DAY GROUPS ── */
+.day-group { margin-bottom: 1.25rem; }
+
+.day-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0 0.25rem;
+}
+.day-name {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--pink);
+}
+.day-date {
+  font-size: 0.72rem;
+  font-family: 'DM Mono', monospace;
+  color: var(--muted);
+}
+
+/* ── JOB CARD ── */
+.job-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  margin-bottom: 0.625rem;
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s;
+}
+.job-card:active { border-color: var(--pink-border); }
+
+.job-accent {
+  height: 3px;
+  background: var(--pink);
+  width: 100%;
+}
+
+.job-body { padding: 0.875rem 1rem; }
+
+.job-customer {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.job-address {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+  margin-bottom: 0.625rem;
+}
+
+.maps-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--pink-dark);
+  text-decoration: none;
+  background: var(--pink-pale);
+  border: 1px solid var(--pink-border);
+  border-radius: 100px;
+  padding: 0.3rem 0.75rem;
+  margin-bottom: 0.75rem;
+  transition: background 0.15s;
+}
+.maps-btn:active { background: var(--pink-border); }
+.maps-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
+
+.job-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 0.625rem 0;
+}
+
+.job-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.pill {
+  font-size: 0.72rem;
+  font-family: 'DM Mono', monospace;
+  padding: 0.25rem 0.6rem;
+  border-radius: 100px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+.pill-default { background: #f3f0f7; color: #555; border-color: #e2dcea; }
+.pill-time { background: var(--pink-pale); color: var(--pink-dark); border-color: var(--pink-border); }
+.pill-price { background: var(--green-pale); color: var(--green); border-color: #c8ead9; }
+.pill-payment { background: #fefbe8; color: #92700a; border-color: #f0e5a0; }
+
+/* ── EMPTY / ERROR ── */
+.empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--muted);
+}
+.empty-icon { font-size: 2.5rem; margin-bottom: 0.75rem; opacity: 0.4; }
+.empty h2 { font-size: 1rem; font-weight: 600; margin-bottom: 0.4rem; color: var(--text); }
+.empty p { font-size: 0.85rem; line-height: 1.6; }
+
+/* ── NO JOBS THIS WEEK ── */
+.no-jobs-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  padding: 2rem 1rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* ── FOOTER ── */
+.footer {
+  text-align: center;
+  padding: 1.5rem 1rem 0;
+  font-size: 0.72rem;
+  color: #b0a8bb;
+  font-family: 'DM Mono', monospace;
+}
+
+/* ── LOADING ── */
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  gap: 1rem;
+}
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--pink-border);
+  border-top-color: var(--pink);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading p { font-size: 0.85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-dot"></div>
+  <span class="header-title">Two Maids – Bellevue</span>
+  <span class="header-badge" id="header-week">Schedule</span>
+</div>
+
+<div class="container">
+  <div id="app">
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>Loading your schedule…</p>
+    </div>
+  </div>
+  <div class="footer">Two Maids Cleaning · Bellevue, WA · Powered by Gataware</div>
+</div>
+
+<script>
+(function () {
+  var DAY_ORDER = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+
+  function initials(name) {
+    return name.split(/[\/\s]+/).filter(Boolean)
+      .map(function(w){ return w[0]; }).join('').toUpperCase().slice(0,2);
+  }
+
+  function decodePayload(encoded) {
+    try { return JSON.parse(decodeURIComponent(atob(encoded))); }
+    catch(e) { return null; }
+  }
+
+  function mapsUrl(address) {
+    return address ? 'https://maps.google.com/?q=' + encodeURIComponent(address) : '';
+  }
+
+  function renderApp(data) {
+    var name = data.name || 'Cleaner';
+    var week = data.week || '';
+    var jobs = data.jobs || [];
+
+    document.title = name + "'s Schedule – Two Maids";
+    document.getElementById('header-week').textContent = week || 'This Week';
+
+    // Group by day
+    var byDay = {};
+    jobs.forEach(function(j) {
+      if (!byDay[j.day]) byDay[j.day] = [];
+      byDay[j.day].push(j);
+    });
+    var days = DAY_ORDER.filter(function(d){ return byDay[d]; });
+
+    // Total earnings
+    var total = jobs.reduce(function(s, j){ return s + (parseFloat(j.price) || 0); }, 0);
+
+    var html = '';
+
+    // Profile card
+    html += '<div class="profile-card">';
+    html += '<div class="avatar">' + initials(name) + '</div>';
+    html += '<div class="profile-info">';
+    html += '<div class="profile-name">' + escHtml(name) + '</div>';
+    if (week) html += '<div class="profile-week">' + escHtml(week) + '</div>';
+    html += '<div class="profile-stats">';
+    html += '<span class="stat-pill stat-jobs">' + jobs.length + ' job' + (jobs.length !== 1 ? 's' : '') + '</span>';
+    if (total > 0) html += '<span class="stat-pill stat-total">$' + total.toLocaleString() + ' total</span>';
+    html += '</div></div></div>';
+
+    if (!days.length) {
+      html += '<div class="no-jobs-card">No jobs scheduled for this week.</div>';
+    } else {
+      days.forEach(function(day) {
+        var dayJobs = byDay[day];
+        var dateStr = dayJobs[0] && dayJobs[0].date ? dayJobs[0].date : '';
+
+        html += '<div class="day-group">';
+        html += '<div class="day-header">';
+        html += '<span class="day-name">' + day + '</span>';
+        if (dateStr) html += '<span class="day-date">' + dateStr + '</span>';
+        html += '</div>';
+
+        dayJobs.forEach(function(j) {
+          var mapLink = mapsUrl(j.address);
+          html += '<div class="job-card">';
+          html += '<div class="job-accent"></div>';
+          html += '<div class="job-body">';
+          html += '<div class="job-customer">' + escHtml(j.customer) + '</div>';
+          if (j.address) html += '<div class="job-address">' + escHtml(j.address) + '</div>';
+          if (mapLink) {
+            html += '<a class="maps-btn" href="' + mapLink + '" target="_blank" rel="noopener">';
+            html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
+            html += 'Open in Maps</a>';
+          }
+          html += '<div class="job-divider"></div>';
+          html += '<div class="job-pills">';
+          if (j.time)    html += '<span class="pill pill-time">⏰ ' + escHtml(j.time) + '</span>';
+          if (j.package) html += '<span class="pill pill-default">' + escHtml(j.package) + '</span>';
+          if (j.price)   html += '<span class="pill pill-price">$' + escHtml(String(j.price)) + '</span>';
+          if (j.payment) html += '<span class="pill pill-payment">' + escHtml(j.payment) + '</span>';
+          html += '</div>';
+          html += '</div></div>';
+        });
+
+        html += '</div>';
+      });
+    }
+
+    document.getElementById('app').innerHTML = html;
+  }
+
+  function escHtml(str) {
+    return String(str)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function showError(title, msg) {
+    document.getElementById('app').innerHTML =
+      '<div class="empty">' +
+      '<div class="empty-icon">📋</div>' +
+      '<h2>' + title + '</h2>' +
+      '<p>' + msg + '</p>' +
+      '</div>';
+  }
+
+  // Parse URL
+  var params = new URLSearchParams(location.search);
+  var encoded = params.get('d');
+
+  if (!encoded) {
+    showError('No schedule link', 'This link is missing schedule data.<br>Ask your manager to resend your schedule link.');
+    return;
+  }
+
+  var data = decodePayload(encoded);
+  if (!data || !data.name) {
+    showError('Invalid link', 'This schedule link appears to be corrupted or expired.<br>Contact your manager for a new link.');
+    return;
+  }
+
+  renderApp(data);
+})();
+</script>
+</body>
+</html>
