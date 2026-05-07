@@ -166,6 +166,7 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
         html += '<div class="divider"></div><div class="pills">';
         if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
         if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
+        if (j.team) html += '<span class="pill p-def">'+esc(j.team)+'</span>';
         if (j.price)   html += '<span class="pill p-price">$'+esc(String(j.price))+'</span>';
         if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
         html += '</div></div></div>';
