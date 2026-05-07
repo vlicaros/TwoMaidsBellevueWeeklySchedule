@@ -90,10 +90,10 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
   // It points to the raw schedules.json on your GitHub repo
   var JSON_URL = params.get('src') || 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json';
 
-  if (JSON_URL === 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json') {
+  /*if (JSON_URL === 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json') {
     showError('Not configured','The viewer page has not been configured yet.<br>Contact your manager.');
     return;
-  }
+  }*/
 
   // Fetch the schedule JSON (cache-busted so cleaners always get latest)
   fetch(JSON_URL + '?t=' + Date.now())
