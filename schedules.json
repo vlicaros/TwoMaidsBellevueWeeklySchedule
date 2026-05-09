@@ -1,6 +1,6 @@
 {
   "week": "May 11 – May 17, 2026",
-  "updated": "Thu, May 7, 3:30 PM",
+  "updated": "Sat, May 9, 12:10 PM",
   "cleaners": {
     "megan": [
       {
@@ -248,7 +248,7 @@
         "price": "313.60",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Loreina",
+        "team": "Nick",
         "id": 13523264
       },
       {
@@ -313,21 +313,6 @@
       }
     ],
     "loreina": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-05-11",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-05-11 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523264
-      },
       {
         "day": "Wed",
         "dayNum": 3,
