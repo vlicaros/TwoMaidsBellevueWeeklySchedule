@@ -1,6 +1,6 @@
 {
-  "week": "May 11 – May 17, 2026",
-  "updated": "Sat, May 9, 12:10 PM",
+  "week": "May 10 – May 16, 2026",
+  "updated": "Sat, May 9, 12:13 PM",
   "cleaners": {
     "megan": [
       {
@@ -372,6 +372,23 @@
         "notes": "",
         "team": "Nick/Loreina",
         "id": 13800682
+      }
+    ],
+    "team5807": [
+      {
+        "day": "Sun",
+        "dayNum": 0,
+        "date": "2026-05-10",
+        "customer": "Spandan Pathak",
+        "address": "18291 Northeast 97th WayApt 101\n                                  Redmond, WA 98052",
+        "phone": "425-985-1635",
+        "package": "Deep Clean",
+        "time": "<b>2026-05-10 11:00AM - 02:20PM PDT</b>",
+        "price": "432.00",
+        "payment": "None",
+        "notes": " | Deep Clean",
+        "team": "Team 5807",
+        "id": 14034412
       }
     ],
     "andrew": [
