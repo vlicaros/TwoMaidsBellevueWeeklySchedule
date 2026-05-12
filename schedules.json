@@ -1,6 +1,6 @@
 {
-  "week": "May 10 – May 16, 2026",
-  "updated": "Sat, May 9, 12:13 PM",
+  "week": "May 12 – May 18, 2026",
+  "updated": "Mon, May 11, 7:15 PM",
   "cleaners": {
     "megan": [
       {
@@ -30,7 +30,7 @@
         "price": "269.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Maria",
+        "team": "Megan",
         "id": 13891052
       },
       {
@@ -152,7 +152,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-05-11 01:00PM - 02:00PM PDT</b>",
         "price": "181.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Tish",
         "id": 13992317
@@ -167,7 +167,7 @@
         "package": "Adi Groysman - Monday Premium",
         "time": "<b>2026-05-11 09:30AM - 12:30PM PDT</b>",
         "price": "0.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Tish",
         "id": 13143862
@@ -218,24 +218,22 @@
         "id": 13730406
       }
     ],
-    "maria": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-05-12",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-05-12 09:00AM - 12:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Maria",
-        "id": 13891052
-      }
-    ],
     "nick": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-05-11",
+        "customer": "Emily Saab",
+        "address": "8709 161st Avenue NortheastApt 441\n                                  Redmond, WA 98052",
+        "phone": "301-996-9078",
+        "package": "Deep Clean",
+        "time": "<b>2026-05-11 01:30PM - 04:13PM PDT</b>",
+        "price": "356.00",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>It will be a move-in clean. The apartment is already cleaned by the landlord, and they want us to do a reclean. Please make sure you include the inside of <b>Cabinets, Drawers, and closets</b> for them in this deep clean.&nbsp; They only want to focus on the kitchen, bathrooms, floors, windows, and the inside of cabinets, etc.&nbsp;</p><p>To park: There's QFC and CVS on the same street level, she said you can park there and walk over to the apartment building. It will be around 2-3 minute walk.</p>",
+        "team": "Vance/Nick",
+        "id": 14039420
+      },
       {
         "day": "Mon",
         "dayNum": 1,
@@ -246,7 +244,7 @@
         "package": "Premium Weekly",
         "time": "<b>2026-05-11 09:30AM - 12:00PM PDT</b>",
         "price": "313.60",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick",
         "id": 13523264
@@ -255,16 +253,16 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-05-13",
-        "customer": "Apple Blair",
-        "address": "10029 Northeast 15th Street\n                                  Bellevue, WA 98004",
-        "phone": "310-290-5217",
-        "package": "Deep Clean",
-        "time": "<b>2026-05-13 09:00AM - 02:22PM PDT</b>",
-        "price": "685.00",
-        "payment": "None",
-        "notes": "",
+        "customer": "Kaleigh Flynn",
+        "address": "12207 137th Place NortheastUnit 101\n                                  Redmond, WA 98052",
+        "phone": "732-910-7108",
+        "package": "Design With Time",
+        "time": "<b>2026-05-13 11:00AM - 02:00PM PDT</b>",
+        "price": "449.65",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>The client just moved in this month, so mainly dusting and bathrooms (can ask if the kitchen needs to be cleaned). Also wanted to note that the <b>living room furniture, dining table, and nightstands in the primary room</b> <b>can only be cleaned with a damp cloth, no cleaning solution.</b></p>",
         "team": "Nick/Loreina",
-        "id": 13949988
+        "id": 14035474
       },
       {
         "day": "Thu",
@@ -317,16 +315,16 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-05-13",
-        "customer": "Apple Blair",
-        "address": "10029 Northeast 15th Street\n                                  Bellevue, WA 98004",
-        "phone": "310-290-5217",
-        "package": "Deep Clean",
-        "time": "<b>2026-05-13 09:00AM - 02:22PM PDT</b>",
-        "price": "685.00",
-        "payment": "None",
-        "notes": "",
+        "customer": "Kaleigh Flynn",
+        "address": "12207 137th Place NortheastUnit 101\n                                  Redmond, WA 98052",
+        "phone": "732-910-7108",
+        "package": "Design With Time",
+        "time": "<b>2026-05-13 11:00AM - 02:00PM PDT</b>",
+        "price": "449.65",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>The client just moved in this month, so mainly dusting and bathrooms (can ask if the kitchen needs to be cleaned). Also wanted to note that the <b>living room furniture, dining table, and nightstands in the primary room</b> <b>can only be cleaned with a damp cloth, no cleaning solution.</b></p>",
         "team": "Nick/Loreina",
-        "id": 13949988
+        "id": 14035474
       },
       {
         "day": "Thu",
@@ -374,6 +372,23 @@
         "id": 13800682
       }
     ],
+    "vance": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-05-11",
+        "customer": "Emily Saab",
+        "address": "8709 161st Avenue NortheastApt 441\n                                  Redmond, WA 98052",
+        "phone": "301-996-9078",
+        "package": "Deep Clean",
+        "time": "<b>2026-05-11 01:30PM - 04:13PM PDT</b>",
+        "price": "356.00",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>It will be a move-in clean. The apartment is already cleaned by the landlord, and they want us to do a reclean. Please make sure you include the inside of <b>Cabinets, Drawers, and closets</b> for them in this deep clean.&nbsp; They only want to focus on the kitchen, bathrooms, floors, windows, and the inside of cabinets, etc.&nbsp;</p><p>To park: There's QFC and CVS on the same street level, she said you can park there and walk over to the apartment building. It will be around 2-3 minute walk.</p>",
+        "team": "Vance/Nick",
+        "id": 14039420
+      }
+    ],
     "team5807": [
       {
         "day": "Sun",
@@ -385,7 +400,7 @@
         "package": "Deep Clean",
         "time": "<b>2026-05-10 11:00AM - 02:20PM PDT</b>",
         "price": "432.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | Deep Clean",
         "team": "Team 5807",
         "id": 14034412
