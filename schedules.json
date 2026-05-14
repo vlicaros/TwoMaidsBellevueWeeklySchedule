@@ -1,6 +1,6 @@
 {
   "week": "May 12 – May 18, 2026",
-  "updated": "Mon, May 11, 7:15 PM",
+  "updated": "Wed, May 13, 5:15 PM",
   "cleaners": {
     "megan": [
       {
@@ -13,7 +13,7 @@
         "package": "Move-In/Out",
         "time": "<b>2026-05-11 09:00AM - 05:00PM PDT</b>",
         "price": "1160.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There's a lock box for the key. Lock box <a href=\"code:9393\">code: 9393</a>,&nbsp;then squeeze that button, and it will pop out.&nbsp;</p><p>You can gather the trash (if you have), put it in a secure bag, and leave it in the garage. The client will throw it away after.</p>",
         "team": "Megan/Alexis",
         "id": 13957740
@@ -28,7 +28,7 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-05-12 09:00AM - 12:00PM PDT</b>",
         "price": "269.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Megan",
         "id": 13891052
@@ -43,9 +43,9 @@
         "package": "Premium Monthly",
         "time": "<b>2026-05-13 09:00AM - 11:30AM PDT</b>",
         "price": "335.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
-        "team": "Megan/Alexis",
+        "team": "Megan",
         "id": 13715973
       },
       {
@@ -120,25 +120,10 @@
         "package": "Move-In/Out",
         "time": "<b>2026-05-11 09:00AM - 05:00PM PDT</b>",
         "price": "1160.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There's a lock box for the key. Lock box <a href=\"code:9393\">code: 9393</a>,&nbsp;then squeeze that button, and it will pop out.&nbsp;</p><p>You can gather the trash (if you have), put it in a secure bag, and leave it in the garage. The client will throw it away after.</p>",
         "team": "Megan/Alexis",
         "id": 13957740
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-05-13",
-        "customer": "Cindy Yu",
-        "address": "11783 159th Avenue Northeast\n                                  Redmond, WA 98052",
-        "phone": "425-301-1551",
-        "package": "Premium Monthly",
-        "time": "<b>2026-05-13 09:00AM - 11:30AM PDT</b>",
-        "price": "335.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Alexis",
-        "id": 13715973
       }
     ],
     "tish": [
@@ -153,7 +138,7 @@
         "time": "<b>2026-05-11 01:00PM - 02:00PM PDT</b>",
         "price": "181.00",
         "payment": "Automatic Credit Card",
-        "notes": "",
+        "notes": " | <p>If you can provide waste bin liners for anything less than 10 gal - client much preferred.</p><p>Asked about $10 service fee - for equipment upkeep as well as all solutions etc and include waste bin liners whether they use ours or not we have them.</p>",
         "team": "Tish",
         "id": 13992317
       },
@@ -268,6 +253,21 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-05-14",
+        "customer": "Max ",
+        "address": "8501 Willows Road NortheastL275\n                                  Redmond, WA 98052",
+        "phone": "805-512-6667",
+        "package": "Design With Time",
+        "time": "<b>2026-05-14 01:00PM - 03:00PM PDT</b>",
+        "price": "276.00",
+        "payment": "None",
+        "notes": "<p>Start off with 2 hours and if requires more time then charge accordingly.<span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;;\">&nbsp;Need help with organizing as well. There's a lot of stuff in boxes, and very cluttered.&nbsp;</span></p>",
+        "team": "Nick/Loreina",
+        "id": 14056671
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-14",
         "customer": "Sylvia Perry",
         "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
         "phone": "206-639-0646",
@@ -325,6 +325,21 @@
         "notes": "<p>The client just moved in this month, so mainly dusting and bathrooms (can ask if the kitchen needs to be cleaned). Also wanted to note that the <b>living room furniture, dining table, and nightstands in the primary room</b> <b>can only be cleaned with a damp cloth, no cleaning solution.</b></p>",
         "team": "Nick/Loreina",
         "id": 14035474
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-14",
+        "customer": "Max ",
+        "address": "8501 Willows Road NortheastL275\n                                  Redmond, WA 98052",
+        "phone": "805-512-6667",
+        "package": "Design With Time",
+        "time": "<b>2026-05-14 01:00PM - 03:00PM PDT</b>",
+        "price": "276.00",
+        "payment": "None",
+        "notes": "<p>Start off with 2 hours and if requires more time then charge accordingly.<span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;;\">&nbsp;Need help with organizing as well. There's a lot of stuff in boxes, and very cluttered.&nbsp;</span></p>",
+        "team": "Nick/Loreina",
+        "id": 14056671
       },
       {
         "day": "Thu",
