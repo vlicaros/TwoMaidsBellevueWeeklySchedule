@@ -1,6 +1,6 @@
 {
   "week": "May 11 – May 17, 2026",
-  "updated": "Fri, May 15, 11:22 AM",
+  "updated": "Fri, May 15, 11:24 AM",
   "cleaners": {
     "tish": [
       {
@@ -291,21 +291,6 @@
         "notes": "",
         "team": "Nick/Loreina",
         "id": 13523369
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-22",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "425-444-1961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-05-22 09:30AM - 11:15AM PDT</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Loreina",
-        "id": 13566219
       }
     ],
     "nick": [
@@ -381,7 +366,7 @@
         "price": "372.08",
         "payment": "None",
         "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Loreina",
+        "team": "Nick",
         "id": 13566219
       }
     ],
