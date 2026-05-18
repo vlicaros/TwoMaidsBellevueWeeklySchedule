@@ -1,7 +1,84 @@
 {
   "week": "May 17 – May 23, 2026",
-  "updated": "Fri, May 15, 11:24 AM",
+  "updated": "Sun, May 17, 11:41 PM",
   "cleaners": {
+    "nick": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-05-18",
+        "customer": "Victoria Liu",
+        "address": "10700 Northeast 4th Street2002\n                                  Bellevue, WA 98004",
+        "phone": "425-770-1316",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-05-18 08:30AM - 10:00AM PDT</b>",
+        "price": "194.00",
+        "payment": "None",
+        "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
+        "team": "Nick/Tish",
+        "id": 13823565
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-05-18",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-05-18 11:00AM - 01:30PM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Tish",
+        "id": 13523265
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-21",
+        "customer": "Kamal Shah",
+        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
+        "phone": "201-396-3838",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-05-21 12:15PM - 02:30PM PDT</b>",
+        "price": "311.50",
+        "payment": "None",
+        "notes": " | Physical key",
+        "team": "Nick/Loreina",
+        "id": 13678156
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-21",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-05-21 09:00AM - 11:30AM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 13523369
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-05-22",
+        "customer": "Becky Gilberg",
+        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
+        "phone": "425-444-1961",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-05-22 09:30AM - 11:15AM PDT</b>",
+        "price": "372.08",
+        "payment": "None",
+        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
+        "team": "Nick",
+        "id": 13566219
+      }
+    ],
     "tish": [
       {
         "day": "Mon",
@@ -41,11 +118,11 @@
         "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
         "phone": "865-368-2157",
         "package": "Premium Monthly",
-        "time": "<b>2026-05-21 10:00AM - 11:15AM PDT</b>",
+        "time": "<b>2026-05-21 02:00PM - 03:15PM PDT</b>",
         "price": "246.00",
         "payment": "None",
         "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Tish/Megan",
+        "team": "Tish",
         "id": 13913834
       },
       {
@@ -111,19 +188,19 @@
         "id": 13143863
       },
       {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-05-20",
-        "customer": "Chris Bennett",
-        "address": "2628 139th Avenue Southeast#11\n                                  Bellevue, WA 98005",
-        "phone": "650-430-7180",
-        "package": "Move-In/Out",
-        "time": "<b>2026-05-20 09:00AM - 12:16PM PDT</b>",
-        "price": "439.00",
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-05-19",
+        "customer": "Kenny Lane",
+        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
+        "phone": "425-971-1606",
+        "package": "Design With Time",
+        "time": "<b>2026-05-19 09:00AM - 11:30AM PDT</b>",
+        "price": "334.00",
         "payment": "None",
-        "notes": " | <p>We will need to contact the real estate agent on how to access the home.</p><p><!--StartFragment--><span data-olk-copy-source=\"MessageBody\">Charles: 206 384 6311</span><!--EndFragment--></p>",
+        "notes": "",
         "team": "Megan/Loreina",
-        "id": 13992633
+        "id": 14072750
       },
       {
         "day": "Wed",
@@ -139,21 +216,6 @@
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen.</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Megan/Loreina",
         "id": 13853546
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-05-21",
-        "customer": "Mary Jane Yamada",
-        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
-        "phone": "865-368-2157",
-        "package": "Premium Monthly",
-        "time": "<b>2026-05-21 10:00AM - 11:15AM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Tish/Megan",
-        "id": 13913834
       },
       {
         "day": "Thu",
@@ -233,19 +295,19 @@
     ],
     "loreina": [
       {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-05-20",
-        "customer": "Chris Bennett",
-        "address": "2628 139th Avenue Southeast#11\n                                  Bellevue, WA 98005",
-        "phone": "650-430-7180",
-        "package": "Move-In/Out",
-        "time": "<b>2026-05-20 09:00AM - 12:16PM PDT</b>",
-        "price": "439.00",
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-05-19",
+        "customer": "Kenny Lane",
+        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
+        "phone": "425-971-1606",
+        "package": "Design With Time",
+        "time": "<b>2026-05-19 09:00AM - 11:30AM PDT</b>",
+        "price": "334.00",
         "payment": "None",
-        "notes": " | <p>We will need to contact the real estate agent on how to access the home.</p><p><!--StartFragment--><span data-olk-copy-source=\"MessageBody\">Charles: 206 384 6311</span><!--EndFragment--></p>",
+        "notes": "",
         "team": "Megan/Loreina",
-        "id": 13992633
+        "id": 14072750
       },
       {
         "day": "Wed",
@@ -291,83 +353,6 @@
         "notes": "",
         "team": "Nick/Loreina",
         "id": 13523369
-      }
-    ],
-    "nick": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-05-18",
-        "customer": "Victoria Liu",
-        "address": "10700 Northeast 4th Street2002\n                                  Bellevue, WA 98004",
-        "phone": "425-770-1316",
-        "package": "Touch-Up Biweekly",
-        "time": "<b>2026-05-18 08:30AM - 10:00AM PDT</b>",
-        "price": "194.00",
-        "payment": "None",
-        "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
-        "team": "Nick/Tish",
-        "id": 13823565
-      },
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-05-18",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-05-18 11:00AM - 01:30PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Tish",
-        "id": 13523265
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-05-21",
-        "customer": "Kamal Shah",
-        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
-        "phone": "201-396-3838",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-05-21 12:15PM - 02:30PM PDT</b>",
-        "price": "311.50",
-        "payment": "None",
-        "notes": " | Physical key",
-        "team": "Nick/Loreina",
-        "id": 13678156
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-05-21",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-05-21 09:00AM - 11:30AM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523369
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-22",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "425-444-1961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-05-22 09:30AM - 11:15AM PDT</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick",
-        "id": 13566219
       }
     ],
     "andrew": [
