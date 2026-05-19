@@ -1,6 +1,6 @@
 {
   "week": "May 17 – May 23, 2026",
-  "updated": "Tue, May 19, 11:37 AM",
+  "updated": "Tue, May 19, 11:56 AM",
   "cleaners": {
     "tish": [
       {
@@ -109,6 +109,21 @@
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen.</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Megan/Loreina",
         "id": 13853546
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-21",
+        "customer": "Mary Jane Yamada",
+        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
+        "phone": "865-368-2157",
+        "package": "Premium Monthly",
+        "time": "<b>2026-05-21 01:00PM - 02:15PM PDT</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
+        "team": "Megan/Ma'lien",
+        "id": 13913834
       },
       {
         "day": "Thu",
@@ -233,7 +248,7 @@
         "id": 13523369
       }
     ],
-    "team5851": [
+    "malien": [
       {
         "day": "Thu",
         "dayNum": 4,
@@ -246,7 +261,7 @@
         "price": "246.00",
         "payment": "None",
         "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Team 5851",
+        "team": "Megan/Ma'lien",
         "id": 13913834
       }
     ],
