@@ -1,6 +1,6 @@
 {
-  "week": "May 18 – May 24, 2026",
-  "updated": "Fri, May 22, 1:01 PM",
+  "week": "May 24 – May 30, 2026",
+  "updated": "Fri, May 22, 1:06 PM",
   "cleaners": {
     "loreina": [
       {
@@ -109,6 +109,36 @@
         "notes": "",
         "team": "Megan/Juliett",
         "id": 14103088
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-05-29",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Touch-Up Weekly",
+        "time": "<b>2026-05-29 09:30AM - 11:45AM PDT</b>",
+        "price": "170.00",
+        "payment": "None",
+        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Tish/Juliett",
+        "id": 13730408
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-05-29",
+        "customer": "Akshita Rao",
+        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
+        "phone": "206-566-3506",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-05-29 02:00PM - 03:15PM PDT</b>",
+        "price": "197.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Juliett",
+        "id": 13800683
       }
     ],
     "megan": [
@@ -248,9 +278,39 @@
         "notes": "<p>This will be a move-out cleaning, but you can do the regular deep clean package for the client. Their home is already in good condition, so deep cleaning should be enough, according to the client.&nbsp;</p>",
         "team": "Megan/Ma'lien",
         "id": 14015214
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-28",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-05-28 01:00PM - 04:15PM PDT</b>",
+        "price": "450.06",
+        "payment": "None",
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Ma'lien",
+        "id": 13514519
       }
     ],
-    "tishjuliett": [
+    "tish": [
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-28",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-05-28 01:00PM - 04:15PM PDT</b>",
+        "price": "450.06",
+        "payment": "None",
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Ma'lien",
+        "id": 13514519
+      },
       {
         "day": "Fri",
         "dayNum": 5,
@@ -344,23 +404,6 @@
         "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
         "team": "Nick/Loreina",
         "id": 13514077
-      }
-    ],
-    "tishmalien": [
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-05-28",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-05-28 01:00PM - 04:15PM PDT</b>",
-        "price": "450.06",
-        "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Ma'lien",
-        "id": 13514519
       }
     ]
   }
