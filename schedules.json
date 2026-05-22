@@ -1,6 +1,6 @@
 {
   "week": "May 24 – May 30, 2026",
-  "updated": "Fri, May 22, 1:06 PM",
+  "updated": "Fri, May 22, 1:19 PM",
   "cleaners": {
     "loreina": [
       {
@@ -47,21 +47,6 @@
         "notes": "",
         "team": "Nick/Loreina",
         "id": 13523370
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-29",
-        "customer": "Shivali Luhadia",
-        "address": "2441 76th Avenue Southeast#502\n                                  Mercer Island, WA 98040",
-        "phone": "425-435-0020",
-        "package": "Premium Monthly",
-        "time": "<b>2026-05-29 11:00AM - 12:00PM PDT</b>",
-        "price": "150.00",
-        "payment": "None",
-        "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
-        "team": "Nick/Loreina",
-        "id": 13514077
       }
     ],
     "juliett": [
@@ -402,7 +387,7 @@
         "price": "150.00",
         "payment": "None",
         "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
-        "team": "Nick/Loreina",
+        "team": "Nick",
         "id": 13514077
       }
     ]
