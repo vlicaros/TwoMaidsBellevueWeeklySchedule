@@ -1,6 +1,6 @@
 {
   "week": "May 24 – May 30, 2026",
-  "updated": "Fri, May 22, 1:19 PM",
+  "updated": "Sat, May 23, 12:17 PM",
   "cleaners": {
     "loreina": [
       {
@@ -17,6 +17,21 @@
         "notes": "",
         "team": "Loreina/Juliett",
         "id": 13891053
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-05-26",
+        "customer": "Ben Pham",
+        "address": "13831 Northeast 8th StreetApt 88\n                                  Bellevue, WA 98005",
+        "phone": "407-988-9104",
+        "package": "Deep Clean",
+        "time": "<b>2026-05-26 01:00PM - 03:43PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": " | Deep clean kitchen and living room if time allows then do rest",
+        "team": "Loreina/Juliett",
+        "id": 14112083
       },
       {
         "day": "Wed",
@@ -64,6 +79,21 @@
         "notes": "",
         "team": "Loreina/Juliett",
         "id": 13891053
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-05-26",
+        "customer": "Ben Pham",
+        "address": "13831 Northeast 8th StreetApt 88\n                                  Bellevue, WA 98005",
+        "phone": "407-988-9104",
+        "package": "Deep Clean",
+        "time": "<b>2026-05-26 01:00PM - 03:43PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": " | Deep clean kitchen and living room if time allows then do rest",
+        "team": "Loreina/Juliett",
+        "id": 14112083
       },
       {
         "day": "Wed",
