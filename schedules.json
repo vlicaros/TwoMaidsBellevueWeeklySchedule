@@ -1,8 +1,8 @@
 {
-  "week": "May 25 – May 31, 2026",
-  "updated": "Tue, May 26, 3:44 PM",
+  "week": "May 23 – May 29, 2026",
+  "updated": "Tue, May 26, 3:47 PM",
   "cleaners": {
-    "lorena": [
+    "loreina": [
       {
         "day": "Tue",
         "dayNum": 2,
@@ -15,8 +15,53 @@
         "price": "269.00",
         "payment": "None",
         "notes": "",
-        "team": "Lorena/Vance",
+        "team": "Loreina/Vance",
         "id": 13891053
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-05-27",
+        "customer": "Elvira Budiawan",
+        "address": "3973 162nd Place Southeast\n                                  Bellevue, WA 98008",
+        "phone": "206-383-4427",
+        "package": "Premium Monthly",
+        "time": "<b>2026-05-27 09:00AM - 12:00PM PDT</b>",
+        "price": "349.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 13942505
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-28",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-05-28 09:30AM - 12:00PM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 13523370
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-05-29",
+        "customer": "Raakesh Chandra",
+        "address": "14537 Northeast 40th StreetApt H104\n                                  Bellevue, WA 98007",
+        "phone": "937-951-0384",
+        "package": "Move-In/Out",
+        "time": "<b>2026-05-29 01:00PM - 04:00PM PDT</b>",
+        "price": "448.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 14112184
       }
     ],
     "vance": [
@@ -32,7 +77,7 @@
         "price": "269.00",
         "payment": "None",
         "notes": "",
-        "team": "Lorena/Vance",
+        "team": "Loreina/Vance",
         "id": 13891053
       }
     ],
@@ -295,53 +340,6 @@
         "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
         "team": "Nick",
         "id": 13514077
-      }
-    ],
-    "loreina": [
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-05-27",
-        "customer": "Elvira Budiawan",
-        "address": "3973 162nd Place Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-383-4427",
-        "package": "Premium Monthly",
-        "time": "<b>2026-05-27 09:00AM - 12:00PM PDT</b>",
-        "price": "349.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13942505
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-05-28",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-05-28 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523370
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-29",
-        "customer": "Raakesh Chandra",
-        "address": "14537 Northeast 40th StreetApt H104\n                                  Bellevue, WA 98007",
-        "phone": "937-951-0384",
-        "package": "Move-In/Out",
-        "time": "<b>2026-05-29 01:00PM - 04:00PM PDT</b>",
-        "price": "448.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 14112184
       }
     ],
     "tish": [
