@@ -49,19 +49,19 @@
         "id": 13523370
       },
       {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-29",
-        "customer": "Raakesh Chandra",
-        "address": "14537 Northeast 40th StreetApt H104\n                                  Bellevue, WA 98007",
-        "phone": "937-951-0384",
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-28",
+        "customer": "Simon Luo",
+        "address": "10700 Northeast 10th StreetC505\n                                  Bellevue, WA 98004",
+        "phone": "706-540-9591",
         "package": "Move-In/Out",
-        "time": "<b>2026-05-29 01:00PM - 04:00PM PDT</b>",
+        "time": "<b>2026-05-28 01:00PM - 04:00PM PDT</b>",
         "price": "448.00",
         "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 14112184
+        "notes": "<p>You can park at the guest spot in the parking garage of the apartment. The apartment name is Belcarra. The client will be there when you arrive. Once you park, you can call him, and he will come get you downstairs. Just in case the entrance code is 962244#</p><p>This is a move-out clean. There might be a lot of dust and cat hair. Need a deep clean of the kitchen (all cabinets, fridge, oven, and microwave), bathrooms, bedrooms, and floors.&nbsp;</p>",
+        "team": "Megan/Loreina",
+        "id": 14133703
       }
     ],
     "vance": [
@@ -156,6 +156,21 @@
         "notes": "",
         "team": "Tish/Megan",
         "id": 14103088
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-05-28",
+        "customer": "Simon Luo",
+        "address": "10700 Northeast 10th StreetC505\n                                  Bellevue, WA 98004",
+        "phone": "706-540-9591",
+        "package": "Move-In/Out",
+        "time": "<b>2026-05-28 01:00PM - 04:00PM PDT</b>",
+        "price": "448.00",
+        "payment": "None",
+        "notes": "<p>You can park at the guest spot in the parking garage of the apartment. The apartment name is Belcarra. The client will be there when you arrive. Once you park, you can call him, and he will come get you downstairs. Just in case the entrance code is 962244#</p><p>This is a move-out clean. There might be a lot of dust and cat hair. Need a deep clean of the kitchen (all cabinets, fridge, oven, and microwave), bathrooms, bedrooms, and floors.&nbsp;</p>",
+        "team": "Megan/Loreina",
+        "id": 14133703
       }
     ],
     "malien": [
@@ -310,21 +325,6 @@
         "notes": "",
         "team": "Nick/Loreina",
         "id": 13523370
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-05-29",
-        "customer": "Raakesh Chandra",
-        "address": "14537 Northeast 40th StreetApt H104\n                                  Bellevue, WA 98007",
-        "phone": "937-951-0384",
-        "package": "Move-In/Out",
-        "time": "<b>2026-05-29 01:00PM - 04:00PM PDT</b>",
-        "price": "448.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 14112184
       },
       {
         "day": "Fri",
