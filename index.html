@@ -30,9 +30,14 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--light);color:va
 .job-accent{height:3px;background:var(--pink)}
 .job-body{padding:.875rem 1rem}
 .job-customer{font-size:1rem;font-weight:600;margin-bottom:.25rem;line-height:1.3}
-.job-address{font-size:.82rem;color:var(--muted);line-height:1.4;margin-bottom:.625rem}
-.maps-btn{display:inline-flex;align-items:center;gap:.3rem;font-size:.75rem;font-weight:600;color:var(--pink-dark);text-decoration:none;background:var(--pink-pale);border:1px solid var(--pink-border);border-radius:100px;padding:.3rem .75rem;margin-bottom:.75rem}
-.maps-btn svg{width:13px;height:13px;flex-shrink:0}
+.job-address{margin-bottom:.5rem}
+.maps-btn{display:inline-flex;align-items:center;gap:.4rem;font-size:.82rem;color:var(--pink-dark);text-decoration:none;font-weight:500;line-height:1.4}
+.maps-btn:hover{text-decoration:underline}
+.maps-btn svg{flex-shrink:0}
+.job-phone{font-size:.82rem;margin-bottom:.35rem}
+.job-phone a{color:var(--pink-dark);text-decoration:none;font-weight:500}
+.job-phone a:hover{text-decoration:underline}
+.job-notes{font-size:.8rem;color:var(--muted);line-height:1.5;margin-bottom:.5rem;font-style:italic;border-left:2px solid var(--pink-border);padding-left:.5rem}
 .divider{height:1px;background:var(--border);margin:.625rem 0}
 .pills{display:flex;flex-wrap:wrap;gap:.4rem}
 .pill{font-size:.72rem;font-family:'DM Mono',monospace;padding:.25rem .6rem;border-radius:100px;border:1px solid transparent;white-space:nowrap}
@@ -73,55 +78,57 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 <script>
 (function(){
   var DAY_ORDER = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
-
   function ini(n){ return n.split(/[\/\s]+/).filter(Boolean).map(function(w){return w[0];}).join('').toUpperCase().slice(0,2); }
   function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
-  // Read ?cleaner=name from URL
   var params = new URLSearchParams(location.search);
-  var cleanerParam = (params.get('cleaner')||'').trim().toLowerCase();
 
-  if (!cleanerParam) {
-    showError('No cleaner specified','This link is missing the cleaner name.<br>Ask your manager for your personal schedule link.');
+  // New: token-based auth (?t=TOKEN)
+  // Token is a 32-char hex string generated per cleaner in the admin tool.
+  // If someone shares the link without the token, they see nothing.
+  var token = (params.get('t')||'').trim();
+
+  if (!token) {
+    showError('Access required','This link is incomplete. Ask your manager for your personal schedule link.');
     return;
   }
 
-  // JSON_URL is replaced by the admin tool when generating the schedules file
-  // It points to the raw schedules.json on your GitHub repo
-  var JSON_URL = params.get('src') || 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json';
+  // Gist raw URL — set this to your unlisted Gist's raw file URL.
+  // Format: https://gist.githubusercontent.com/USERNAME/GIST_ID/raw/schedules.json
+  // The ?src= param overrides for testing.
+  var GIST_URL = params.get('src') || 'https://gist.github.com/vlicaros/ccb989b2d3f171e43cb45766404d4577/schedules.json';
 
-  /*if (JSON_URL === 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json') {
-    showError('Not configured','The viewer page has not been configured yet.<br>Contact your manager.');
+  if(GIST_URL === 'https://gist.github.com/vlicaros/ccb989b2d3f171e43cb45766404d4577/schedules.json'){
+    showError('Not configured','The viewer has not been set up yet.<br>Contact your manager.');
     return;
-  }*/
+  }
 
-  // Fetch the schedule JSON (cache-busted so cleaners always get latest)
-  fetch(JSON_URL + '?t=' + Date.now())
+  // Cache-bust so cleaners always get the latest
+  fetch(GIST_URL + '?cb=' + Date.now())
     .then(function(r){
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
     })
     .then(function(data){
-      // data = { week: "...", updated: "...", cleaners: { "megan": [...], "nick": [...] } }
-      var key = cleanerParam;
-      var cleanerJobs = data.cleaners && data.cleaners[key];
+      // Schedules keyed by token: { week, updated, cleaners: { "TOKEN": [...], ... } }
+      var jobs = data.cleaners && data.cleaners[token];
 
-      if (!cleanerJobs) {
-        // Try case-insensitive match
-        var found = Object.keys(data.cleaners||{}).find(function(k){ return k.toLowerCase()===key; });
-        if (found) cleanerJobs = data.cleaners[found];
-      }
-
-      // Capitalise name for display
-      var displayName = cleanerParam.charAt(0).toUpperCase() + cleanerParam.slice(1);
-
-      if (!cleanerJobs || !cleanerJobs.length) {
-        document.getElementById('hbadge').textContent = data.week || 'This Week';
-        showNoJobs(displayName, data.week);
+      if (!jobs) {
+        // Token not found — could be expired/regenerated or wrong link
+        showError('Link not recognised','This link may have expired or been updated.<br>Ask your manager for your current schedule link.');
         return;
       }
 
-      renderSchedule(displayName, data.week, data.updated, cleanerJobs);
+      if (!jobs.length) {
+        var name = data.names && data.names[token] ? data.names[token] : 'You';
+        document.getElementById('hbadge').textContent = data.week || 'This Week';
+        showNoJobs(name, data.week);
+        return;
+      }
+
+      // Name is stored alongside schedules so the viewer can display it
+      var displayName = (data.names && data.names[token]) ? data.names[token] : 'Your Schedule';
+      renderSchedule(displayName, data.week, data.updated, jobs);
     })
     .catch(function(e){
       showError('Could not load schedule','Unable to fetch schedule data.<br>Try refreshing in a moment, or contact your manager.<br><small style="font-family:monospace;font-size:.75rem;opacity:.6">'+e.message+'</small>');
@@ -138,7 +145,6 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
     var html = '';
 
-    // Profile card
     html += '<div class="profile-card">';
     html += '<div class="avatar">'+ini(name)+'</div>';
     html += '<div><div class="pname">'+esc(name)+'</div>';
@@ -152,25 +158,31 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
     days.forEach(function(day){
       var dJobs = byDay[day];
-      var dateStr = dJobs[0]&&dJobs[0].date ? dJobs[0].date : '';
+      var dateStr = dJobs[0] && dJobs[0].date ? dJobs[0].date : '';
       html += '<div class="day-group">';
       html += '<div class="day-header"><span class="day-name">'+day+'</span>';
       if (dateStr) html += '<span class="day-date">'+esc(dateStr)+'</span>';
       html += '</div>';
+
       dJobs.forEach(function(j){
-        var mapUrl = j.address ? 'https://maps.google.com/?q='+encodeURIComponent(j.address) : '';
         html += '<div class="job-card"><div class="job-accent"></div><div class="job-body">';
         html += '<div class="job-customer">'+esc(j.customer)+'</div>';
-        if (j.address) html += '<div class="job-address">'+esc(j.address)+'</div>';
-        if (mapUrl) html += '<a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>Open in Maps</a>';
+        if (j.address) {
+          var mapUrl = 'https://maps.google.com/?q='+encodeURIComponent(j.address);
+          html += '<div class="job-address"><a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener">';
+          html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="13" height="13"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
+          html += esc(j.address)+'</a></div>';
+        }
+        //if (j.phone) html += '<div class="job-phone"><a href="tel:'+esc(j.phone)+'">'+esc(j.phone)+'</a></div>';
+        if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
         html += '<div class="divider"></div><div class="pills">';
         if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
         if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
-        if (j.team) html += '<span class="pill p-def">'+esc(j.team)+'</span>';
         if (j.price)   html += '<span class="pill p-price">$'+esc(String(j.price))+'</span>';
         if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
         html += '</div></div></div>';
       });
+
       html += '</div>';
     });
 
@@ -179,13 +191,15 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
   function showNoJobs(name, week) {
     document.getElementById('app').innerHTML =
-      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div><div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
-      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2><p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
+      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div>'+
+      '<div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
+      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2>'+
+      '<p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
   }
 
   function showError(title, msg) {
     document.getElementById('app').innerHTML =
-      '<div class="state"><div class="state-icon">📋</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
+      '<div class="state"><div class="state-icon">🔒</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
   }
 })();
 </script>
