@@ -1,6 +1,6 @@
 {
   "week": "May 31 – Jun 6, 2026",
-  "updated": "Wed, Jun 3, 10:39 PM",
+  "updated": "Thu, Jun 4, 8:59 PM",
   "cleaners": {
     "tish": [
       {
@@ -52,31 +52,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-04",
-        "customer": "Lokesh Paliwal",
-        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
-        "phone": "425-922-7848",
+        "customer": "Kamal Shah",
+        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
+        "phone": "201-396-3838",
         "package": "Premium Biweekly",
-        "time": "<b>2026-06-04 01:00PM - 03:45PM PDT</b>",
-        "price": "318.00",
-        "payment": "None",
-        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Tish/Loreina",
-        "id": 14106003
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-04",
-        "customer": "Hwan Ja Perreault",
-        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-669-1959",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-04 09:00AM - 11:30AM PDT</b>",
-        "price": "403.01",
-        "payment": "None",
-        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Tish/Loreina",
-        "id": 13516157
+        "time": "<b>2026-06-04 09:00AM - 11:15AM PDT</b>",
+        "price": "311.50",
+        "payment": "Automatic Credit Card",
+        "notes": " | Physical key",
+        "team": "Tish",
+        "id": 13678157
       },
       {
         "day": "Fri",
@@ -99,16 +84,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-04",
-        "customer": "Kamal Shah",
-        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
-        "phone": "201-396-3838",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
         "package": "Premium Biweekly",
-        "time": "<b>2026-06-04 09:00AM - 11:15AM PDT</b>",
-        "price": "311.50",
-        "payment": "None",
-        "notes": " | Physical key",
+        "time": "<b>2026-06-04 01:00PM - 03:45PM PDT</b>",
+        "price": "318.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Vance/Malien",
-        "id": 13678157
+        "id": 14106003
       },
       {
         "day": "Fri",
@@ -206,16 +191,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-04",
-        "customer": "Kamal Shah",
-        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
-        "phone": "201-396-3838",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
         "package": "Premium Biweekly",
-        "time": "<b>2026-06-04 09:00AM - 11:15AM PDT</b>",
-        "price": "311.50",
-        "payment": "None",
-        "notes": " | Physical key",
+        "time": "<b>2026-06-04 01:00PM - 03:45PM PDT</b>",
+        "price": "318.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Vance/Malien",
-        "id": 13678157
+        "id": 14106003
       },
       {
         "day": "Fri",
@@ -231,53 +216,6 @@
         "notes": "",
         "team": "Vance/Malien",
         "id": 14171478
-      }
-    ],
-    "loreina": [
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-04",
-        "customer": "Lokesh Paliwal",
-        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
-        "phone": "425-922-7848",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-04 01:00PM - 03:45PM PDT</b>",
-        "price": "318.00",
-        "payment": "None",
-        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Tish/Loreina",
-        "id": 14106003
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-04",
-        "customer": "Hwan Ja Perreault",
-        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-669-1959",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-04 09:00AM - 11:30AM PDT</b>",
-        "price": "403.01",
-        "payment": "None",
-        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Tish/Loreina",
-        "id": 13516157
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-06-05",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "425-444-1961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-05 09:30AM - 11:15AM PDT</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Loreina",
-        "id": 13566220
       }
     ],
     "megan": [
@@ -475,7 +413,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-06-04 01:30PM - 02:30PM PDT</b>",
         "price": "273.41",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Use buzzer box to call owner 460, then key will be under mat in front of door&nbsp;</p>",
         "team": "Nick",
         "id": 12669752
@@ -490,11 +428,28 @@
         "package": "Premium Weekly",
         "time": "<b>2026-06-04 09:30AM - 12:00PM PDT</b>",
         "price": "313.60",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick",
         "id": 13523371
       },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-06-05",
+        "customer": "Becky Gilberg",
+        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
+        "phone": "425-444-1961",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-05 09:30AM - 11:15AM PDT</b>",
+        "price": "372.08",
+        "payment": "None",
+        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
+        "team": "Nick/Loreina",
+        "id": 13566220
+      }
+    ],
+    "loreina": [
       {
         "day": "Fri",
         "dayNum": 5,
