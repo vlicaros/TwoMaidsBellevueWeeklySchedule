@@ -165,7 +165,7 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
         if (j.address) html += '<div class="job-address">'+esc(j.address)+'</div>';
         if (mapUrl) html += '<a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>Open in Maps</a>';
         html += '<div class="divider"></div><div class="pills">';
-        if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
+        if (j.notes) html += '<div class="job-notes p-def">'+esc(j.notes)+'</div>';
         if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
         if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
         if (j.team) html += '<span class="pill p-def">'+esc(j.team)+'</span>';
