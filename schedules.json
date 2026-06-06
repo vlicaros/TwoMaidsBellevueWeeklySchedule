@@ -1,6 +1,6 @@
 {
   "week": "Jun 7 – Jun 13, 2026",
-  "updated": "Sat, Jun 6, 12:15 PM",
+  "updated": "Sat, Jun 6, 12:29 PM",
   "cleaners": {
     "megan": [
       {
@@ -47,6 +47,21 @@
         "notes": "<p>There's street parking. Please call the client once you get there, and he will guide you to the apartment unit.&nbsp;</p><p>This will be a move-in/out clean. They recently got it cleaned after someone had moved out, but is not happy with the result. Need a re-clean of the whole place.&nbsp;</p>",
         "team": "Megan/Malien",
         "id": 14198336
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-09",
+        "customer": "Erica Dewater",
+        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
+        "phone": "206-310-8753",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-09 01:00PM - 04:00PM PDT</b>",
+        "price": "269.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Megan/Malien",
+        "id": 13891054
       },
       {
         "day": "Wed",
@@ -171,6 +186,21 @@
         "id": 14198336
       },
       {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-09",
+        "customer": "Erica Dewater",
+        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
+        "phone": "206-310-8753",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-09 01:00PM - 04:00PM PDT</b>",
+        "price": "269.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Megan/Malien",
+        "id": 13891054
+      },
+      {
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-06-10",
@@ -293,21 +323,6 @@
         "id": 13998008
       },
       {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-09",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-09 09:00AM - 12:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13891054
-      },
-      {
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-11",
@@ -351,23 +366,6 @@
         "notes": " | Please enter through the leasing office.&nbsp;",
         "team": "Nick/Malien",
         "id": 13800684
-      }
-    ],
-    "loreina": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-09",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-09 09:00AM - 12:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13891054
       }
     ],
     "tish": [
