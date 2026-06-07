@@ -1,7 +1,39 @@
 {
   "week": "Jun 7 – Jun 13, 2026",
-  "updated": "Sat, Jun 6, 12:29 PM",
+  "updated": "Sun, Jun 7, 11:35 AM",
   "cleaners": {
+    "vance": [
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-09",
+        "customer": "Erica Dewater",
+        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
+        "phone": "206-310-8753",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-09 01:00PM - 04:00PM PDT</b>",
+        "price": "269.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Vance/Megan",
+        "id": 13891054
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-09",
+        "customer": "Jag Thind",
+        "address": "14339 Stone Avenue NorthUnit A\n                                  Seattle, WA 98133",
+        "phone": "206-639-7474",
+        "package": "Move-In/Out",
+        "time": "<b>2026-06-09 09:00AM - 12:16PM PDT</b>",
+        "price": "486.00",
+        "payment": "None",
+        "notes": "<p>There's street parking. Please call the client once you get there, and he will guide you to the apartment unit.&nbsp;</p><p>This will be a move-in/out clean. They recently got it cleaned after someone had moved out, but is not happy with the result. Need a re-clean of the whole place.&nbsp;</p>",
+        "team": "Vance/Megan",
+        "id": 14198336
+      }
+    ],
     "megan": [
       {
         "day": "Mon",
@@ -37,21 +69,6 @@
         "day": "Tue",
         "dayNum": 2,
         "date": "2026-06-09",
-        "customer": "Jag Thind",
-        "address": "14339 Stone Avenue NorthUnit A\n                                  Seattle, WA 98133",
-        "phone": "206-639-7474",
-        "package": "Move-In/Out",
-        "time": "<b>2026-06-09 09:00AM - 12:16PM PDT</b>",
-        "price": "486.00",
-        "payment": "None",
-        "notes": "<p>There's street parking. Please call the client once you get there, and he will guide you to the apartment unit.&nbsp;</p><p>This will be a move-in/out clean. They recently got it cleaned after someone had moved out, but is not happy with the result. Need a re-clean of the whole place.&nbsp;</p>",
-        "team": "Megan/Malien",
-        "id": 14198336
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-09",
         "customer": "Erica Dewater",
         "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
         "phone": "206-310-8753",
@@ -60,8 +77,23 @@
         "price": "269.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Malien",
+        "team": "Vance/Megan",
         "id": 13891054
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-09",
+        "customer": "Jag Thind",
+        "address": "14339 Stone Avenue NorthUnit A\n                                  Seattle, WA 98133",
+        "phone": "206-639-7474",
+        "package": "Move-In/Out",
+        "time": "<b>2026-06-09 09:00AM - 12:16PM PDT</b>",
+        "price": "486.00",
+        "payment": "None",
+        "notes": "<p>There's street parking. Please call the client once you get there, and he will guide you to the apartment unit.&nbsp;</p><p>This will be a move-in/out clean. They recently got it cleaned after someone had moved out, but is not happy with the result. Need a re-clean of the whole place.&nbsp;</p>",
+        "team": "Vance/Megan",
+        "id": 14198336
       },
       {
         "day": "Wed",
@@ -139,6 +171,83 @@
         "id": 13758643
       }
     ],
+    "nick": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-08",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Adi Groysman - Monday Premium",
+        "time": "<b>2026-06-08 09:00AM - 12:00PM PDT</b>",
+        "price": "0.00",
+        "payment": "None",
+        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Nick/Tish",
+        "id": 13143866
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-08",
+        "customer": "Patricia Anders",
+        "address": "7512 134th Avenue Northeast\n                                  Redmond, WA 98052",
+        "phone": "425-890-8321",
+        "package": "Design With Time",
+        "time": "<b>2026-06-08 01:00PM - 04:00PM PDT</b>",
+        "price": "354.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Tish",
+        "id": 13998008
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-11",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-11 09:30AM - 12:00PM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick",
+        "id": 13523372
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-06-12",
+        "customer": "Patrick Dorion",
+        "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
+        "phone": "570-394-2530",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-12 02:00PM - 04:00PM PDT</b>",
+        "price": "313.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Malien",
+        "id": 13991878
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-06-12",
+        "customer": "Akshita Rao",
+        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
+        "phone": "206-566-3506",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-06-12 11:30AM - 12:15PM PDT</b>",
+        "price": "197.00",
+        "payment": "None",
+        "notes": " | Please enter through the leasing office.&nbsp;",
+        "team": "Nick/Malien",
+        "id": 13800684
+      }
+    ],
     "malien": [
       {
         "day": "Mon",
@@ -169,36 +278,6 @@
         "notes": "<p><b>Priority List (from top to bottom):</b></p><ul><li>Two full sized bathrooms including showers</li><li> Clean the kitchen (countertops, sink, stove top, inside microwave, outside appliances)</li><li> Clean outside of kitchen and bathroom cabinets</li><li> Vacuum the floors and rugs&nbsp;</li><li> Mop the floors</li><li> Dust horizontal surfaces, including window sills</li></ul><p><span style=\"background-color: rgb(255, 255, 0);\"> If time is left over: </span></p><ul><li>Clean the inside of the fridge</li><li> Clean bedroom fans </li><li>Clean doors</li><li> Clean interior living room windows</li></ul><div><br></div> | <p>Please call (512)-975-5662 to get access up to the apartment&nbsp;</p><p>Parking:&nbsp;There's parking lot in the front-side of the building. You can park in any parking spot that does not say reserved for the dental clinic, eye clinic, or Primrose school. Towards the trash bins, there is a small row of parking as well, where some of the spots says guest parking, you can park there too. Worst-case scenario, if you are unable to find a spot without a reserved spot, you are also allowed to park in the \"future resident\" spot.</p>",
         "team": "Megan/Malien",
         "id": 14185290
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-09",
-        "customer": "Jag Thind",
-        "address": "14339 Stone Avenue NorthUnit A\n                                  Seattle, WA 98133",
-        "phone": "206-639-7474",
-        "package": "Move-In/Out",
-        "time": "<b>2026-06-09 09:00AM - 12:16PM PDT</b>",
-        "price": "486.00",
-        "payment": "None",
-        "notes": "<p>There's street parking. Please call the client once you get there, and he will guide you to the apartment unit.&nbsp;</p><p>This will be a move-in/out clean. They recently got it cleaned after someone had moved out, but is not happy with the result. Need a re-clean of the whole place.&nbsp;</p>",
-        "team": "Megan/Malien",
-        "id": 14198336
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-09",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-09 01:00PM - 04:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Malien",
-        "id": 13891054
       },
       {
         "day": "Wed",
@@ -259,83 +338,6 @@
         "notes": " | The clients want only women to clean their place. Make sure to send Tish/Megan every time.&nbsp;",
         "team": "Tish/Malien",
         "id": 13490191
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-06-12",
-        "customer": "Patrick Dorion",
-        "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
-        "phone": "570-394-2530",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-12 02:00PM - 04:00PM PDT</b>",
-        "price": "313.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Malien",
-        "id": 13991878
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-06-12",
-        "customer": "Akshita Rao",
-        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
-        "phone": "206-566-3506",
-        "package": "Touch-Up Biweekly",
-        "time": "<b>2026-06-12 11:30AM - 12:15PM PDT</b>",
-        "price": "197.00",
-        "payment": "None",
-        "notes": " | Please enter through the leasing office.&nbsp;",
-        "team": "Nick/Malien",
-        "id": 13800684
-      }
-    ],
-    "nick": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-08",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Adi Groysman - Monday Premium",
-        "time": "<b>2026-06-08 09:00AM - 12:00PM PDT</b>",
-        "price": "0.00",
-        "payment": "None",
-        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Nick/Tish",
-        "id": 13143866
-      },
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-08",
-        "customer": "Patricia Anders",
-        "address": "7512 134th Avenue Northeast\n                                  Redmond, WA 98052",
-        "phone": "425-890-8321",
-        "package": "Design With Time",
-        "time": "<b>2026-06-08 01:00PM - 04:00PM PDT</b>",
-        "price": "354.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Tish",
-        "id": 13998008
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-11",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-11 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick",
-        "id": 13523372
       },
       {
         "day": "Fri",
