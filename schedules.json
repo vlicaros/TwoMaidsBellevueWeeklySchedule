@@ -1,6 +1,6 @@
 {
   "week": "Jun 7 – Jun 13, 2026",
-  "updated": "Mon, Jun 8, 2:14 PM",
+  "updated": "Mon, Jun 8, 4:07 PM",
   "cleaners": {
     "megan": [
       {
@@ -171,21 +171,6 @@
         "id": 14193930
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-11",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-11 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523372
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-06-12",
@@ -242,7 +227,7 @@
         "package": "Design With Time",
         "time": "<b>2026-06-08 01:00PM - 04:00PM PDT</b>",
         "price": "354.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Tish",
         "id": 13998008
@@ -319,7 +304,7 @@
         "package": "Design With Time",
         "time": "<b>2026-06-08 01:00PM - 04:00PM PDT</b>",
         "price": "354.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Tish",
         "id": 13998008
@@ -351,7 +336,7 @@
         "price": "313.60",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Loreina",
+        "team": "Nick",
         "id": 13523372
       },
       {
