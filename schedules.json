@@ -1,6 +1,6 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Sun, Jun 14, 12:39 PM",
+  "updated": "Sun, Jun 14, 12:46 PM",
   "cleaners": {
     "megan": [
       {
@@ -174,6 +174,21 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-18",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
+        "price": "450.06",
+        "payment": "None",
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Malien",
+        "id": 13514522
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
         "customer": "Katherine Russell",
         "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
         "phone": "971-484-3104",
@@ -184,21 +199,6 @@
         "notes": "",
         "team": "Tish/Malien",
         "id": 14220181
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-18 01:00PM - 04:15PM PDT</b>",
-        "price": "450.06",
-        "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Malien",
-        "id": 13514522
       },
       {
         "day": "Fri",
@@ -370,38 +370,6 @@
         "id": 12531793
       }
     ],
-    "andrew": [
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-06-18 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514118
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Monthly Advancement Office",
-        "time": "<b>2026-06-18 07:00PM - 09:30PM PDT</b>",
-        "price": "347.26",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514224
-      }
-    ],
     "tish": [
       {
         "day": "Mon",
@@ -437,6 +405,21 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-18",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
+        "price": "450.06",
+        "payment": "None",
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Malien",
+        "id": 13514522
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
         "customer": "Katherine Russell",
         "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
         "phone": "971-484-3104",
@@ -447,21 +430,38 @@
         "notes": "",
         "team": "Tish/Malien",
         "id": 14220181
+      }
+    ],
+    "andrew": [
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-06-18 06:00PM - 07:25PM PDT</b>",
+        "price": "173.64",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan/Andrew",
+        "id": 13514118
       },
       {
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-18",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-18 01:00PM - 04:15PM PDT</b>",
-        "price": "450.06",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Monthly Advancement Office",
+        "time": "<b>2026-06-18 07:00PM - 09:30PM PDT</b>",
+        "price": "347.26",
         "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Malien",
-        "id": 13514522
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan/Andrew",
+        "id": 13514224
       }
     ]
   }
