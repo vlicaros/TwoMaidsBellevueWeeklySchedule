@@ -1,6 +1,6 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Sun, Jun 14, 12:46 PM",
+  "updated": "Sun, Jun 14, 2:14 PM",
   "cleaners": {
     "megan": [
       {
@@ -171,36 +171,6 @@
         "id": 14106004
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
-        "price": "450.06",
-        "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Malien",
-        "id": 13514522
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Katherine Russell",
-        "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
-        "phone": "971-484-3104",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-18 08:30AM - 10:05AM PDT</b>",
-        "price": "241.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Tish/Malien",
-        "id": 14220181
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-06-19",
@@ -368,6 +338,36 @@
         "notes": " | <p>3 level home looking to focus on the top two levels</p><p>Set as Monthly but they want Bi-Monthly so there may have to be some scheduling confirmation</p>",
         "team": "Nick/Loreina",
         "id": 12531793
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
+        "price": "450.06",
+        "payment": "None",
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Loreina",
+        "id": 13514522
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
+        "customer": "Katherine Russell",
+        "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
+        "phone": "971-484-3104",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-18 08:30AM - 10:05AM PDT</b>",
+        "price": "241.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Loreina",
+        "id": 14220181
       }
     ],
     "tish": [
@@ -413,7 +413,7 @@
         "price": "450.06",
         "payment": "None",
         "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Malien",
+        "team": "Tish/Loreina",
         "id": 13514522
       },
       {
@@ -428,7 +428,7 @@
         "price": "241.00",
         "payment": "None",
         "notes": "",
-        "team": "Tish/Malien",
+        "team": "Tish/Loreina",
         "id": 14220181
       }
     ],
