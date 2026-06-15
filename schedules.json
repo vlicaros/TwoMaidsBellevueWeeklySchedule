@@ -1,6 +1,6 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Sun, Jun 14, 2:14 PM",
+  "updated": "Sun, Jun 14, 5:11 PM",
   "cleaners": {
     "megan": [
       {
@@ -30,7 +30,7 @@
         "price": "0.00",
         "payment": "None",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Megan/Malien",
+        "team": "Megan/Loreina",
         "id": 14211462
       },
       {
@@ -141,21 +141,6 @@
     ],
     "malien": [
       {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-15",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Adi Groysman - Monday Premium",
-        "time": "<b>2026-06-15 09:00AM - 11:00AM PDT</b>",
-        "price": "0.00",
-        "payment": "None",
-        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Megan/Malien",
-        "id": 14211462
-      },
-      {
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-06-17",
@@ -201,6 +186,21 @@
         "notes": "",
         "team": "Nick/Tish",
         "id": 13523269
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-15",
+        "customer": "Victoria Liu",
+        "address": "10700 Northeast 4th Street2002\n                                  Bellevue, WA 98004",
+        "phone": "425-770-1316",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-06-15 08:30AM - 10:00AM PDT</b>",
+        "price": "194.00",
+        "payment": "None",
+        "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
+        "team": "Nick/Tish",
+        "id": 13823567
       },
       {
         "day": "Wed",
@@ -268,16 +268,16 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-06-15",
-        "customer": "Victoria Liu",
-        "address": "10700 Northeast 4th Street2002\n                                  Bellevue, WA 98004",
-        "phone": "425-770-1316",
-        "package": "Touch-Up Biweekly",
-        "time": "<b>2026-06-15 08:30AM - 10:00AM PDT</b>",
-        "price": "194.00",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Adi Groysman - Monday Premium",
+        "time": "<b>2026-06-15 09:00AM - 11:00AM PDT</b>",
+        "price": "0.00",
         "payment": "None",
-        "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
-        "team": "Tish/Loreina",
-        "id": 13823567
+        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Megan/Loreina",
+        "id": 14211462
       },
       {
         "day": "Tue",
@@ -350,7 +350,7 @@
         "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
         "price": "450.06",
         "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "notes": "<p>This week please clean the outdoor sink adjacent to the kitchen sink. Cheryan would like to do some grilling when he is back.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
         "team": "Tish/Loreina",
         "id": 13514522
       },
@@ -398,7 +398,7 @@
         "price": "194.00",
         "payment": "None",
         "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
-        "team": "Tish/Loreina",
+        "team": "Nick/Tish",
         "id": 13823567
       },
       {
@@ -412,7 +412,7 @@
         "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
         "price": "450.06",
         "payment": "None",
-        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p>",
+        "notes": "<p>This week please clean the outdoor sink adjacent to the kitchen sink. Cheryan would like to do some grilling when he is back.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
         "team": "Tish/Loreina",
         "id": 13514522
       },
