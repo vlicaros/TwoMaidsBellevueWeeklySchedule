@@ -1,6 +1,6 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Sun, Jun 14, 5:11 PM",
+  "updated": "Sun, Jun 14, 10:45 PM",
   "cleaners": {
     "megan": [
       {
@@ -79,6 +79,21 @@
         "id": 14106004
       },
       {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Daniel Cloran",
+        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
+        "phone": "317-522-6854",
+        "package": "Design With Time",
+        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
+        "price": "318.55",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Megan/Malien",
+        "id": 14260410
+      },
+      {
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-06-18",
@@ -154,6 +169,21 @@
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Megan/Malien",
         "id": 14106004
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Daniel Cloran",
+        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
+        "phone": "317-522-6854",
+        "package": "Design With Time",
+        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
+        "price": "318.55",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Megan/Malien",
+        "id": 14260410
       },
       {
         "day": "Fri",
