@@ -1,23 +1,8 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Sun, Jun 14, 10:45 PM",
+  "updated": "Mon, Jun 15, 6:05 PM",
   "cleaners": {
     "megan": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-15",
-        "customer": "Leighann Subuh",
-        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
-        "phone": "817-807-8089",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-15 01:00PM - 02:15PM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
-        "team": "Megan/Loreina",
-        "id": 14123852
-      },
       {
         "day": "Mon",
         "dayNum": 1,
@@ -28,10 +13,25 @@
         "package": "Adi Groysman - Monday Premium",
         "time": "<b>2026-06-15 09:00AM - 11:00AM PDT</b>",
         "price": "0.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Megan/Loreina",
         "id": 14211462
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-15",
+        "customer": "Leighann Subuh",
+        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
+        "phone": "817-807-8089",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-15 01:00PM - 02:15PM PDT</b>",
+        "price": "246.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
+        "team": "Megan/Loreina",
+        "id": 14123852
       },
       {
         "day": "Tue",
@@ -41,12 +41,12 @@
         "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
         "phone": "203-907-5985",
         "package": "Premium Biweekly",
-        "time": "<b>2026-06-16 09:30AM - 11:30AM PDT</b>",
+        "time": "<b>2026-06-16 09:30AM - 10:45AM PDT</b>",
         "price": "219.00",
         "payment": "None",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
         "team": "Megan/Loreina",
-        "id": 14258089
+        "id": 14265660
       },
       {
         "day": "Tue",
@@ -75,23 +75,8 @@
         "price": "318.00",
         "payment": "None",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Malien",
+        "team": "Megan/Loreina",
         "id": 14106004
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
-        "customer": "Daniel Cloran",
-        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
-        "phone": "317-522-6854",
-        "package": "Design With Time",
-        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
-        "price": "318.55",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Megan/Malien",
-        "id": 14260410
       },
       {
         "day": "Thu",
@@ -154,7 +139,67 @@
         "id": 13730411
       }
     ],
-    "malien": [
+    "loreina": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-15",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Adi Groysman - Monday Premium",
+        "time": "<b>2026-06-15 09:00AM - 11:00AM PDT</b>",
+        "price": "0.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Megan/Loreina",
+        "id": 14211462
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-15",
+        "customer": "Leighann Subuh",
+        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
+        "phone": "817-807-8089",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-15 01:00PM - 02:15PM PDT</b>",
+        "price": "246.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
+        "team": "Megan/Loreina",
+        "id": 14123852
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-16",
+        "customer": "David Bastien",
+        "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
+        "phone": "203-907-5985",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-16 09:30AM - 10:45AM PDT</b>",
+        "price": "219.00",
+        "payment": "None",
+        "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
+        "team": "Megan/Loreina",
+        "id": 14265660
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-16",
+        "customer": "Stacey Modica",
+        "address": "4541 168th Avenue Southeast\n                                  Bellevue, WA 98006",
+        "phone": "206-595-1737",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-16 12:00PM - 03:00PM PDT</b>",
+        "price": "299.00",
+        "payment": "None",
+        "notes": "<p>4 window tracks</p><p>Living room -2 sets of windows</p><p>Dining room - 1 set of windows</p><p>Kitchen - 1 set of windows</p> | \r\n\r\n\r\n\r\n<p class=\"p1\"><b>Client Notes:</b></p>\r\n\r\n<p class=\"p3\">Client would like a very detail-oriented cleaning every visit. Please pay close attention to corners, baseboards, trim, windows, and blinds, as these are important areas for her and should be cleaned each time.</p>\r\n\r\n<p class=\"p4\"><b>Master Bedroom</b></p>\r\n\r\n<ul><li><span class=\"s1\">NO bedsheet changes, just make the bed</span></li><li><span class=\"s1\">Regular dusting and spot cleaning.</span></li><li><span class=\"s1\">High and low dusting.</span></li></ul><p><b>Additional bedrooms</b></p><ul><li>Office: just need quick dust and vacuum, in Sept we won't need to do</li><li>Guest Room: doesn't get used often quick dust check and vacuum.</li></ul>\r\n\r\n<p class=\"p4\"><b>Bathrooms (2)</b></p>\r\n\r\n<ul><li><span class=\"s1\">Deep clean both bathrooms every visit.</span></li><li><span class=\"s1\">Please pay special attention to corners, edges, and detailed areas.</span></li><li><span class=\"s1\">Client uses a wheelchair, so it is difficult for her to clean these areas herself. Attention to detail in the bathrooms is especially important.</span></li><li><span class=\"s1\">toilet has raiser which can be unplugged and moved out of the way.</span></li><li><span class=\"s1\">doesn't use bath rugs since it gets caught in the wheelchair, so towels on the floor just need to be shaken and folded and placed on the side.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Kitchen</b></p><ul><li><span class=\"s1\">Focus on detailed cleaning, not just surface cleaning.</span></li><li><span class=\"s1\">Remember to check Kitchen window</span></li><li><span class=\"s1\">Garbage is in one of the closets in the kitchen need to wipe the ledge.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Studio&nbsp;</b></p>\r\n\r\n<ul><li><span class=\"s1\">Do your best to dust thoroughly, as there are a lot of items in this area.</span></li><li><span class=\"s1\">Focus on corners, baseboards, and detailed dusting around furniture and belongings.</span></li><li>French doors need spot checking (there's two sets)</li><li>there's additional microwave and air fryer that need to be wiped down.</li></ul><p><b>Living Room</b></p><ul><li>Fireplace may have a lot of wood chips etc but just try your best. if possible dust off fireplace</li></ul><p><b>Laundry Room</b></p><ul><li>dust as much as possible but don't need to fold clothes at all</li></ul>",
+        "team": "Megan/Loreina",
+        "id": 14232855
+      },
       {
         "day": "Wed",
         "dayNum": 3,
@@ -167,8 +212,38 @@
         "price": "318.00",
         "payment": "None",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Malien",
+        "team": "Megan/Loreina",
         "id": 14106004
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Mary Jane Yamada",
+        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
+        "phone": "865-368-2157",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-17 02:00PM - 03:15PM PDT</b>",
+        "price": "295.20",
+        "payment": "None",
+        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
+        "team": "Nick/Loreina",
+        "id": 13913835
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Allison Juhasz",
+        "address": "9507 Southeast 61st Place\n                                  Mercer Island, WA 98040",
+        "phone": "916-747-7956",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-17 09:00AM - 12:00PM PDT</b>",
+        "price": "469.47",
+        "payment": "None",
+        "notes": " | <p>3 level home looking to focus on the top two levels</p><p>Set as Monthly but they want Bi-Monthly so there may have to be some scheduling confirmation</p>",
+        "team": "Nick/Loreina",
+        "id": 12531793
       },
       {
         "day": "Wed",
@@ -182,23 +257,38 @@
         "price": "318.55",
         "payment": "Automatic Credit Card",
         "notes": "",
-        "team": "Megan/Malien",
+        "team": "Loreina/Vance",
         "id": 14260410
       },
       {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-06-19",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Touch-Up Weekly",
-        "time": "<b>2026-06-19 09:30AM - 11:45AM PDT</b>",
-        "price": "330.00",
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
+        "price": "450.06",
         "payment": "None",
-        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Megan/Malien",
-        "id": 13730411
+        "notes": "<p>This week please clean the outdoor sink adjacent to the kitchen sink. Cheryan would like to do some grilling when he is back.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Loreina",
+        "id": 13514522
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-18",
+        "customer": "Katherine Russell",
+        "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
+        "phone": "971-484-3104",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-18 08:30AM - 10:05AM PDT</b>",
+        "price": "241.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Loreina",
+        "id": 14220181
       }
     ],
     "nick": [
@@ -212,7 +302,7 @@
         "package": "Premium Weekly",
         "time": "<b>2026-06-15 11:00AM - 01:30PM PDT</b>",
         "price": "313.60",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Tish",
         "id": 13523269
@@ -227,7 +317,7 @@
         "package": "Touch-Up Biweekly",
         "time": "<b>2026-06-15 08:30AM - 10:00AM PDT</b>",
         "price": "194.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
         "team": "Nick/Tish",
         "id": 13823567
@@ -278,126 +368,21 @@
         "id": 13523373
       }
     ],
-    "loreina": [
+    "malien": [
       {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-15",
-        "customer": "Leighann Subuh",
-        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
-        "phone": "817-807-8089",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-15 01:00PM - 02:15PM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
-        "team": "Megan/Loreina",
-        "id": 14123852
-      },
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-15",
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-06-19",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
-        "package": "Adi Groysman - Monday Premium",
-        "time": "<b>2026-06-15 09:00AM - 11:00AM PDT</b>",
-        "price": "0.00",
+        "package": "Touch-Up Weekly",
+        "time": "<b>2026-06-19 09:30AM - 11:45AM PDT</b>",
+        "price": "330.00",
         "payment": "None",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Megan/Loreina",
-        "id": 14211462
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-16",
-        "customer": "David Bastien",
-        "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
-        "phone": "203-907-5985",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-16 09:30AM - 11:30AM PDT</b>",
-        "price": "219.00",
-        "payment": "None",
-        "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
-        "team": "Megan/Loreina",
-        "id": 14258089
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-16",
-        "customer": "Stacey Modica",
-        "address": "4541 168th Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "206-595-1737",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-16 12:00PM - 03:00PM PDT</b>",
-        "price": "299.00",
-        "payment": "None",
-        "notes": "<p>4 window tracks</p><p>Living room -2 sets of windows</p><p>Dining room - 1 set of windows</p><p>Kitchen - 1 set of windows</p> | \r\n\r\n\r\n\r\n<p class=\"p1\"><b>Client Notes:</b></p>\r\n\r\n<p class=\"p3\">Client would like a very detail-oriented cleaning every visit. Please pay close attention to corners, baseboards, trim, windows, and blinds, as these are important areas for her and should be cleaned each time.</p>\r\n\r\n<p class=\"p4\"><b>Master Bedroom</b></p>\r\n\r\n<ul><li><span class=\"s1\">NO bedsheet changes, just make the bed</span></li><li><span class=\"s1\">Regular dusting and spot cleaning.</span></li><li><span class=\"s1\">High and low dusting.</span></li></ul><p><b>Additional bedrooms</b></p><ul><li>Office: just need quick dust and vacuum, in Sept we won't need to do</li><li>Guest Room: doesn't get used often quick dust check and vacuum.</li></ul>\r\n\r\n<p class=\"p4\"><b>Bathrooms (2)</b></p>\r\n\r\n<ul><li><span class=\"s1\">Deep clean both bathrooms every visit.</span></li><li><span class=\"s1\">Please pay special attention to corners, edges, and detailed areas.</span></li><li><span class=\"s1\">Client uses a wheelchair, so it is difficult for her to clean these areas herself. Attention to detail in the bathrooms is especially important.</span></li><li><span class=\"s1\">toilet has raiser which can be unplugged and moved out of the way.</span></li><li><span class=\"s1\">doesn't use bath rugs since it gets caught in the wheelchair, so towels on the floor just need to be shaken and folded and placed on the side.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Kitchen</b></p><ul><li><span class=\"s1\">Focus on detailed cleaning, not just surface cleaning.</span></li><li><span class=\"s1\">Remember to check Kitchen window</span></li><li><span class=\"s1\">Garbage is in one of the closets in the kitchen need to wipe the ledge.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Studio&nbsp;</b></p>\r\n\r\n<ul><li><span class=\"s1\">Do your best to dust thoroughly, as there are a lot of items in this area.</span></li><li><span class=\"s1\">Focus on corners, baseboards, and detailed dusting around furniture and belongings.</span></li><li>French doors need spot checking (there's two sets)</li><li>there's additional microwave and air fryer that need to be wiped down.</li></ul><p><b>Living Room</b></p><ul><li>Fireplace may have a lot of wood chips etc but just try your best. if possible dust off fireplace</li></ul><p><b>Laundry Room</b></p><ul><li>dust as much as possible but don't need to fold clothes at all</li></ul>",
-        "team": "Megan/Loreina",
-        "id": 14232855
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
-        "customer": "Mary Jane Yamada",
-        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
-        "phone": "865-368-2157",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-17 02:00PM - 03:15PM PDT</b>",
-        "price": "295.20",
-        "payment": "None",
-        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Nick/Loreina",
-        "id": 13913835
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
-        "customer": "Allison Juhasz",
-        "address": "9507 Southeast 61st Place\n                                  Mercer Island, WA 98040",
-        "phone": "916-747-7956",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-17 09:00AM - 12:00PM PDT</b>",
-        "price": "469.47",
-        "payment": "None",
-        "notes": " | <p>3 level home looking to focus on the top two levels</p><p>Set as Monthly but they want Bi-Monthly so there may have to be some scheduling confirmation</p>",
-        "team": "Nick/Loreina",
-        "id": 12531793
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-18 11:30AM - 02:45PM PDT</b>",
-        "price": "450.06",
-        "payment": "None",
-        "notes": "<p>This week please clean the outdoor sink adjacent to the kitchen sink. Cheryan would like to do some grilling when he is back.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish/Loreina",
-        "id": 13514522
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-18",
-        "customer": "Katherine Russell",
-        "address": "15440 Northeast 13th Place1408\n                                  Bellevue, WA 98007",
-        "phone": "971-484-3104",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-18 08:30AM - 10:05AM PDT</b>",
-        "price": "241.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Tish/Loreina",
-        "id": 14220181
+        "team": "Megan/Malien",
+        "id": 13730411
       }
     ],
     "tish": [
@@ -411,7 +396,7 @@
         "package": "Premium Weekly",
         "time": "<b>2026-06-15 11:00AM - 01:30PM PDT</b>",
         "price": "313.60",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Tish",
         "id": 13523269
@@ -426,7 +411,7 @@
         "package": "Touch-Up Biweekly",
         "time": "<b>2026-06-15 08:30AM - 10:00AM PDT</b>",
         "price": "194.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
         "team": "Nick/Tish",
         "id": 13823567
@@ -492,6 +477,23 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan/Andrew",
         "id": 13514224
+      }
+    ],
+    "vance": [
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Daniel Cloran",
+        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
+        "phone": "317-522-6854",
+        "package": "Design With Time",
+        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
+        "price": "318.55",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Loreina/Vance",
+        "id": 14260410
       }
     ]
   }
