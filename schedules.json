@@ -1,6 +1,6 @@
 {
   "week": "Jun 14 – Jun 20, 2026",
-  "updated": "Mon, Jun 15, 6:05 PM",
+  "updated": "Mon, Jun 15, 6:08 PM",
   "cleaners": {
     "megan": [
       {
@@ -75,8 +75,23 @@
         "price": "318.00",
         "payment": "None",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Loreina",
+        "team": "Vance/Megan",
         "id": 14106004
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Daniel Cloran",
+        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
+        "phone": "317-522-6854",
+        "package": "Design With Time",
+        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
+        "price": "318.55",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Megan",
+        "id": 14260410
       },
       {
         "day": "Thu",
@@ -204,21 +219,6 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-06-17",
-        "customer": "Lokesh Paliwal",
-        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
-        "phone": "425-922-7848",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-17 12:30PM - 03:15PM PDT</b>",
-        "price": "318.00",
-        "payment": "None",
-        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Loreina",
-        "id": 14106004
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
         "customer": "Mary Jane Yamada",
         "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
         "phone": "865-368-2157",
@@ -244,21 +244,6 @@
         "notes": " | <p>3 level home looking to focus on the top two levels</p><p>Set as Monthly but they want Bi-Monthly so there may have to be some scheduling confirmation</p>",
         "team": "Nick/Loreina",
         "id": 12531793
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
-        "customer": "Daniel Cloran",
-        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
-        "phone": "317-522-6854",
-        "package": "Design With Time",
-        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
-        "price": "318.55",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Loreina/Vance",
-        "id": 14260410
       },
       {
         "day": "Thu",
@@ -289,6 +274,38 @@
         "notes": "",
         "team": "Tish/Loreina",
         "id": 14220181
+      }
+    ],
+    "vance": [
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-17 12:30PM - 03:15PM PDT</b>",
+        "price": "318.00",
+        "payment": "None",
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
+        "team": "Vance/Megan",
+        "id": 14106004
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-17",
+        "customer": "Daniel Cloran",
+        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
+        "phone": "317-522-6854",
+        "package": "Design With Time",
+        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
+        "price": "318.55",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Megan",
+        "id": 14260410
       }
     ],
     "nick": [
@@ -477,23 +494,6 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan/Andrew",
         "id": 13514224
-      }
-    ],
-    "vance": [
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-17",
-        "customer": "Daniel Cloran",
-        "address": "6268 137th Place Northeast249\n                                  Redmond, WA 98052",
-        "phone": "317-522-6854",
-        "package": "Design With Time",
-        "time": "<b>2026-06-17 09:00AM - 11:00AM PDT</b>",
-        "price": "318.55",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Loreina/Vance",
-        "id": 14260410
       }
     ]
   }
