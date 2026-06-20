@@ -78,50 +78,55 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 <script>
 (function(){
   var DAY_ORDER = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+
   function ini(n){ return n.split(/[\/\s]+/).filter(Boolean).map(function(w){return w[0];}).join('').toUpperCase().slice(0,2); }
   function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
+  // Read ?cleaner=name from URL
   var params = new URLSearchParams(location.search);
+  var cleanerParam = (params.get('cleaner')||'').trim().toLowerCase();
 
-  // New: token-based auth (?t=TOKEN)
-  // Token is a 32-char hex string generated per cleaner in the admin tool.
-  // If someone shares the link without the token, they see nothing.
-  var token = (params.get('t')||'').trim();
-
-  if (!token) {
-    showError('Access required','This link is incomplete. Ask your manager for your personal schedule link.');
+  if (!cleanerParam) {
+    showError('No cleaner specified','This link is missing the cleaner name.<br>Ask your manager for your personal schedule link.');
     return;
   }
 
-  var JSON_URL = 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json';
-  //var JSON_URL = 'https://raw.githubusercontent.com/vlicaros/TMBellevueQATesting/main/schedules.json';
+  // JSON_URL is replaced by the admin tool when generating the schedules file
+  // It points to the raw schedules.json on your GitHub repo
+  var JSON_URL = params.get('src') || 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json';
 
-  // Cache-bust so cleaners always get the latest
-  fetch(JSON_URL + '?cb=' + Date.now())
+  if (JSON_URL === 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json') {
+    showError('Not configured','The viewer page has not been configured yet.<br>Contact your manager.');
+    return;
+  }
+
+  // Fetch the schedule JSON (cache-busted so cleaners always get latest)
+  fetch(JSON_URL + '?t=' + Date.now())
     .then(function(r){
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
     })
     .then(function(data){
-      // Schedules keyed by token: { week, updated, cleaners: { "TOKEN": [...], ... } }
-      var jobs = data.cleaners && data.cleaners[token];
+      // data = { week: "...", updated: "...", cleaners: { "megan": [...], "nick": [...] } }
+      var key = cleanerParam;
+      var cleanerJobs = data.cleaners && data.cleaners[key];
 
-      if (!jobs) {
-        // Token not found — could be expired/regenerated or wrong link
-        showError('Link not recognised','This link may have expired or been updated.<br>Ask your manager for your current schedule link.');
-        return;
+      if (!cleanerJobs) {
+        // Try case-insensitive match
+        var found = Object.keys(data.cleaners||{}).find(function(k){ return k.toLowerCase()===key; });
+        if (found) cleanerJobs = data.cleaners[found];
       }
 
-      if (!jobs.length) {
-        var name = data.names && data.names[token] ? data.names[token] : 'You';
+      // Capitalise name for display
+      var displayName = cleanerParam.charAt(0).toUpperCase() + cleanerParam.slice(1);
+
+      if (!cleanerJobs || !cleanerJobs.length) {
         document.getElementById('hbadge').textContent = data.week || 'This Week';
-        showNoJobs(name, data.week);
+        showNoJobs(displayName, data.week);
         return;
       }
 
-      // Name is stored alongside schedules so the viewer can display it
-      var displayName = (data.names && data.names[token]) ? data.names[token] : 'Your Schedule';
-      renderSchedule(displayName, data.week, data.updated, jobs);
+      renderSchedule(displayName, data.week, data.updated, cleanerJobs);
     })
     .catch(function(e){
       showError('Could not load schedule','Unable to fetch schedule data.<br>Try refreshing in a moment, or contact your manager.<br><small style="font-family:monospace;font-size:.75rem;opacity:.6">'+e.message+'</small>');
@@ -138,6 +143,7 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
     var html = '';
 
+    // Profile card
     html += '<div class="profile-card">';
     html += '<div class="avatar">'+ini(name)+'</div>';
     html += '<div><div class="pname">'+esc(name)+'</div>';
@@ -151,21 +157,12 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
     days.forEach(function(day){
       var dJobs = byDay[day];
-      var dateStr = dJobs[0] && dJobs[0].date ? dJobs[0].date : '';
+      var dateStr = dJobs[0]&&dJobs[0].date ? dJobs[0].date : '';
       html += '<div class="day-group">';
       html += '<div class="day-header"><span class="day-name">'+day+'</span>';
       if (dateStr) html += '<span class="day-date">'+esc(dateStr)+'</span>';
       html += '</div>';
-
       dJobs.forEach(function(j){
-        html += '<div class="job-card"><div class="job-accent"></div><div class="job-body">';
-        html += '<div class="job-customer">'+esc(j.customer)+'</div>';
-        if (j.address) {
-          var mapUrl = 'https://maps.google.com/?q='+encodeURIComponent(j.address);
-          html += '<div class="job-address"><a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener">';
-          html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="13" height="13"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
-          html += esc(j.address)+'</a></div>';
-        }
         if (j.phone) html += '<div class="job-phone"><a href="tel:'+esc(j.phone)+'">'+esc(j.phone)+'</a></div>';
         if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
         html += '<div class="divider"></div><div class="pills">';
@@ -175,7 +172,6 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
         if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
         html += '</div></div></div>';
       });
-
       html += '</div>';
     });
 
@@ -184,15 +180,44 @@ footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;fo
 
   function showNoJobs(name, week) {
     document.getElementById('app').innerHTML =
-      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div>'+
-      '<div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
-      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2>'+
-      '<p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
+      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div><div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
+      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2><p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
   }
 
   function showError(title, msg) {
     document.getElementById('app').innerHTML =
-      '<div class="state"><div class="state-icon">🔒</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
+      '<div class="state"><div class="state-icon">📋</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
+  }
+})();
+</script>
+</body>
+</html>html += '<div class="job-card"><div class="job-accent"></div><div class="job-body">';
+          html += '<div class="job-customer">'+esc(j.customer)+'</div>';
+          if (j.address){ var mapUrl='https://maps.google.com/?q='+encodeURIComponent(j.address); html += '<div class="job-address"><a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="13" height="13"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'+esc(j.address)+'</a></div>'; }
+          if (j.phone) html += '<div class="job-phone"><a href="tel:'+esc(j.phone)+'">'+esc(j.phone)+'</a></div>';
+          if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
+          html += '<div class="divider"></div><div class="pills">';
+        if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
+        if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
+        if (j.price)   html += '<span class="pill p-price">$'+esc(String(j.price))+'</span>';
+        if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
+        html += '</div></div></div>';
+      });
+      html += '</div>';
+    });
+
+    document.getElementById('app').innerHTML = html;
+  }
+
+  function showNoJobs(name, week) {
+    document.getElementById('app').innerHTML =
+      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div><div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
+      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2><p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
+  }
+
+  function showError(title, msg) {
+    document.getElementById('app').innerHTML =
+      '<div class="state"><div class="state-icon">📋</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
   }
 })();
 </script>
