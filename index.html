@@ -3,222 +3,669 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Schedule – Two Maids Bellevue</title>
+<title>Schedule Admin – Two Maids Bellevue</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Mono:wght@400;500&display=swap');
-:root{--pink:#e57dad;--pink-dark:#c45d8d;--pink-pale:#fdf0f7;--pink-border:#f0d6e8;--green:#2a9e82;--green-pale:#f0f9f6;--text:#1a1a2e;--muted:#6b7280;--light:#f7f3f8;--white:#fff;--border:#e8e0ee;--r:12px;--shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.04)}
-*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
-body{font-family:'DM Sans',system-ui,sans-serif;background:var(--light);color:var(--text);min-height:100vh;padding-bottom:3rem}
-.header{background:var(--white);border-bottom:3px solid var(--pink);padding:.875rem 1.25rem;display:flex;align-items:center;gap:.75rem;position:sticky;top:0;z-index:10;box-shadow:0 2px 8px rgba(229,125,173,.12)}
-.hdot{width:9px;height:9px;border-radius:50%;background:var(--pink);flex-shrink:0}
-.htitle{font-size:.9rem;font-weight:600;flex:1}
-.hbadge{font-size:.7rem;font-family:'DM Mono',monospace;color:var(--pink);background:var(--pink-pale);padding:.2rem .6rem;border-radius:100px;border:1px solid var(--pink-border)}
-.container{max-width:480px;margin:0 auto;padding:1.25rem 1rem}
-.profile-card{background:var(--white);border-radius:var(--r);border:1px solid var(--pink-border);padding:1.25rem;margin-bottom:1.5rem;display:flex;align-items:center;gap:1rem;box-shadow:var(--shadow)}
-.avatar{width:52px;height:52px;border-radius:50%;background:var(--pink);color:var(--white);font-size:1.1rem;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0}
-.pname{font-size:1.2rem;font-weight:600;line-height:1.2}
-.pweek{font-size:.8rem;color:var(--muted);margin-top:3px}
-.pstats{display:flex;gap:.75rem;margin-top:6px;flex-wrap:wrap}
-.spill{font-size:.72rem;font-weight:600;padding:.2rem .6rem;border-radius:100px}
-.s-jobs{background:var(--pink-pale);color:var(--pink-dark)}
-.s-total{background:var(--green-pale);color:var(--green)}
-.day-group{margin-bottom:1.25rem}
-.day-header{display:flex;align-items:baseline;gap:.5rem;margin-bottom:.5rem;padding:0 .25rem}
-.day-name{font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--pink)}
-.day-date{font-size:.72rem;font-family:'DM Mono',monospace;color:var(--muted)}
-.job-card{background:var(--white);border-radius:var(--r);border:1px solid var(--border);overflow:hidden;margin-bottom:.625rem;box-shadow:var(--shadow)}
-.job-accent{height:3px;background:var(--pink)}
-.job-body{padding:.875rem 1rem}
-.job-customer{font-size:1rem;font-weight:600;margin-bottom:.25rem;line-height:1.3}
-.job-address{margin-bottom:.5rem}
-.maps-btn{display:inline-flex;align-items:center;gap:.4rem;font-size:.82rem;color:var(--pink-dark);text-decoration:none;font-weight:500;line-height:1.4}
-.maps-btn:hover{text-decoration:underline}
-.maps-btn svg{flex-shrink:0}
-.job-phone{font-size:.82rem;margin-bottom:.35rem}
-.job-phone a{color:var(--pink-dark);text-decoration:none;font-weight:500}
-.job-phone a:hover{text-decoration:underline}
-.job-notes{font-size:.8rem;color:var(--muted);line-height:1.5;margin-bottom:.5rem;font-style:italic;border-left:2px solid var(--pink-border);padding-left:.5rem}
-.divider{height:1px;background:var(--border);margin:.625rem 0}
-.pills{display:flex;flex-wrap:wrap;gap:.4rem}
-.pill{font-size:.72rem;font-family:'DM Mono',monospace;padding:.25rem .6rem;border-radius:100px;border:1px solid transparent;white-space:nowrap}
-.p-def{background:#f3f0f7;color:#555;border-color:#e2dcea}
-.p-time{background:var(--pink-pale);color:var(--pink-dark);border-color:var(--pink-border)}
-.p-price{background:var(--green-pale);color:var(--green);border-color:#c8ead9}
-.p-pay{background:#fefbe8;color:#92700a;border-color:#f0e5a0}
-.state{text-align:center;padding:3rem 1rem;color:var(--muted)}
-.state-icon{font-size:2.5rem;margin-bottom:.75rem;opacity:.4}
-.state h2{font-size:1rem;font-weight:600;margin-bottom:.4rem;color:var(--text)}
-.state p{font-size:.85rem;line-height:1.6}
-.loading{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:40vh;gap:1rem}
-.spinner{width:32px;height:32px;border:3px solid var(--pink-border);border-top-color:var(--pink);border-radius:50%;animation:spin .7s linear infinite}
-@keyframes spin{to{transform:rotate(360deg)}}
-.loading p{font-size:.85rem;color:var(--muted)}
-.updated-bar{font-size:.72rem;font-family:'DM Mono',monospace;color:var(--muted);text-align:center;padding:.5rem;margin-bottom:.75rem}
-footer{text-align:center;padding:1.5rem 1rem 0;font-size:.72rem;color:#b0a8bb;font-family:'DM Mono',monospace}
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700&display=swap');
+:root{--pink:#e57dad;--pink-dark:#c45d8d;--pink-pale:#fdf0f7;--dark:#13131f;--mid:#1e1e30;--card:#252538;--text:#f0eaf5;--muted:#8b84a0;--green:#45ccb1;--amber:#f5a623;--red:#e54b4b;--border:rgba(229,125,173,0.18);--r:10px}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Syne',sans-serif;background:var(--dark);color:var(--text);min-height:100vh}
+header{background:var(--mid);border-bottom:1px solid var(--border);padding:1rem 1.5rem;display:flex;align-items:center;gap:.875rem}
+.logo{width:9px;height:9px;border-radius:50%;background:var(--pink);box-shadow:0 0 10px var(--pink)}
+header h1{font-size:1rem;font-weight:700}
+.lock{font-size:.72rem;color:var(--amber);font-family:'DM Mono',monospace;background:rgba(245,166,35,.1);padding:.2rem .6rem;border-radius:100px;border:1px solid rgba(245,166,35,.25)}
+.hsub{font-size:.72rem;color:var(--muted);font-family:'DM Mono',monospace;margin-left:auto}
+.layout{display:grid;grid-template-columns:220px 1fr;min-height:calc(100vh - 53px)}
+nav{background:var(--mid);border-right:1px solid var(--border);padding:1.5rem 0}
+.nsec{font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding:0 1.25rem;margin-bottom:.5rem;font-weight:600}
+.ni{display:flex;align-items:center;gap:.6rem;padding:.55rem 1.25rem;font-size:.82rem;cursor:pointer;color:var(--muted);border-left:2px solid transparent;transition:all .15s}
+.ni.active{color:var(--text);border-left-color:var(--pink);background:rgba(229,125,173,.07)}
+.ni:hover:not(.active){color:var(--text);background:rgba(255,255,255,.04)}
+.ndot{width:6px;height:6px;border-radius:50%;background:currentColor;flex-shrink:0}
+main{padding:1.75rem 2rem;overflow-y:auto}
+.pane{display:none}.pane.active{display:block}
+.ptitle{font-size:1.1rem;font-weight:700;margin-bottom:.35rem}
+.psub{font-size:.82rem;color:var(--muted);margin-bottom:1.5rem;line-height:1.6}
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:1.25rem}
+.clabel{font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:var(--pink);font-weight:600;margin-bottom:.75rem}
+label{font-size:.78rem;color:var(--muted);display:block;margin-bottom:.35rem}
+input[type=text],input[type=date],textarea,select{width:100%;background:#0d0d1a;border:1px solid var(--border);border-radius:7px;color:var(--text);font-family:'DM Mono',monospace;font-size:.82rem;padding:.6rem .875rem;outline:none;transition:border-color .2s;margin-bottom:.875rem}
+input:focus,textarea:focus{border-color:var(--pink)}
+textarea{resize:vertical;line-height:1.6}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.btn{font-family:'Syne',sans-serif;font-weight:600;font-size:.82rem;padding:.6rem 1.25rem;border-radius:7px;border:none;cursor:pointer;transition:all .15s;letter-spacing:.02em;display:inline-flex;align-items:center;gap:.4rem}
+.btn-primary{background:var(--pink);color:#fff}.btn-primary:hover{background:var(--pink-dark)}
+.btn-green{background:var(--green);color:#0d0d1a}.btn-green:hover{filter:brightness(1.1)}
+.btn-ghost{background:transparent;color:var(--green);border:1px solid rgba(69,204,177,.35)}.btn-ghost:hover{background:rgba(69,204,177,.08)}
+.btn-amber{background:transparent;color:var(--amber);border:1px solid rgba(245,166,35,.35)}.btn-amber:hover{background:rgba(245,166,35,.08)}
+.btn-sm{padding:.35rem .8rem;font-size:.75rem}
+.btn-row{display:flex;gap:.625rem;flex-wrap:wrap;margin-top:.25rem}
+.fhint{font-family:'DM Mono',monospace;font-size:.72rem;color:var(--muted);background:#0d0d1a;border-radius:6px;padding:.5rem .75rem;margin-bottom:.875rem;border-left:3px solid var(--pink);line-height:1.6}
+code{font-family:'DM Mono',monospace;font-size:.76rem;background:rgba(229,125,173,.12);color:var(--pink);padding:.1rem .35rem;border-radius:4px}
+.sbar{display:flex;align-items:center;gap:.625rem;padding:.5rem .875rem;background:rgba(69,204,177,.07);border:1px solid rgba(69,204,177,.18);border-radius:7px;margin-bottom:1.25rem;font-size:.8rem;color:var(--green)}
+.sdot{width:6px;height:6px;border-radius:50%;background:var(--green)}
+/* cleaner cards */
+.cleaner-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.875rem;margin-top:1.25rem}
+.cc{background:#0d0d1a;border:1px solid var(--border);border-radius:var(--r);overflow:hidden}
+.cc-head{background:var(--card);padding:.75rem 1rem;display:flex;align-items:center;gap:.7rem;border-bottom:1px solid var(--border)}
+.av{width:34px;height:34px;border-radius:50%;background:var(--pink);color:#fff;font-size:.72rem;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.cc-name{font-weight:600;font-size:.875rem}
+.cc-count{font-size:.68rem;color:var(--muted);font-family:'DM Mono',monospace;margin-top:1px}
+.jlist{padding:.25rem 0}
+.jr{padding:.45rem 1rem;border-bottom:1px solid rgba(255,255,255,.04);display:grid;grid-template-columns:60px 1fr;gap:.5rem;font-size:.76rem}
+.jr:last-child{border-bottom:none}
+.jday{color:var(--pink);font-weight:600;font-size:.68rem;font-family:'DM Mono',monospace;padding-top:1px}
+.jcust{color:var(--text);line-height:1.3}
+.jtime{color:var(--muted);font-size:.67rem;font-family:'DM Mono',monospace;margin-top:1px}
+.link-strip{padding:.5rem 1rem;border-top:1px solid var(--border);display:flex;gap:.5rem;align-items:center}
+.lpill{font-family:'DM Mono',monospace;font-size:.65rem;color:var(--green);background:rgba(69,204,177,.08);padding:.3rem .625rem;border-radius:100px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;border:1px solid rgba(69,204,177,.18)}
+/* upload panel */
+.upload-box{background:#0d0d1a;border:2px dashed rgba(69,204,177,.3);border-radius:var(--r);padding:1.5rem;text-align:center;margin:1rem 0;transition:border-color .2s}
+.upload-box.ready{border-color:rgba(69,204,177,.6)}
+.upload-title{font-size:.9rem;font-weight:600;margin-bottom:.35rem}
+.upload-sub{font-size:.78rem;color:var(--muted);line-height:1.6;margin-bottom:1rem}
+.json-preview{background:#0d0d1a;border:1px solid var(--border);border-radius:7px;padding:1rem;font-family:'DM Mono',monospace;font-size:.72rem;color:var(--green);height:160px;overflow:auto;white-space:pre;margin-bottom:.875rem}
+/* steps */
+.step{display:flex;gap:.875rem;margin-bottom:1rem;align-items:flex-start}
+.snum{width:26px;height:26px;border-radius:50%;background:var(--pink);color:#fff;font-size:.72rem;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px}
+.sbody strong{font-size:.85rem;display:block;margin-bottom:.2rem}
+.sbody p{font-size:.8rem;color:var(--muted);line-height:1.6}
+.ghblock{background:#0d0d1a;border-radius:7px;border:1px solid var(--border);padding:1rem 1.25rem;margin:.875rem 0;font-family:'DM Mono',monospace;font-size:.78rem;color:var(--green);line-height:1.8}
+.ghblock .cm{color:var(--muted)}
+.ghurl{color:var(--amber);font-weight:500}
+/* roster */
+.ri{display:flex;align-items:center;gap:.75rem;padding:.625rem 0;border-bottom:1px solid rgba(255,255,255,.05)}
+.ri:last-child{border-bottom:none}
+.ri-name{font-size:.875rem;font-weight:600;flex:1}
+.tag{font-size:.67rem;padding:.15rem .5rem;border-radius:100px;background:rgba(229,125,173,.12);color:var(--pink);border:1px solid rgba(229,125,173,.2);margin-right:.25rem}
+.divider{height:1px;background:var(--border);margin:1.25rem 0}
+/* permanent link highlight */
+.perm-link-box{background:rgba(69,204,177,.06);border:1px solid rgba(69,204,177,.2);border-radius:8px;padding:.875rem 1rem;margin-bottom:.75rem;display:flex;align-items:center;gap:.75rem}
+.perm-link-text{font-family:'DM Mono',monospace;font-size:.72rem;color:var(--green);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.static-badge{font-size:.62rem;font-family:'DM Mono',monospace;background:rgba(69,204,177,.15);color:var(--green);padding:.15rem .5rem;border-radius:100px;border:1px solid rgba(69,204,177,.3);flex-shrink:0;white-space:nowrap}
+/* toast */
+.toast{position:fixed;bottom:1.5rem;right:1.5rem;background:var(--green);color:#0d0d1a;padding:.7rem 1.1rem;border-radius:7px;font-weight:700;font-size:.82rem;opacity:0;transform:translateY(6px);transition:all .25s;pointer-events:none;z-index:9999}
+.toast.show{opacity:1;transform:translateY(0)}
+.empty-state{text-align:center;padding:2.5rem 1rem;color:var(--muted);font-size:.85rem}
+@media(max-width:680px){.layout{grid-template-columns:1fr}nav{display:none}.row2{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 
-<div class="header">
-  <div class="hdot"></div>
-  <span class="htitle">Two Maids – Bellevue</span>
-  <span class="hbadge" id="hbadge">Schedule</span>
+<header>
+  <div class="logo"></div>
+  <h1>Schedule Admin</h1>
+  <span class="lock">🔒 Private — do not share</span>
+  <span class="hsub">Two Maids · Bellevue</span>
+</header>
+
+<div class="layout">
+  <nav>
+    <div class="nsec" style="margin-top:.5rem">Workflow</div>
+    <div class="ni active" onclick="showPane('extract')"><div class="ndot"></div>1. Extract Schedule</div>
+    <div class="ni" onclick="showPane('process')"><div class="ndot"></div>2. Process &amp; Split</div>
+    <div class="ni" onclick="showPane('publish')"><div class="ndot"></div>3. Publish to GitHub</div>
+    <div class="ni" onclick="showPane('links')"><div class="ndot"></div>4. Cleaner Links</div>
+    <div class="nsec" style="margin-top:1.5rem">Config</div>
+    <div class="ni" onclick="showPane('roster')"><div class="ndot"></div>Cleaner Roster</div>
+    <div class="ni" onclick="showPane('setup')"><div class="ndot"></div>GitHub Setup</div>
+  </nav>
+
+  <main>
+
+    <!-- ═══ PANE 1: EXTRACT ═══ -->
+    <div id="pane-extract" class="pane active">
+      <div class="ptitle">Extract from Gataware</div>
+      <div class="psub">Run the bookmarklet while logged into Gataware to copy the week's schedule data to your clipboard.</div>
+
+      <div class="card">
+        <div class="clabel">Bookmarklet — drag to your bookmarks bar</div>
+        <p style="font-size:.78rem;color:var(--muted);line-height:1.6;margin-bottom:.875rem">Set your start and end dates below, then drag the generated bookmarklet to your bookmarks bar. Click it while on the Gataware schedule page — it will prompt you to confirm the dates, fetch the events, and copy them to your clipboard.</p>
+        <div class="row2">
+          <div>
+            <label>Start date (Monday)</label>
+            <input type="date" id="bm-start" />
+          </div>
+          <div>
+            <label>End date (following Monday)</label>
+            <input type="date" id="bm-end" />
+          </div>
+        </div>
+        <div style="background:#0d0d1a;border:1px dashed var(--pink);border-radius:7px;padding:.875rem 1rem;margin:.75rem 0;display:flex;align-items:center;gap:.875rem;flex-wrap:wrap">
+          <a id="bm-link" href="#" style="font-family:'DM Mono',monospace;font-size:.75rem;color:var(--green);background:rgba(69,204,177,.08);padding:.45rem .875rem;border-radius:6px;border:1px solid rgba(69,204,177,.25);text-decoration:none;cursor:grab;white-space:nowrap">📋 Export Gataware Week</a>
+          <span style="font-size:.72rem;color:var(--muted);font-family:'DM Mono',monospace">← drag to bookmarks bar after setting dates above</span>
+        </div>
+        <p style="font-size:.72rem;color:var(--muted);line-height:1.6">Dates auto-update the bookmarklet link. Re-drag to your bookmarks bar each week, or just update the dates and use the console method below.</p>
+      </div>
+
+      <div class="card">
+        <div class="clabel">Console fallback (if bookmarklet fails)</div>
+        <p style="font-size:.78rem;color:var(--muted);margin-bottom:.75rem">Open DevTools on Gataware (F12 → Console), click anywhere on the page, then paste:</p>
+        <p style="font-size:.78rem;color:var(--muted);margin-bottom:.5rem">Click <strong>Sync dates from Step 2</strong> to generate the snippet with your dates, then copy and paste into the DevTools console on the Gataware schedule page. This version fetches events <em>and</em> enriches each one with its full address.</p>
+        <textarea id="console-snippet" readonly style="height:200px;font-size:.71rem;margin-bottom:.5rem">// Click "Sync dates from Step 2" to update dates, then copy and paste into console</textarea>
+        <div class="btn-row" style="margin-bottom:.5rem">
+          <button class="btn btn-ghost btn-sm" onclick="updateConsoleSnippet()">Sync dates from Step 2</button>
+          <button class="btn btn-ghost btn-sm" onclick="copyConsoleSnippet()">Copy snippet</button>
+        </div>
+        <p style="font-size:.72rem;color:var(--muted)">Tip: click somewhere on the Gataware page before running to avoid clipboard focus errors.</p>
+      </div>
+      <button class="btn btn-primary" onclick="showPane('process')">Next →</button>
+    </div>
+
+    <!-- ═══ PANE 2: PROCESS ═══ -->
+    <div id="pane-process" class="pane">
+      <div class="ptitle">Process &amp; Split by Cleaner</div>
+      <div class="psub">Paste the JSON, set the week, and the tool splits every team appointment into individual cleaner schedules.</div>
+
+      <div class="card">
+        <div class="row2">
+          <div>
+            <label>Week of (Monday)</label>
+            <input type="date" id="week-date"/>
+          </div>
+          <div>
+            <label>Your GitHub Pages base URL</label>
+            <input type="text" id="gh-base" placeholder="https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule"/>
+          </div>
+        </div>
+        <label>Raw JSON from Gataware</label>
+        <div class="fhint">Paste the full array from the bookmarklet or console snippet. Fields used: <code>customer_name</code> <code>phoneNumber</code> <code>times</code> <code>package</code> <code>totalPrice</code> <code>payment_type</code> <code>description</code> (cleaning notes from tooltip) <code>resourceId</code></div>
+        <textarea id="json-input" style="height:170px" placeholder="Paste JSON array here — starts with [ ..."></textarea>
+        <div class="btn-row">
+          <button class="btn btn-primary" onclick="processSchedule()">Split into Cleaner Schedules</button>
+          <button class="btn btn-ghost btn-sm" onclick="loadSample()">Load sample</button>
+          <button class="btn btn-ghost btn-sm" onclick="clearInput()">Clear</button>
+        </div>
+      </div>
+
+      <div id="results-area" style="display:none">
+        <div class="sbar"><div class="sdot"></div><span id="status-text">—</span></div>
+        <div class="cleaner-grid" id="cleaner-grid"></div>
+        <div style="margin-top:1.25rem">
+          <button class="btn btn-green" onclick="showPane('publish')">Next: Publish to GitHub →</button>
+          <button class="btn btn-ghost btn-sm" style="margin-left:.5rem" onclick="exportCSV()">Export CSV</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ PANE 3: PUBLISH ═══ -->
+    <div id="pane-publish" class="pane">
+      <div class="ptitle">Publish to GitHub</div>
+      <div class="psub">Download the <code>schedules.json</code> file and upload it to your GitHub repo. This is the only file that changes each week — cleaner links stay the same forever.</div>
+
+      <div id="publish-empty" class="empty-state">Process schedule data in Step 2 first.</div>
+
+      <div id="publish-ready" style="display:none">
+        <div class="card">
+          <div class="clabel">Step A — Download the schedule file</div>
+          <p style="font-size:.82rem;color:var(--muted);margin-bottom:.875rem;line-height:1.6">This file contains all cleaners' schedules for the week. It replaces the previous week's file on GitHub.</p>
+          <div class="json-preview" id="json-preview"></div>
+          <div class="btn-row">
+            <button class="btn btn-green" onclick="downloadJSON()">⬇ Download schedules.json</button>
+            <button class="btn btn-ghost btn-sm" onclick="copyJSON()">Copy JSON</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="clabel">Step B — Upload to GitHub (every week)</div>
+          <div class="step">
+            <div class="snum">1</div>
+            <div class="sbody">
+              <strong>Open your GitHub repo</strong>
+              <p>Go to <span id="gh-repo-link" style="color:var(--amber);font-family:'DM Mono',monospace;font-size:.78rem"></span></p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="snum">2</div>
+            <div class="sbody">
+              <strong>Upload schedules.json</strong>
+              <p>Click <strong>Add file → Upload files</strong>, drag in your downloaded <code>schedules.json</code>, then click <strong>Commit changes</strong>. If the file already exists, it replaces it automatically.</p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="snum">3</div>
+            <div class="sbody">
+              <strong>Done — cleaners see it within ~60 seconds</strong>
+              <p>GitHub Pages updates automatically. Cleaners just refresh their page and the new schedule appears. Their links never change.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ PANE 4: LINKS ═══ -->
+    <div id="pane-links" class="pane">
+      <div class="ptitle">Permanent Cleaner Links</div>
+      <div class="psub">These links never change. Send each one to the cleaner once — they bookmark it and use it every week. The schedule updates automatically when you publish a new <code>schedules.json</code>.</div>
+      <div id="links-area"><div class="empty-state">Process schedule data in Step 2 first.</div></div>
+    </div>
+
+    <!-- ═══ ROSTER ═══ -->
+    <div id="pane-roster" class="pane">
+      <div class="ptitle">Cleaner Roster</div>
+      <div class="psub">Maps Gataware team names to individual cleaners. When a team job is found, it creates a schedule entry for each person on that team.</div>
+      <div class="card">
+        <div class="clabel">Current mappings</div>
+        <div id="roster-display"></div>
+        <div class="divider"></div>
+        <div class="clabel">Edit roster (JSON)</div>
+        <div class="fhint">Keys = exact Gataware team names. Values = array of first names (used as URL keys, lowercase).</div>
+        <textarea id="roster-input" style="height:280px;font-size:.74rem"></textarea>
+        <button class="btn btn-primary btn-sm" onclick="saveRoster()">Save Roster</button>
+      </div>
+    </div>
+
+    <!-- ═══ SETUP ═══ -->
+    <div id="pane-setup" class="pane">
+      <div class="ptitle">GitHub Setup Guide</div>
+      <div class="psub">One-time setup. After this, your weekly workflow is just: extract → process → upload one file.</div>
+
+      <div class="card">
+        <div class="clabel">1. Create a public GitHub repository</div>
+        <div class="step"><div class="snum">1</div><div class="sbody"><strong>Go to github.com → + → New repository</strong><p>Name: <code>schedule</code> · Visibility: <strong>Public</strong> · Check "Add a README" · Create.</p></div></div>
+        <div class="step"><div class="snum">2</div><div class="sbody"><strong>Upload two files from this package</strong><p>Add file → Upload files → drag in <code>viewer/index.html</code> and an empty <code>schedules.json</code> (content: <code>{}</code>) → Commit.</p></div></div>
+        <div class="step"><div class="snum">3</div><div class="sbody"><strong>Enable GitHub Pages</strong><p>Settings → Pages → Source: Deploy from branch → Branch: main / folder: root → Save. Wait ~60 sec.</p></div></div>
+        <div class="step"><div class="snum">4</div><div class="sbody"><strong>Set your base URL here</strong><p>Come back to Step 2 of this admin tool and enter your Pages URL so links are generated correctly.</p>
+          <div class="ghblock"><span class="ghurl">https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule</span></div>
+        </div></div>
+      </div>
+
+      <div class="card">
+        <div class="clabel">2. Configure the viewer (one time)</div>
+        <div class="step"><div class="snum">5</div><div class="sbody"><strong>Edit viewer/index.html on GitHub</strong><p>Open <code>index.html</code> in your repo, click the pencil icon, find the line that says <code>var JSON_URL = params.get('src') || 'SCHEDULES_JSON_URL';</code> and replace <code>SCHEDULES_JSON_URL</code> with the raw JSON URL below (already done in the viewer file in this package):</p>
+          <div class="ghblock"><span class="ghurl">https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json</span></div>
+          <p>Commit the change.</p>
+        </div></div>
+      </div>
+
+      <div class="card">
+        <div class="clabel">Weekly workflow after setup</div>
+        <div class="ghblock">
+<span class="cm"># Every Monday morning (~3 minutes total):</span><br>
+1. Gataware schedule page → click bookmarklet → JSON copies<br>
+2. Open admin/index.html → paste → Process<br>
+3. Download schedules.json → upload to GitHub repo<br>
+4. Done — cleaners refresh their page, see new schedule<br>
+<br>
+<span class="cm"># Cleaner links (send once, permanent forever):</span><br>
+<span class="ghurl">https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule/?cleaner=megan</span><br>
+<span class="ghurl">https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule/?cleaner=nick</span><br>
+<span class="ghurl">https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule/?cleaner=tish</span>
+        </div>
+      </div>
+    </div>
+
+  </main>
 </div>
 
-<div class="container">
-  <div id="app">
-    <div class="loading">
-      <div class="spinner"></div>
-      <p>Loading your schedule…</p>
-    </div>
-  </div>
-  <footer>Two Maids Cleaning · Bellevue, WA</footer>
-</div>
+<div class="toast" id="toast"></div>
 
 <script>
+// ── ROSTER ────────────────────────────────────────────────────────────────────
+var DEFAULT_ROSTER = {
+  "Loreina":["Loreina"],"Loreina/Vance":["Loreina","Vance"],"Megan":["Megan"],"Malien":["Malien"],
+  "Megan/Malien":["Megan","Malien"],"Nick/Malien":["Nick","Malien"],"Megan/Juliett":["Megan","Juliett"],"Tish/Malien":["Tish","Malien"],"Tish/Juliett":["Tish","Juliett"],
+  "Juliett/Malien":["Juliett","Malien"],"Loreina/Juliett":["Loreina","Juliett"],"Megan/Juliett":["Megan","Juliett"],"Loreina/Juliett":["Loreina","Juliett"],
+  "Megan/Alexis":["Megan","Alexis"],"Megan/Andrew":["Megan","Andrew"],
+  "Megan/Loreina":["Megan","Loreina"],"Megan/Maria":["Megan","Maria"],"Tish/Loreina":["Tish","Loreina"],
+  "Nick":["Nick"],"Nick/Andrew":["Nick","Andrew"],"Nick/Loreina":["Nick","Loreina"],
+  "Nick/Maria":["Nick","Maria"],"Nick/Tish":["Nick","Tish"],
+  "P'Goff/P'Pare":["P'Goff","P'Pare"],"Tish":["Tish"],"Tish/Megan":["Tish","Megan"],
+  "Vance/Megan":["Vance","Megan"],"Vance/Nick":["Vance","Nick"],"Vance/Tish":["Vance","Tish"],"Vance/Malien":["Vance","Malien"],
+  "Unassigned":[]
+};
+var TEAM_MAP = {0:"Unassigned",5775:"Loreina",5781:"Loreina/Vance",5228:"Megan",5799:"Megan/Alexis",5227:"Megan/Andrew",5765:"Megan/Loreina",5797:"Megan/Maria",
+                5229:"Nick",5290:"Nick/Andrew",5777:"Nick/Loreina",5798:"Nick/Maria",5263:"Nick/Tish",5554:"P'Goff/P'Pare",5477:"Tish",5261:"Tish/Megan",
+                5195:"Vance/Megan",5196:"Vance/Nick",5729:"Vance/Tish",5851:"Megan/Malien",5876:"Nick/Juliett",5852:"Nick/Malien",5875:"Tish/Juliett",
+                5853:"Tish/Malien",5878:"Juliett/Malien",5879:"Loreina/Juliett", 5874:"Megan/Juliett",5907:"Tish/Loreina",5945:"Vance/Malien"};
+var DAY_NAMES = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+var roster = loadRoster();
+var cleanerData = {};
+var weekLabel = '';
+var jsonPayload = null;
+
+//function loadRoster(){ try{ var s=localStorage.getItem('roster2'); if(s)return JSON.parse(s); }catch(e){} return JSON.parse(JSON.stringify(DEFAULT_ROSTER)); }
+function loadRoster(){ return JSON.parse(JSON.stringify(DEFAULT_ROSTER)); }
+function saveRoster(){ try{ var v=document.getElementById('roster-input').value; roster=JSON.parse(v); localStorage.setItem('roster2',JSON.stringify(roster)); renderRosterDisplay(); showToast('Roster saved'); }catch(e){ showToast('Invalid JSON'); } }
+function renderRosterDisplay(){
+  var html='';
+  Object.entries(roster).forEach(function(e){ var t=e[0],m=e[1]; if(!m.length)return;
+    html+='<div class="ri"><div class="ri-name">'+esc(t)+'</div><div>'+m.map(function(n){return '<span class="tag">'+esc(n)+'</span>';}).join('')+'</div></div>';
+  });
+  document.getElementById('roster-display').innerHTML=html||'<p style="font-size:.8rem;color:var(--muted)">No mappings.</p>';
+  document.getElementById('roster-input').value=JSON.stringify(roster,null,2);
+}
+
+// ── BOOKMARKLET ───────────────────────────────────────────────────────────────
+// Address is already in event.description from get_events.
+// Confirmed from Gataware's qtip code which uses event.description as address.
+// No extra HTTP requests needed at all.
+function buildBookmarklet(){
+  var start = document.getElementById('bm-start').value;
+  var end   = document.getElementById('bm-end').value;
+  if(!start||!end){ return; }
+
+  // Mirrors the confirmed-working console snippet exactly.
+  // GET /schedule/get_cleaning/?id=ev.id with X-Requested-With: XMLHttpRequest
+  // Browser sends session cookie automatically — no extra auth needed.
+  // Address CSS selector confirmed from DevTools inspection of Gataware modal HTML.
+
+  var code = 'javascript:(function(){'
+    + 'var el=document.createElement("div");'
+    + 'el.style.cssText="position:fixed;top:16px;right:16px;background:#e57dad;color:#fff;padding:10px 18px;border-radius:8px;z-index:99999;font:600 13px sans-serif;box-shadow:0 4px 12px rgba(0,0,0,.3)";'
+    + 'el.textContent="\u23F3 Fetching events\u2026";'
+    + 'document.body.appendChild(el);'
+
+    + 'var start="'+start+'",end="'+end+'";'
+    + 'var XHR={headers:{"X-Requested-With":"XMLHttpRequest"}};'
+
+    + 'fetch("/schedule/get_events/?start="+start+"&end="+end)'
+    + '.then(function(r){return r.json();})'
+    + '.then(function(events){'
+    +   'if(!events.length){alert("No events found for this date range.");document.body.removeChild(el);return;}'
+    +   'el.textContent="\u23F3 Fetching addresses for "+events.length+" events\u2026";'
+
+    // Enrich each event with address from get_cleaning
+    +   'var promises=events.map(function(ev){'
+    +     'return fetch("/schedule/get_cleaning/?id="+ev.id,XHR)'
+    +     '.then(function(r){return r.text();})'
+    +     '.then(function(html){'
+    +       'var doc=new DOMParser().parseFromString(html,"text/html");'
+    // Exact CSS selector confirmed from DevTools
+    +       'var addrEl=doc.querySelector("#id_collapse_customer_well > div.row.mb-3.py-3 > div:nth-child(1) > ul > li:nth-child(3) > span.customer-info-link > a > address");'
+    +       'if(addrEl){'
+    +         'ev._address=addrEl.textContent.trim();'
+    // Also populate ev.address with individual span lines
+    +         'var labels=addrEl.querySelectorAll("span");'
+    +         'labels.forEach(function(s){'
+    +           'var txt=s.textContent.trim();'
+    +           'if(txt)ev.address=ev.address||txt;'
+    +         '});'
+    +       '}'
+    +       'return ev;'
+    +     '})'
+    +     '.catch(function(){return ev;});'
+    +   '});'
+    +   'return Promise.all(promises);'
+    + '})'
+    + '.then(function(enriched){'
+    +   'el.textContent="\u23F3 Copying to clipboard\u2026";'
+    +   'var json=JSON.stringify(enriched);'
+    +   'window.focus();'
+    +   'setTimeout(function(){'
+    +     'navigator.clipboard.writeText(json)'
+    +     '.then(function(){'
+    +       'el.style.background="#45ccb1";'
+    +       'el.textContent="\u2705 "+enriched.length+" events copied!";'
+    +       'setTimeout(function(){document.body.removeChild(el);},4000);'
+    +     '})'
+    +     '.catch(function(){'
+    +       'console.log("COPY THIS:");console.log(json);'
+    +       'alert("Clipboard blocked \u2014 JSON in console. Right-click and Copy.");'
+    +       'el.style.background="#45ccb1";'
+    +       'el.textContent="\u2705 JSON logged to console";'
+    +       'setTimeout(function(){document.body.removeChild(el);},6000);'
+    +     '});'
+    +   '},500);'
+    + '})'
+    + '.catch(function(e){'
+    +   'el.style.background="#e54b4b";'
+    +   'el.textContent="\u274C "+e.message;'
+    +   'setTimeout(function(){document.body.removeChild(el);},5000);'
+    + '});'
+    + '})();';
+
+  document.getElementById('bm-link').href = code;
+}
+function updateConsoleSnippet(){
+  var start = document.getElementById('bm-start').value || '2026-05-04';
+  var s = new Date(start+'T00:00:00'); s.setDate(s.getDate()+7);
+  var end = document.getElementById('bm-end').value || '2026-05-04';
+
+  var lines = [
+    "var start = '"+start+"';",
+    "var end   = '"+end+"';",
+    "",
+    "// X-Requested-With tells Django to return JSON (same header Metronic datatable sets)",
+    "var XHR = { headers: { 'X-Requested-With': 'XMLHttpRequest' } };",
+    "",
+   "fetch('/schedule/get_events/?start=' + start + '&end=' + end)",
+    ".then(function(r){ return r.json(); })",
+    ".then(function(events){",
+      "if(!events.length){ alert('No events found for this date range.'); return; }",
+
+      "// Step 2: enrich each event with full address from get_cleaning",
+      "var promises = events.map(function(ev){",
+        "return fetch('/schedule/get_cleaning/?id=' + ev.id, XHR)",
+          ".then(function(r){ return r.text(); })",
+          ".then(function(html){",
+           " // Parse address fields out of the returned HTML",
+            "var parser = new DOMParser();",
+            "var doc = parser.parseFromString(html, 'text/html');",
+            "// Gataware returns address in elements with these common patterns",
+            "var addrEl = doc.querySelector('#id_collapse_customer_well > div.row.mb-3.py-3 > div:nth-child(1) > ul > li:nth-child(3) > span.customer-info-link > a > address')",
+            "",
+            "if(addrEl) ev._address = addrEl.textContent.trim();",
+            "// Also grab any text nodes near 'address' labels",
+            "var labels = addrEl.querySelectorAll('span, span');",
+            "",
+            "labels.forEach(function(el){",
+            "  var txt = el.textContent.toLowerCase().trim();",
+            "  if(txt) ev.address = ev.address || txt;",
+            "});",
+            "return ev;",
+          "})",
+          ".catch(function(){ return ev; }); // keep event even if enrich fails",
+      "});",
+      "return Promise.all(promises);",
+    "})",
+    ".then(function(enriched){",
+    "  var json = JSON.stringify(enriched);",
+    "  window.focus();",
+    "  setTimeout(function(){",
+    "    navigator.clipboard.writeText(json).then(function(){",
+    "      alert('Copied ' + enriched.length + ' events to clipboard!');",
+    "    }).catch(function(){",
+          "console.log('COPY THIS:');",
+          "console.log(json);",
+          "alert('Clipboard blocked — the JSON is in the console. Right-click it and Copy.');",
+        "});",
+    "  }, 500);",
+    "});",
+  ];
+  document.getElementById('console-snippet').value = lines.join('\n');
+  showToast('Snippet ready');
+}
+function copyConsoleSnippet(){
+  var snippet = document.getElementById('console-snippet').value;
+  navigator.clipboard.writeText(snippet).then(function(){ showToast('Snippet copied'); });
+}
+
+// ── PROCESS ───────────────────────────────────────────────────────────────────
+// _address set by enrichment; falls back to other known Gataware field names
+
+function processSchedule(){
+  var raw=document.getElementById('json-input').value.trim();
+  if(!raw){showToast('Paste JSON first');return;}
+  var events; try{events=JSON.parse(raw);}catch(e){showToast('Invalid JSON');return;}
+  if(!Array.isArray(events)){showToast('Expected a JSON array');return;}
+  var weekDate=document.getElementById('week-date').value;
+  weekLabel=weekDate?fmtWeek(weekDate):'Upcoming Week';
+  var byCleaner={};
+  events.forEach(function(ev){
+    var teamId=ev.resourceId||0;
+    var teamName=TEAM_MAP[teamId]||('Team '+teamId);
+    var members=roster[teamName];
+    if(!members||!members.length){ if(teamName!=='Unassigned')members=[teamName]; else return; }
+    var dt=new Date(ev.start);
+    var job={
+      day:DAY_NAMES[dt.getDay()],dayNum:dt.getDay(),date:ev.start.slice(0,10),
+      customer:ev.customer_name||ev.title||'Unknown',
+      address:ev._address||'',
+      phone:ev._phone||ev.phoneNumber||'',
+      package:ev.package||'',
+      time:ev.times||(fmtTime(ev.start)+(ev.end?' - '+fmtTime(ev.end):'')),
+      price:ev.totalPrice||'',payment:ev.payment_type||'',
+      notes:ev.description||'',
+      team:teamName,id:ev.id
+    };
+    members.forEach(function(m){
+      var key=m.toLowerCase().replace(/[^a-z0-9]/g,'');
+      if(!byCleaner[key])byCleaner[key]={name:m,jobs:[]};
+      byCleaner[key].jobs.push(job);
+    });
+  });
+  Object.values(byCleaner).forEach(function(c){c.jobs.sort(function(a,b){return a.dayNum-b.dayNum;});});
+  cleanerData=byCleaner;
+
+  // Count how many jobs have addresses
+  var total=0,withAddr=0;
+  Object.values(byCleaner).forEach(function(c){c.jobs.forEach(function(j){total++;if(j.address)withAddr++;});});
+
+  var cleanersObj={};
+  Object.entries(byCleaner).forEach(function(e){cleanersObj[e[0]]=e[1].jobs;});
+  jsonPayload={
+    week:weekLabel,
+    updated:new Date().toLocaleString('en-US',{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}),
+    cleaners:cleanersObj
+  };
+
+  renderProcessPane();
+  renderPublishPane();
+  renderLinksPane();
+
+  document.getElementById('results-area').style.display='block';
+  var addrNote = withAddr < total ? ' ⚠ '+withAddr+'/'+total+' have addresses — use enriched snippet for full coverage' : ' ✓ all addresses present';
+  document.getElementById('status-text').textContent=
+    Object.keys(byCleaner).length+' cleaners · '+events.length+' appointments · '+weekLabel+addrNote;
+  showToast('Processed '+events.length+' events');
+}
+
+function renderProcessPane(){
+  var grid=document.getElementById('cleaner-grid');
+  var base=getBase();
+  grid.innerHTML=Object.keys(cleanerData).sort().map(function(key){
+    var c=cleanerData[key]; var link=makeLink(key,base);
+    return '<div class="cc"><div class="cc-head"><div class="av">'+ini(c.name)+'</div>'+
+      '<div><div class="cc-name">'+esc(c.name)+'</div>'+
+      '<div class="cc-count">'+c.jobs.length+' job'+(c.jobs.length!==1?'s':'')+'</div></div></div>'+
+      '<div class="jlist">'+c.jobs.map(function(j){
+        return '<div class="jr"><div class="jday">'+j.day+'</div>'+
+          '<div class="jcust">'+esc(j.customer)+(j.phone?' <span style="color:var(--muted);font-size:.68rem">'+esc(j.phone)+'</span>':'')+'</div>'+(j.address?'<div class="jtime" style="color:var(--green);font-size:.68rem">📍 '+esc(j.address)+'</div>':'')+'<div class="jtime">'+esc(j.time)+(j.price?' · $'+j.price:'')+(j.payment?' · '+esc(j.payment):'')+'</div>'+(j.notes?'<div class="jtime" style="color:var(--muted);font-size:.65rem;font-style:italic">'+esc(j.notes.slice(0,60))+(j.notes.length>60?'…':'')+'</div>':'')+'</div></div></div>';
+      }).join('')+'</div>'+
+      '<div class="link-strip"><span class="lpill">'+esc(link)+'</span>'+
+      '<button class="btn btn-ghost btn-sm" onclick="cp(\''+encodeURIComponent(link)+'\',this)">Copy</button></div></div>';
+  }).join('');
+}
+
+function renderPublishPane(){
+  if(!jsonPayload)return;
+  document.getElementById('json-preview').textContent=JSON.stringify(jsonPayload,null,2);
+  document.getElementById('publish-empty').style.display='none';
+  document.getElementById('publish-ready').style.display='block';
+  var base=getBase();
+  var repoGuess=base.replace('https://','').replace('.github.io','').split('/');
+  document.getElementById('gh-repo-link').textContent='github.com/'+repoGuess[0]+'/'+(repoGuess[1]||'schedule');
+}
+
+function renderLinksPane(){
+  var base=getBase();
+  var names=Object.keys(cleanerData).sort();
+  if(!names.length){document.getElementById('links-area').innerHTML='<div class="empty-state">No cleaner data yet — process schedule in step 2.</div>';return;}
+  var html='<div style="margin-bottom:1rem;padding:.75rem 1rem;background:rgba(69,204,177,.06);border:1px solid rgba(69,204,177,.2);border-radius:8px;font-size:.8rem;color:var(--green)">'+
+    '✅ These links are <strong>permanent</strong> — send each once, never resend. Schedule updates when you upload schedules.json each week.</div>';
+  html+='<div style="display:grid;gap:.75rem">';
+  names.forEach(function(key){
+    var c=cleanerData[key]; var link=makeLink(key,base);
+    html+='<div class="cc"><div class="cc-head"><div class="av">'+ini(c.name)+'</div>'+
+      '<div><div class="cc-name">'+esc(c.name)+'</div>'+
+      '<div class="cc-count">'+c.jobs.length+' job'+(c.jobs.length!==1?'s':'')+' · permanent link</div></div></div>'+
+      '<div class="link-strip"><span class="lpill" title="'+esc(link)+'">'+esc(link)+'</span>'+
+      '<span class="static-badge">permanent ✓</span>'+
+      '<button class="btn btn-ghost btn-sm" style="margin-left:.25rem" onclick="cp(\''+encodeURIComponent(link)+'\',this)">Copy</button>'+
+      '</div></div>';
+  });
+  html+='</div>';
+  document.getElementById('links-area').innerHTML=html;
+}
+
+function makeLink(key,base){ return (base||'https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule')+'/?cleaner='+encodeURIComponent(key); }
+function getBase(){ return (document.getElementById('gh-base').value||'').replace(/\/$/,''); }
+
+function downloadJSON(){
+  if(!jsonPayload){showToast('Process schedule first');return;}
+  var a=document.createElement('a');
+  a.href='data:application/json;charset=utf-8,'+encodeURIComponent(JSON.stringify(jsonPayload,null,2));
+  a.download='schedules.json'; a.click(); showToast('schedules.json downloaded');
+}
+function copyJSON(){
+  if(!jsonPayload){showToast('Process first');return;}
+  navigator.clipboard.writeText(JSON.stringify(jsonPayload,null,2)).then(function(){showToast('JSON copied');});
+}
+
+function exportCSV(){
+  var rows=[['Cleaner','Day','Date','Customer','Address','Phone','Package','Time','Price','Payment','Notes','Team']];
+  Object.keys(cleanerData).sort().forEach(function(k){
+    cleanerData[k].jobs.forEach(function(j){
+      rows.push([cleanerData[k].name,j.day,j.date,j.customer,j.address||'',j.phone||'',j.package,j.time,j.price,j.payment,j.notes||'',j.team]);
+    });
+  });
+  var csv=rows.map(function(r){return r.map(function(c){return '"'+String(c||'').replace(/"/g,'""')+'"';}).join(',');}).join('\n');
+  var a=document.createElement('a');
+  a.href='data:text/csv;charset=utf-8,'+encodeURIComponent(csv);
+  a.download='schedule-'+(document.getElementById('week-date').value||'week')+'.csv';
+  a.click(); showToast('CSV downloaded');
+}
+
+function loadSample(){
+  var sample=[
+    {"id":1,"start":"2026-05-04T09:00:00","end":"2026-05-04T11:00:00","resourceId":5228,"customer_name":"Amy Smith","phoneNumber":"425-555-0101","description":"Main living areas only","package":"Maintenance","totalPrice":195,"times":"9:00am - 11:00am","payment_type":"Auto CC"},
+    {"id":2,"start":"2026-05-04T13:00:00","end":"2026-05-04T15:30:00","resourceId":5228,"customer_name":"Bob Johnson","phoneNumber":"425-555-0102","description":"Focus on bathrooms and kitchen","package":"Deep Clean","totalPrice":280,"times":"1:00pm - 3:30pm","payment_type":"Check"},
+    {"id":3,"start":"2026-05-05T08:30:00","end":"2026-05-05T10:30:00","resourceId":5263,"customer_name":"Carol Williams","phoneNumber":"425-555-0103","description":"","package":"Maintenance","totalPrice":160,"times":"8:30am - 10:30am","payment_type":"Auto CC"},
+    {"id":4,"start":"2026-05-05T12:00:00","end":"2026-05-05T14:00:00","resourceId":5263,"customer_name":"Derek Davis","phoneNumber":"425-555-0104","description":"Pet-friendly products only","package":"Maintenance","totalPrice":175,"times":"12:00pm - 2:00pm","payment_type":"Cash"},
+    {"id":5,"start":"2026-05-06T09:00:00","end":"2026-05-06T12:00:00","resourceId":5477,"customer_name":"Eva Brown","phoneNumber":"425-555-0105","description":"","package":"Move-In/Out","totalPrice":350,"times":"9:00am - 12:00pm","payment_type":"Auto CC"},
+    {"id":6,"start":"2026-05-07T10:00:00","end":"2026-05-07T12:00:00","resourceId":5195,"customer_name":"Felix Martinez","phoneNumber":"425-555-0106","description":"Has dogs, please bring treats","package":"Maintenance","totalPrice":155,"times":"10:00am - 12:00pm","payment_type":"Manual CC"},
+    {"id":7,"start":"2026-05-08T08:00:00","end":"2026-05-08T10:00:00","resourceId":5261,"customer_name":"Grace Taylor","phoneNumber":"425-555-0107","description":"","package":"Maintenance","totalPrice":165,"times":"8:00am - 10:00am","payment_type":"Auto CC"}
+  ];
+  document.getElementById('json-input').value=JSON.stringify(sample,null,2);
+  var d=new Date(),day=d.getDay(); d.setDate(d.getDate()-day+(day===0?-6:1));
+  document.getElementById('week-date').valueAsDate=d;
+}
+function clearInput(){ document.getElementById('json-input').value=''; document.getElementById('results-area').style.display='none'; cleanerData={}; jsonPayload=null; }
+
+// ── UTILS ─────────────────────────────────────────────────────────────────────
+function fmtTime(iso){ if(!iso)return''; var d=new Date(iso); return d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true}); }
+function fmtWeek(s){ var d=new Date(s+'T00:00:00'),e=new Date(d); e.setDate(d.getDate()+6); var o={month:'short',day:'numeric'}; return d.toLocaleDateString('en-US',o)+' \u2013 '+e.toLocaleDateString('en-US',Object.assign({},o,{year:'numeric'})); }
+function ini(n){ return n.split(/[\/\s]+/).filter(Boolean).map(function(w){return w[0];}).join('').toUpperCase().slice(0,2); }
+function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function showPane(id){
+  document.querySelectorAll('.pane').forEach(function(p){p.classList.remove('active');});
+  document.querySelectorAll('.ni').forEach(function(n){n.classList.remove('active');});
+  document.getElementById('pane-'+id).classList.add('active');
+  var map={extract:0,process:1,publish:2,links:3,roster:4,setup:5};
+  document.querySelectorAll('.ni')[map[id]].classList.add('active');
+}
+function cp(encoded,btn){ navigator.clipboard.writeText(decodeURIComponent(encoded)).then(function(){ showToast('Copied!'); if(btn){var o=btn.textContent;btn.textContent='\u2713';setTimeout(function(){btn.textContent=o;},1500);} }); }
+function showToast(msg){ var t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show'); setTimeout(function(){t.classList.remove('show');},2500); }
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
 (function(){
-  var DAY_ORDER = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
-
-  function ini(n){ return n.split(/[\/\s]+/).filter(Boolean).map(function(w){return w[0];}).join('').toUpperCase().slice(0,2); }
-  function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-
-  // Read ?cleaner=name from URL
-  var params = new URLSearchParams(location.search);
-  var cleanerParam = (params.get('cleaner')||'').trim().toLowerCase();
-
-  if (!cleanerParam) {
-    showError('No cleaner specified','This link is missing the cleaner name.<br>Ask your manager for your personal schedule link.');
-    return;
-  }
-
-  // JSON_URL is replaced by the admin tool when generating the schedules file
-  // It points to the raw schedules.json on your GitHub repo
-  var JSON_URL = params.get('src') || 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json';
-
-  if (JSON_URL === 'https://raw.githubusercontent.com/vlicaros/TwoMaidsBellevueWeeklySchedule/main/schedules.json') {
-    showError('Not configured','The viewer page has not been configured yet.<br>Contact your manager.');
-    return;
-  }
-
-  // Fetch the schedule JSON (cache-busted so cleaners always get latest)
-  fetch(JSON_URL + '?t=' + Date.now())
-    .then(function(r){
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      return r.json();
-    })
-    .then(function(data){
-      // data = { week: "...", updated: "...", cleaners: { "megan": [...], "nick": [...] } }
-      var key = cleanerParam;
-      var cleanerJobs = data.cleaners && data.cleaners[key];
-
-      if (!cleanerJobs) {
-        // Try case-insensitive match
-        var found = Object.keys(data.cleaners||{}).find(function(k){ return k.toLowerCase()===key; });
-        if (found) cleanerJobs = data.cleaners[found];
-      }
-
-      // Capitalise name for display
-      var displayName = cleanerParam.charAt(0).toUpperCase() + cleanerParam.slice(1);
-
-      if (!cleanerJobs || !cleanerJobs.length) {
-        document.getElementById('hbadge').textContent = data.week || 'This Week';
-        showNoJobs(displayName, data.week);
-        return;
-      }
-
-      renderSchedule(displayName, data.week, data.updated, cleanerJobs);
-    })
-    .catch(function(e){
-      showError('Could not load schedule','Unable to fetch schedule data.<br>Try refreshing in a moment, or contact your manager.<br><small style="font-family:monospace;font-size:.75rem;opacity:.6">'+e.message+'</small>');
-    });
-
-  function renderSchedule(name, week, updated, jobs) {
-    document.title = name + "'s Schedule – Two Maids";
-    document.getElementById('hbadge').textContent = week || 'This Week';
-
-    var byDay = {};
-    jobs.forEach(function(j){ if(!byDay[j.day])byDay[j.day]=[]; byDay[j.day].push(j); });
-    var days = DAY_ORDER.filter(function(d){ return byDay[d]; });
-    var total = jobs.reduce(function(s,j){ return s+(parseFloat(j.price)||0); },0);
-
-    var html = '';
-
-    // Profile card
-    html += '<div class="profile-card">';
-    html += '<div class="avatar">'+ini(name)+'</div>';
-    html += '<div><div class="pname">'+esc(name)+'</div>';
-    if (week) html += '<div class="pweek">'+esc(week)+'</div>';
-    html += '<div class="pstats">';
-    html += '<span class="spill s-jobs">'+jobs.length+' job'+(jobs.length!==1?'s':'')+'</span>';
-    if (total>0) html += '<span class="spill s-total">$'+total.toLocaleString()+' total</span>';
-    html += '</div></div></div>';
-
-    if (updated) html += '<div class="updated-bar">Last updated: '+esc(updated)+'</div>';
-
-    days.forEach(function(day){
-      var dJobs = byDay[day];
-      var dateStr = dJobs[0]&&dJobs[0].date ? dJobs[0].date : '';
-      html += '<div class="day-group">';
-      html += '<div class="day-header"><span class="day-name">'+day+'</span>';
-      if (dateStr) html += '<span class="day-date">'+esc(dateStr)+'</span>';
-      html += '</div>';
-      dJobs.forEach(function(j){
-        if (j.phone) html += '<div class="job-phone"><a href="tel:'+esc(j.phone)+'">'+esc(j.phone)+'</a></div>';
-        if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
-        html += '<div class="divider"></div><div class="pills">';
-        if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
-        if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
-        if (j.price)   html += '<span class="pill p-price">$'+esc(String(j.price))+'</span>';
-        if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
-        html += '</div></div></div>';
-      });
-      html += '</div>';
-    });
-
-    document.getElementById('app').innerHTML = html;
-  }
-
-  function showNoJobs(name, week) {
-    document.getElementById('app').innerHTML =
-      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div><div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
-      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2><p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
-  }
-
-  function showError(title, msg) {
-    document.getElementById('app').innerHTML =
-      '<div class="state"><div class="state-icon">📋</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
-  }
-})();
-</script>
-</body>
-</html>html += '<div class="job-card"><div class="job-accent"></div><div class="job-body">';
-          html += '<div class="job-customer">'+esc(j.customer)+'</div>';
-          if (j.address){ var mapUrl='https://maps.google.com/?q='+encodeURIComponent(j.address); html += '<div class="job-address"><a class="maps-btn" href="'+mapUrl+'" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="13" height="13"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'+esc(j.address)+'</a></div>'; }
-          if (j.phone) html += '<div class="job-phone"><a href="tel:'+esc(j.phone)+'">'+esc(j.phone)+'</a></div>';
-          if (j.notes) html += '<div class="job-notes">'+esc(j.notes)+'</div>';
-          html += '<div class="divider"></div><div class="pills">';
-        if (j.time)    html += '<span class="pill p-time">⏰ '+esc(j.time)+'</span>';
-        if (j.package) html += '<span class="pill p-def">'+esc(j.package)+'</span>';
-        if (j.price)   html += '<span class="pill p-price">$'+esc(String(j.price))+'</span>';
-        if (j.payment) html += '<span class="pill p-pay">'+esc(j.payment)+'</span>';
-        html += '</div></div></div>';
-      });
-      html += '</div>';
-    });
-
-    document.getElementById('app').innerHTML = html;
-  }
-
-  function showNoJobs(name, week) {
-    document.getElementById('app').innerHTML =
-      '<div class="profile-card"><div class="avatar">'+ini(name)+'</div><div><div class="pname">'+esc(name)+'</div>'+(week?'<div class="pweek">'+esc(week)+'</div>':'')+'</div></div>'+
-      '<div class="state"><div class="state-icon">☀️</div><h2>No jobs this week</h2><p>You have no scheduled appointments for this week.<br>Check back after your manager updates the schedule.</p></div>';
-  }
-
-  function showError(title, msg) {
-    document.getElementById('app').innerHTML =
-      '<div class="state"><div class="state-icon">📋</div><h2>'+esc(title)+'</h2><p>'+msg+'</p></div>';
-  }
+  var d=new Date(),day=d.getDay();
+  d.setDate(d.getDate()-day+(day===0?-6:1));
+  document.getElementById('week-date').valueAsDate=d;
+  var bmStart=new Date(d), bmEnd=new Date(d); bmEnd.setDate(bmEnd.getDate()+7);
+  var fmt=function(dt){return dt.toISOString().slice(0,10);};
+  document.getElementById('bm-start').value=fmt(bmStart);
+  document.getElementById('bm-end').value=fmt(bmEnd);
+  document.getElementById('bm-start').addEventListener('change',function(){
+    var s=new Date(this.value+'T00:00:00'); s.setDate(s.getDate()+7);
+    document.getElementById('bm-end').value=fmt(s); buildBookmarklet();
+  });
+  document.getElementById('bm-end').addEventListener('change',buildBookmarklet);
+  buildBookmarklet();
+  var saved=localStorage.getItem('gh-base2')||'https://vlicaros.github.io/TwoMaidsBellevueWeeklySchedule';
+  document.getElementById('gh-base').value=saved;
+  document.getElementById('gh-base').addEventListener('change',function(){localStorage.setItem('gh-base2',this.value);});
+  renderRosterDisplay();
 })();
 </script>
 </body>
