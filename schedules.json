@@ -1,6 +1,6 @@
 {
   "week": "Jun 21 – Jun 27, 2026",
-  "updated": "Fri, Jun 19, 7:14 PM",
+  "updated": "Mon, Jun 22, 2:15 AM",
   "cleaners": {
     "nick": [
       {
@@ -84,16 +84,31 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-06-22",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Adi Groysman - Monday Premium",
-        "time": "<b>2026-06-22 09:00AM - 11:00AM PDT</b>",
-        "price": "0.00",
+        "customer": "Elvira Budiawan",
+        "address": "3973 162nd Place Southeast\n                                  Bellevue, WA 98008",
+        "phone": "206-383-4427",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-22 01:00PM - 04:00PM PDT</b>",
+        "price": "349.00",
         "payment": "None",
-        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Tish/Loreina",
-        "id": 14211463
+        "notes": "",
+        "team": "Megan/Loreina",
+        "id": 13942506
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-22",
+        "customer": "Megan Shumaker",
+        "address": "13132 Holmes Point Drive Northeast\n                                  Kirkland, WA 98034",
+        "phone": "415-706-9676",
+        "package": "Design With Time",
+        "time": "<b>2026-06-22 09:30AM - 12:30PM PDT</b>",
+        "price": "391.00",
+        "payment": "None",
+        "notes": " | <p>Just moved from Maryland, MA. Looks like previous customer for Two Maids in MA.</p>",
+        "team": "Megan/Loreina",
+        "id": 14258624
       },
       {
         "day": "Tue",
@@ -169,7 +184,7 @@
         "price": "349.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Malien",
+        "team": "Megan/Loreina",
         "id": 13942506
       },
       {
@@ -184,7 +199,7 @@
         "price": "391.00",
         "payment": "None",
         "notes": " | <p>Just moved from Maryland, MA. Looks like previous customer for Two Maids in MA.</p>",
-        "team": "Megan/Malien",
+        "team": "Megan/Loreina",
         "id": 14258624
       },
       {
@@ -298,31 +313,31 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-06-22",
-        "customer": "Elvira Budiawan",
-        "address": "3973 162nd Place Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-383-4427",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-22 01:00PM - 04:00PM PDT</b>",
-        "price": "349.00",
+        "customer": "Vanessa Arevalo",
+        "address": "1840 154th Avenue Northeast Apt C226\n                                  Bellevue, WA 98007",
+        "phone": "909-205-3708",
+        "package": "Move-In/Out",
+        "time": "<b>2026-06-22 01:00PM - 03:43PM PDT</b>",
+        "price": "410.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Malien",
-        "id": 13942506
+        "team": "Tish/Malien",
+        "id": 14302617
       },
       {
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-06-22",
-        "customer": "Megan Shumaker",
-        "address": "13132 Holmes Point Drive Northeast\n                                  Kirkland, WA 98034",
-        "phone": "415-706-9676",
-        "package": "Design With Time",
-        "time": "<b>2026-06-22 09:30AM - 12:30PM PDT</b>",
-        "price": "391.00",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Adi Groysman - Monday Premium",
+        "time": "<b>2026-06-22 09:00AM - 11:00AM PDT</b>",
+        "price": "0.00",
         "payment": "None",
-        "notes": " | <p>Just moved from Maryland, MA. Looks like previous customer for Two Maids in MA.</p>",
-        "team": "Megan/Malien",
-        "id": 14258624
+        "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Tish/Malien",
+        "id": 14211463
       },
       {
         "day": "Tue",
@@ -420,6 +435,21 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-06-22",
+        "customer": "Vanessa Arevalo",
+        "address": "1840 154th Avenue Northeast Apt C226\n                                  Bellevue, WA 98007",
+        "phone": "909-205-3708",
+        "package": "Move-In/Out",
+        "time": "<b>2026-06-22 01:00PM - 03:43PM PDT</b>",
+        "price": "410.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Malien",
+        "id": 14302617
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-22",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
@@ -428,7 +458,7 @@
         "price": "0.00",
         "payment": "None",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Tish/Loreina",
+        "team": "Tish/Malien",
         "id": 14211463
       },
       {
