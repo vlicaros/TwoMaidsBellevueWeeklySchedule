@@ -1,131 +1,7 @@
 {
   "week": "Jun 21 – Jun 27, 2026",
-  "updated": "Tue, Jun 23, 1:44 AM",
+  "updated": "Wed, Jun 24, 12:06 AM",
   "cleaners": {
-    "nick": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-22",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-22 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Nick",
-        "id": 13523270
-      },
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-06-22",
-        "customer": "Shivali Luhadia",
-        "address": "2441 76th Avenue Southeast#502\n                                  Mercer Island, WA 98040",
-        "phone": "425-435-0020",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-22 02:00PM - 03:00PM PDT</b>",
-        "price": "150.00",
-        "payment": "Cash",
-        "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
-        "team": "Nick",
-        "id": 13514078
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-23",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-23 09:00AM - 12:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": " | The client prefers a morning appointment because her kids come back home in the afternoon.&nbsp;",
-        "team": "Nick/Loreina",
-        "id": 13891055
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-24",
-        "customer": "Shagufta Dukandar",
-        "address": "10374 157th Place Northeast\n                                  Redmond, WA 98052",
-        "phone": "858-666-5121",
-        "package": "Design With Time",
-        "time": "<b>2026-06-24 09:00AM - 12:00PM PDT</b>",
-        "price": "350.00",
-        "payment": "None",
-        "notes": " | <p class=\"p1\"><span class=\"s1\"><b>Cleaning Notes:&nbsp; </b>This will be a move-out clean. The client wants us to try to finish in 3 hrs but if we need to go over time, that is fine by her.&nbsp;</span></p><p class=\"p1\"><span class=\"s1\"><b>Parking Instructions:&nbsp;</b></span><span class=\"s2\">Please meet the client at the </span><span class=\"s1\">front door first to unload your equipment</span><span class=\"s2\">. The client will then provide instructions on where you can park. It's a townhome, so there could be limited parking.</span></p><p class=\"p1\"><span class=\"s2\">Thank you so much for your hard work!</span></p>",
-        "team": "Nick/Malien",
-        "id": 14307256
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-25",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-25 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523374
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-06-26",
-        "customer": "Akshita Rao",
-        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
-        "phone": "206-566-3506",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-26 01:00PM - 02:15PM PDT</b>",
-        "price": "197.00",
-        "payment": "None",
-        "notes": " | Please enter through the leasing office.&nbsp;",
-        "team": "Nick",
-        "id": 13800685
-      }
-    ],
-    "loreina": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-06-23",
-        "customer": "Erica Dewater",
-        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
-        "phone": "206-310-8753",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-06-23 09:00AM - 12:00PM PDT</b>",
-        "price": "269.00",
-        "payment": "None",
-        "notes": " | The client prefers a morning appointment because her kids come back home in the afternoon.&nbsp;",
-        "team": "Nick/Loreina",
-        "id": 13891055
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-06-25",
-        "customer": "Sylvia Perry",
-        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
-        "phone": "206-639-0646",
-        "package": "Premium Weekly",
-        "time": "<b>2026-06-25 09:30AM - 12:00PM PDT</b>",
-        "price": "313.60",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Loreina",
-        "id": 13523374
-      }
-    ],
     "vance": [
       {
         "day": "Tue",
@@ -137,7 +13,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-06-23 09:30AM - 10:45AM PDT</b>",
         "price": "281.40",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Vance/Megan",
         "id": 13543809
@@ -152,10 +28,25 @@
         "package": "Premium Monthly",
         "time": "<b>2026-06-23 01:00PM - 02:00PM PDT</b>",
         "price": "206.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "<p>There will be a key code to get in.</p> | Requested for Megan <b>ONLY</b>",
         "team": "Vance/Megan",
         "id": 14013532
+      },
+      {
+        "day": "Sat",
+        "dayNum": 6,
+        "date": "2026-06-27",
+        "customer": "Alison Faddis",
+        "address": "10333 Northeast 1st Street120\n                                  Bellevue, WA 98004",
+        "phone": "360-609-4500",
+        "package": "Airbnb 900",
+        "time": "<b>2026-06-27 11:00AM - 12:30PM PDT</b>",
+        "price": "150.00",
+        "payment": "None",
+        "notes": "<p>Check out 11am</p><p>check in 3pm</p> | <p>Airbnb will provide key code</p><p>check out time 11am</p><p>check in time 3pm</p>",
+        "team": "Vance/Megan",
+        "id": 14319238
       }
     ],
     "megan": [
@@ -199,7 +90,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-06-23 09:30AM - 10:45AM PDT</b>",
         "price": "281.40",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Vance/Megan",
         "id": 13543809
@@ -214,7 +105,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-06-23 01:00PM - 02:00PM PDT</b>",
         "price": "206.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "<p>There will be a key code to get in.</p> | Requested for Megan <b>ONLY</b>",
         "team": "Vance/Megan",
         "id": 14013532
@@ -293,6 +184,21 @@
         "notes": "<p>Client will update if we can go a bit earlier since movers will be moving boxes to the truck.&nbsp;</p><p>Possibility might need to move to Monday if she's not ready. Vance will supervise</p> | <p>Bathrooms mostly clean just need a good go over</p><p>Kitchen will need some work on the hood, she will take some hood parts off</p><p>Bathrooms check the vents make sure those are dusted and wiped clean.</p><p>Light fixture like dining room and some of the rooms if we can reach them to do a quick wipe. recessed lighting needs to be high dusted.</p>",
         "team": "Megan/Malien",
         "id": 14298687
+      },
+      {
+        "day": "Sat",
+        "dayNum": 6,
+        "date": "2026-06-27",
+        "customer": "Alison Faddis",
+        "address": "10333 Northeast 1st Street120\n                                  Bellevue, WA 98004",
+        "phone": "360-609-4500",
+        "package": "Airbnb 900",
+        "time": "<b>2026-06-27 11:00AM - 12:30PM PDT</b>",
+        "price": "150.00",
+        "payment": "None",
+        "notes": "<p>Check out 11am</p><p>check in 3pm</p> | <p>Airbnb will provide key code</p><p>check out time 11am</p><p>check in time 3pm</p>",
+        "team": "Vance/Megan",
+        "id": 14319238
       }
     ],
     "tish": [
@@ -377,21 +283,6 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-06-24",
-        "customer": "Shagufta Dukandar",
-        "address": "10374 157th Place Northeast\n                                  Redmond, WA 98052",
-        "phone": "858-666-5121",
-        "package": "Design With Time",
-        "time": "<b>2026-06-24 09:00AM - 12:00PM PDT</b>",
-        "price": "350.00",
-        "payment": "None",
-        "notes": " | <p class=\"p1\"><span class=\"s1\"><b>Cleaning Notes:&nbsp; </b>This will be a move-out clean. The client wants us to try to finish in 3 hrs but if we need to go over time, that is fine by her.&nbsp;</span></p><p class=\"p1\"><span class=\"s1\"><b>Parking Instructions:&nbsp;</b></span><span class=\"s2\">Please meet the client at the </span><span class=\"s1\">front door first to unload your equipment</span><span class=\"s2\">. The client will then provide instructions on where you can park. It's a townhome, so there could be limited parking.</span></p><p class=\"p1\"><span class=\"s2\">Thank you so much for your hard work!</span></p>",
-        "team": "Nick/Malien",
-        "id": 14307256
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-24",
         "customer": "Danielle Jenne",
         "address": "8397 158th Avenue NortheastApt 323\n                                  Redmond, WA 98052",
         "phone": "530-356-1233",
@@ -402,6 +293,21 @@
         "notes": "",
         "team": "Megan/Malien",
         "id": 13514386
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-24",
+        "customer": "Shagufta Dukandar",
+        "address": "10374 157th Place Northeast\n                                  Redmond, WA 98052",
+        "phone": "858-666-5121",
+        "package": "Design With Time",
+        "time": "<b>2026-06-24 09:00AM - 12:00PM PDT</b>",
+        "price": "350.00",
+        "payment": "None",
+        "notes": "<p>Vance will bring a leaf blower for the patio and garage.</p><p>Walls, door trim, doors and baseboards have been newly painted. Focus on bathrooms and kitchen, floors and windows. &nbsp;there’s time, inside cabinets, drawers and closets</p> | <p class=\"p1\"><span class=\"s1\"><b>Cleaning Notes:&nbsp; </b>This will be a move-out clean. The client wants us to try to finish in 3 hrs but if we need to go over time, that is fine by her.&nbsp;</span></p><p class=\"p1\"><b>Access Info:</b>&nbsp;Lock on the front door code: 3700</p><p class=\"p1\"><span class=\"s2\">Thank you so much for your hard work!</span></p>",
+        "team": "Nick/Malien",
+        "id": 14307256
       },
       {
         "day": "Thu",
@@ -481,6 +387,98 @@
         "id": 14258624
       }
     ],
+    "nick": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-22",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-22 09:30AM - 12:00PM PDT</b>",
+        "price": "313.60",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Nick",
+        "id": 13523270
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-22",
+        "customer": "Shivali Luhadia",
+        "address": "2441 76th Avenue Southeast#502\n                                  Mercer Island, WA 98040",
+        "phone": "425-435-0020",
+        "package": "Premium Monthly",
+        "time": "<b>2026-06-22 02:00PM - 03:00PM PDT</b>",
+        "price": "150.00",
+        "payment": "Cash",
+        "notes": "<p>The Client wants more of a touch-up cleaning. She wants her balcony to be swept (there are two small ones).</p><p>Change bed linens if put out</p> | \r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease press the buzzer under the name S. Luhadia when you arrive. The apartment is on the 5th floor. Once you get there, knock on the door and someone will unlock it for you.",
+        "team": "Nick",
+        "id": 13514078
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-06-23",
+        "customer": "Erica Dewater",
+        "address": "3818 45th Avenue Northeast\n                                  Seattle, WA 98105",
+        "phone": "206-310-8753",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-23 09:00AM - 12:00PM PDT</b>",
+        "price": "269.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | The client prefers a morning appointment because her kids come back home in the afternoon.&nbsp;",
+        "team": "Nick",
+        "id": 13891055
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-06-24",
+        "customer": "Shagufta Dukandar",
+        "address": "10374 157th Place Northeast\n                                  Redmond, WA 98052",
+        "phone": "858-666-5121",
+        "package": "Design With Time",
+        "time": "<b>2026-06-24 09:00AM - 12:00PM PDT</b>",
+        "price": "350.00",
+        "payment": "None",
+        "notes": "<p>Vance will bring a leaf blower for the patio and garage.</p><p>Walls, door trim, doors and baseboards have been newly painted. Focus on bathrooms and kitchen, floors and windows. &nbsp;there’s time, inside cabinets, drawers and closets</p> | <p class=\"p1\"><span class=\"s1\"><b>Cleaning Notes:&nbsp; </b>This will be a move-out clean. The client wants us to try to finish in 3 hrs but if we need to go over time, that is fine by her.&nbsp;</span></p><p class=\"p1\"><b>Access Info:</b>&nbsp;Lock on the front door code: 3700</p><p class=\"p1\"><span class=\"s2\">Thank you so much for your hard work!</span></p>",
+        "team": "Nick/Malien",
+        "id": 14307256
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-25",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-25 09:30AM - 12:00PM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 13523374
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-06-26",
+        "customer": "Akshita Rao",
+        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
+        "phone": "206-566-3506",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-06-26 01:00PM - 02:15PM PDT</b>",
+        "price": "197.00",
+        "payment": "None",
+        "notes": " | Please enter through the leasing office.&nbsp;",
+        "team": "Nick",
+        "id": 13800685
+      }
+    ],
     "andrew": [
       {
         "day": "Thu",
@@ -496,6 +494,23 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan/Andrew",
         "id": 13514119
+      }
+    ],
+    "loreina": [
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-06-25",
+        "customer": "Sylvia Perry",
+        "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
+        "phone": "206-639-0646",
+        "package": "Premium Weekly",
+        "time": "<b>2026-06-25 09:30AM - 12:00PM PDT</b>",
+        "price": "313.60",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Loreina",
+        "id": 13523374
       }
     ]
   }
