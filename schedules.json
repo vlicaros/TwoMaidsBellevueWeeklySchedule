@@ -1,6 +1,6 @@
 {
   "week": "Jun 28 – Jul 4, 2026",
-  "updated": "Mon, Jun 29, 9:17 PM",
+  "updated": "Mon, Jun 29, 9:51 PM",
   "cleaners": {
     "nick": [
       {
@@ -53,7 +53,7 @@
         "dayNum": 2,
         "date": "2026-06-30",
         "customer": "Aaron Chau",
-        "address": "6035 26th Avenue Northeast2602 NE 22nd St. Renton, WA 98056\n                                  Seattle, WA 98115",
+        "address": "6035 26th Avenue Northeast\n                                  Seattle, WA 98115",
         "phone": "425-999-7678",
         "package": "Design With Time",
         "time": "<b>2026-06-30 09:00AM - 01:00PM PDT</b>",
@@ -175,7 +175,7 @@
         "dayNum": 2,
         "date": "2026-06-30",
         "customer": "Aaron Chau",
-        "address": "6035 26th Avenue Northeast2602 NE 22nd St. Renton, WA 98056\n                                  Seattle, WA 98115",
+        "address": "6035 26th Avenue Northeast\n                                  Seattle, WA 98115",
         "phone": "425-999-7678",
         "package": "Design With Time",
         "time": "<b>2026-06-30 09:00AM - 01:00PM PDT</b>",
