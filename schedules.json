@@ -1,6 +1,6 @@
 {
   "week": "Jun 28 – Jul 4, 2026",
-  "updated": "Mon, Jun 29, 9:51 PM",
+  "updated": "Thu, Jul 2, 12:56 PM",
   "cleaners": {
     "nick": [
       {
@@ -42,7 +42,7 @@
         "phone": "224-595-8814",
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 01:00PM - 03:00PM PDT</b>",
-        "price": "238.00",
+        "price": "213.00",
         "payment": "None",
         "notes": "",
         "team": "Nick/Thais",
@@ -58,25 +58,10 @@
         "package": "Design With Time",
         "time": "<b>2026-06-30 09:00AM - 01:00PM PDT</b>",
         "price": "543.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Move out clean but DWT 4hrs</p><p>- no bedrooms</p><p>-kitchen</p><p>- 2 baths</p><p>- hallways and stairs</p><p>- no laundry room</p>",
         "team": "Nick/Thais",
         "id": 14288735
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-01",
-        "customer": "Ravi Pudipeddi",
-        "address": "288 106th Avenue NortheastApt 2302\n                                  Bellevue, WA 98004",
-        "phone": "425-241-6912",
-        "package": "Design With Time",
-        "time": "<b>2026-07-01 01:00PM - 03:00PM PDT</b>",
-        "price": "276.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Malien",
-        "id": 14349238
       },
       {
         "day": "Wed",
@@ -107,21 +92,6 @@
         "notes": "",
         "team": "Nick",
         "id": 13523375
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-03",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-03 01:00PM - 03:43PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Thais",
-        "id": 14311654
       },
       {
         "day": "Fri",
@@ -164,7 +134,7 @@
         "phone": "224-595-8814",
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 01:00PM - 03:00PM PDT</b>",
-        "price": "238.00",
+        "price": "213.00",
         "payment": "None",
         "notes": "",
         "team": "Nick/Thais",
@@ -180,7 +150,7 @@
         "package": "Design With Time",
         "time": "<b>2026-06-30 09:00AM - 01:00PM PDT</b>",
         "price": "543.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Move out clean but DWT 4hrs</p><p>- no bedrooms</p><p>-kitchen</p><p>- 2 baths</p><p>- hallways and stairs</p><p>- no laundry room</p>",
         "team": "Nick/Thais",
         "id": 14288735
@@ -195,25 +165,25 @@
         "package": "Move-In/Out",
         "time": "<b>2026-07-01 09:00AM - 04:24PM PDT</b>",
         "price": "1074.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Megan/Thais",
         "id": 14318795
       },
       {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-03",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-03 01:00PM - 03:43PM PDT</b>",
-        "price": "356.00",
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-02",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-02 01:00PM - 03:45PM PDT</b>",
+        "price": "378.00",
         "payment": "None",
-        "notes": "",
-        "team": "Nick/Thais",
-        "id": 14311654
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
+        "team": "Megan/Thais",
+        "id": 14106005
       },
       {
         "day": "Fri",
@@ -257,7 +227,7 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 01:00PM - 02:15PM PDT</b>",
         "price": "262.80",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
         "team": "Megan/Malien",
         "id": 14265661
@@ -272,7 +242,7 @@
         "package": "Move-In/Out",
         "time": "<b>2026-07-01 09:00AM - 04:24PM PDT</b>",
         "price": "1074.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Megan/Thais",
         "id": 14318795
@@ -289,7 +259,7 @@
         "price": "378.00",
         "payment": "None",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Malien",
+        "team": "Megan/Thais",
         "id": 14106005
       },
       {
@@ -306,21 +276,6 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan/Andrew",
         "id": 13514120
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-02",
-        "customer": "Hwan Ja Perreault",
-        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-669-1959",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-02 09:00AM - 11:30AM PDT</b>",
-        "price": "403.01",
-        "payment": "None",
-        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Megan/Malien",
-        "id": 13516158
       },
       {
         "day": "Fri",
@@ -364,7 +319,7 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 01:00PM - 02:15PM PDT</b>",
         "price": "262.80",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
         "team": "Megan/Malien",
         "id": 14265661
@@ -379,25 +334,10 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 10:30AM - 12:30PM PDT</b>",
         "price": "259.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "<p>No need to clean spare room and back office.</p> | \r\n\r\n\r\n\r\n<p class=\"p1\"><b>Client Notes:</b></p>\r\n\r\n<p class=\"p3\">Client would like a very detail-oriented cleaning every visit. Please pay close attention to corners, baseboards, trim, windows, and blinds, as these are important areas for her and should be cleaned each time.</p>\r\n\r\n<p class=\"p4\"><b>Master Bedroom</b></p>\r\n\r\n<ul><li><span class=\"s1\">NO bedsheet changes, just make the bed</span></li><li><span class=\"s1\">Regular dusting and spot cleaning.</span></li><li><span class=\"s1\">High and low dusting.</span></li></ul><p><b>Additional bedrooms</b></p><ul><li>Office: just need quick dust and vacuum, in Sept we won't need to do</li><li>Guest Room: doesn't get used often quick dust check and vacuum.</li></ul>\r\n\r\n<p class=\"p4\"><b>Bathrooms (2)</b></p>\r\n\r\n<ul><li><span class=\"s1\">Deep clean both bathrooms every visit.</span></li><li><span class=\"s1\">Please pay special attention to corners, edges, and detailed areas.</span></li><li><span class=\"s1\">Client uses a wheelchair, so it is difficult for her to clean these areas herself. Attention to detail in the bathrooms is especially important.</span></li><li><span class=\"s1\">toilet has raiser which can be unplugged and moved out of the way.</span></li><li><span class=\"s1\">doesn't use bath rugs since it gets caught in the wheelchair, so towels on the floor just need to be shaken and folded and placed on the side.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Kitchen</b></p><ul><li><span class=\"s1\">Focus on detailed cleaning, not just surface cleaning.</span></li><li><span class=\"s1\">Remember to check Kitchen window</span></li><li><span class=\"s1\">Garbage is in one of the closets in the kitchen need to wipe the ledge.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Studio&nbsp;</b></p>\r\n\r\n<ul><li><span class=\"s1\">Do your best to dust thoroughly, as there are a lot of items in this area.</span></li><li><span class=\"s1\">Focus on corners, baseboards, and detailed dusting around furniture and belongings.</span></li><li>French doors need spot checking (there's two sets)</li><li>there's additional microwave and air fryer that need to be wiped down.</li></ul><p><b>Living Room</b></p><ul><li>Fireplace may have a lot of wood chips etc but just try your best. if possible dust off fireplace</li></ul><p><b>Laundry Room</b></p><ul><li>dust as much as possible but don't need to fold clothes at all</li></ul>",
         "team": "Vance/Malien",
         "id": 14232856
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-01",
-        "customer": "Ravi Pudipeddi",
-        "address": "288 106th Avenue NortheastApt 2302\n                                  Bellevue, WA 98004",
-        "phone": "425-241-6912",
-        "package": "Design With Time",
-        "time": "<b>2026-07-01 01:00PM - 03:00PM PDT</b>",
-        "price": "276.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Malien",
-        "id": 14349238
       },
       {
         "day": "Wed",
@@ -418,31 +358,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-07-02",
-        "customer": "Lokesh Paliwal",
-        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
-        "phone": "425-922-7848",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-07-02 01:00PM - 03:45PM PDT</b>",
-        "price": "378.00",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-02 01:00PM - 04:15PM PDT</b>",
+        "price": "450.06",
         "payment": "None",
-        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Megan/Malien",
-        "id": 14106005
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-02",
-        "customer": "Hwan Ja Perreault",
-        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-669-1959",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-02 09:00AM - 11:30AM PDT</b>",
-        "price": "403.01",
-        "payment": "None",
-        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Megan/Malien",
-        "id": 13516158
+        "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Malien",
+        "id": 13514524
       },
       {
         "day": "Fri",
@@ -488,7 +413,7 @@
         "price": "450.06",
         "payment": "None",
         "notes": "<p>Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p>Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p>Always make sure kitchen counters are water mark free.</p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
-        "team": "Tish",
+        "team": "Tish/Malien",
         "id": 13514524
       },
       {
@@ -535,7 +460,7 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-06-30 10:30AM - 12:30PM PDT</b>",
         "price": "259.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "<p>No need to clean spare room and back office.</p> | \r\n\r\n\r\n\r\n<p class=\"p1\"><b>Client Notes:</b></p>\r\n\r\n<p class=\"p3\">Client would like a very detail-oriented cleaning every visit. Please pay close attention to corners, baseboards, trim, windows, and blinds, as these are important areas for her and should be cleaned each time.</p>\r\n\r\n<p class=\"p4\"><b>Master Bedroom</b></p>\r\n\r\n<ul><li><span class=\"s1\">NO bedsheet changes, just make the bed</span></li><li><span class=\"s1\">Regular dusting and spot cleaning.</span></li><li><span class=\"s1\">High and low dusting.</span></li></ul><p><b>Additional bedrooms</b></p><ul><li>Office: just need quick dust and vacuum, in Sept we won't need to do</li><li>Guest Room: doesn't get used often quick dust check and vacuum.</li></ul>\r\n\r\n<p class=\"p4\"><b>Bathrooms (2)</b></p>\r\n\r\n<ul><li><span class=\"s1\">Deep clean both bathrooms every visit.</span></li><li><span class=\"s1\">Please pay special attention to corners, edges, and detailed areas.</span></li><li><span class=\"s1\">Client uses a wheelchair, so it is difficult for her to clean these areas herself. Attention to detail in the bathrooms is especially important.</span></li><li><span class=\"s1\">toilet has raiser which can be unplugged and moved out of the way.</span></li><li><span class=\"s1\">doesn't use bath rugs since it gets caught in the wheelchair, so towels on the floor just need to be shaken and folded and placed on the side.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Kitchen</b></p><ul><li><span class=\"s1\">Focus on detailed cleaning, not just surface cleaning.</span></li><li><span class=\"s1\">Remember to check Kitchen window</span></li><li><span class=\"s1\">Garbage is in one of the closets in the kitchen need to wipe the ledge.</span></li></ul>\r\n\r\n<p class=\"p4\"><b>Studio&nbsp;</b></p>\r\n\r\n<ul><li><span class=\"s1\">Do your best to dust thoroughly, as there are a lot of items in this area.</span></li><li><span class=\"s1\">Focus on corners, baseboards, and detailed dusting around furniture and belongings.</span></li><li>French doors need spot checking (there's two sets)</li><li>there's additional microwave and air fryer that need to be wiped down.</li></ul><p><b>Living Room</b></p><ul><li>Fireplace may have a lot of wood chips etc but just try your best. if possible dust off fireplace</li></ul><p><b>Laundry Room</b></p><ul><li>dust as much as possible but don't need to fold clothes at all</li></ul>",
         "team": "Vance/Malien",
         "id": 14232856
@@ -550,7 +475,7 @@
         "package": "Airbnb 900",
         "time": "<b>2026-07-01 11:00AM - 12:30PM PDT</b>",
         "price": "150.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Airbnb will provide key code</p><p>check out time 11am</p><p>check in time 3pm</p>",
         "team": "Vance",
         "id": 14319239
