@@ -1,6 +1,6 @@
 {
   "week": "Jul 5 – Jul 11, 2026",
-  "updated": "Tue, Jul 7, 8:12 AM",
+  "updated": "Tue, Jul 7, 7:00 PM",
   "cleaners": {
     "nick": [
       {
@@ -28,7 +28,7 @@
         "package": "Premium Weekly",
         "time": "<b>2026-07-07 09:00AM - 02:00PM PDT</b>",
         "price": "590.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
         "team": "Vance/Nick",
         "id": 14344285
@@ -47,6 +47,21 @@
         "notes": "",
         "team": "Nick",
         "id": 13523376
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-09",
+        "customer": "Lauren Williams",
+        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
+        "phone": "206-327-7726",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-09 01:00PM - 03:43PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Thais",
+        "id": 14311654
       },
       {
         "day": "Fri",
@@ -84,7 +99,7 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-07-06",
-        "customer": "The Eastside Connection ",
+        "customer": "Lior Yeffet",
         "address": "8508 142nd Avenue Northeast\n                                  Redmond, WA 98052",
         "phone": "425-524-5513",
         "package": "Design With Time",
@@ -105,7 +120,7 @@
         "package": "Premium Monthly",
         "time": "<b>2026-07-07 09:00AM - 11:30AM PDT</b>",
         "price": "403.01",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
         "team": "Megan/Thais",
         "id": 13516158
@@ -129,21 +144,6 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-07-09",
-        "customer": "Cheryan Jacob",
-        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
-        "phone": "608-628-7455",
-        "package": "Premium Weekly",
-        "time": "<b>2026-07-09 01:00PM - 03:15PM PDT</b>",
-        "price": "368.67",
-        "payment": "None",
-        "notes": "<p>Reduced cleaning for summer:<br><span style=\"font-size: 1rem;\">Upstairs: just dusting of bedrooms&nbsp; and bathrooms (no need to clean just make sure shampoo bottles not leaving rings) and vacuum out footprints<br></span><span style=\"font-size: 1rem;\">Downstairs: Same other than master bedroom and bathroom. powder room can just be dusted since not being used.&nbsp;<br><br>Watering of plants throughout</span></p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
-        "team": "Megan/Thais",
-        "id": 13514525
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-09",
         "customer": "Joanna Shih",
         "address": "1511 7th Street\n                                  Kirkland, WA 98033",
         "phone": "626-328-3715",
@@ -154,6 +154,21 @@
         "notes": " | The clients want only women to clean their place. Make sure to send Tish/Megan every time.&nbsp;",
         "team": "Megan/Thais",
         "id": 13490192
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-09",
+        "customer": "Lauren Williams",
+        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
+        "phone": "206-327-7726",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-09 01:00PM - 03:43PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Thais",
+        "id": 14311654
       },
       {
         "day": "Fri",
@@ -206,31 +221,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-07-09",
-        "customer": "Kamal Shah",
-        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
-        "phone": "201-396-3838",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-07-09 09:00AM - 11:15AM PDT</b>",
-        "price": "311.50",
+        "customer": "Cheryan Jacob",
+        "address": "9429 255th Avenue Northeast\n                                  Redmond, WA 98053",
+        "phone": "608-628-7455",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-09 01:00PM - 03:15PM PDT</b>",
+        "price": "368.67",
         "payment": "None",
-        "notes": " | Physical key",
-        "team": "Tish",
-        "id": 13678159
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-09",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-09 01:00PM - 03:43PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Tish",
-        "id": 14311654
+        "notes": "<p>Reduced cleaning for summer:<br><span style=\"font-size: 1rem;\">Upstairs: just dusting of bedrooms&nbsp; and bathrooms (no need to clean just make sure shampoo bottles not leaving rings) and vacuum out footprints<br></span><span style=\"font-size: 1rem;\">Downstairs: Same other than master bedroom and bathroom. powder room can just be dusted since not being used.&nbsp;<br><br>Watering of plants throughout</span></p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
+        "team": "Tish/Megan",
+        "id": 13514525
       },
       {
         "day": "Fri",
@@ -253,7 +253,7 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-07-06",
-        "customer": "The Eastside Connection ",
+        "customer": "Lior Yeffet",
         "address": "8508 142nd Avenue Northeast\n                                  Redmond, WA 98052",
         "phone": "425-524-5513",
         "package": "Design With Time",
@@ -274,10 +274,25 @@
         "package": "Premium Monthly",
         "time": "<b>2026-07-07 09:00AM - 11:30AM PDT</b>",
         "price": "403.01",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
         "team": "Megan/Thais",
         "id": 13516158
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-08",
+        "customer": "Kamal Shah",
+        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
+        "phone": "201-396-3838",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-08 01:00PM - 03:15PM PDT</b>",
+        "price": "311.50",
+        "payment": "None",
+        "notes": " | Physical key",
+        "team": "Megan",
+        "id": 13678159
       },
       {
         "day": "Wed",
@@ -306,7 +321,7 @@
         "price": "368.67",
         "payment": "None",
         "notes": "<p>Reduced cleaning for summer:<br><span style=\"font-size: 1rem;\">Upstairs: just dusting of bedrooms&nbsp; and bathrooms (no need to clean just make sure shampoo bottles not leaving rings) and vacuum out footprints<br></span><span style=\"font-size: 1rem;\">Downstairs: Same other than master bedroom and bathroom. powder room can just be dusted since not being used.&nbsp;<br><br>Watering of plants throughout</span></p> | <p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Main focus areas weekly: bathrooms, kitchen, butlers counter, high traffic areas (kitchen floor hallways, mud room and entry ways) covered patio furniture/grill (when applicable sweep)</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Rotating areas (meaning spot check and do them biweekly or when needed): theater room, laundry room, living room, dining room, entrance sitting room, pantry.</p><p style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Always make sure kitchen counters are water mark free.</p>",
-        "team": "Megan/Thais",
+        "team": "Tish/Megan",
         "id": 13514525
       },
       {
@@ -398,25 +413,10 @@
         "package": "Premium Weekly",
         "time": "<b>2026-07-07 09:00AM - 02:00PM PDT</b>",
         "price": "590.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
         "team": "Vance/Nick",
         "id": 14344285
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-09",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-09 01:00PM - 03:43PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Tish",
-        "id": 14311654
       }
     ]
   }
