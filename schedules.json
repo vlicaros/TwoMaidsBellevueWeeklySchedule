@@ -1,6 +1,6 @@
 {
   "week": "Jul 5 – Jul 11, 2026",
-  "updated": "Tue, Jul 7, 7:00 PM",
+  "updated": "Tue, Jul 7, 7:17 PM",
   "cleaners": {
     "nick": [
       {
@@ -278,21 +278,6 @@
         "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
         "team": "Megan/Thais",
         "id": 13516158
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-08",
-        "customer": "Kamal Shah",
-        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
-        "phone": "201-396-3838",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-07-08 01:00PM - 03:15PM PDT</b>",
-        "price": "311.50",
-        "payment": "None",
-        "notes": " | Physical key",
-        "team": "Megan",
-        "id": 13678159
       },
       {
         "day": "Wed",
