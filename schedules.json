@@ -1,6 +1,6 @@
 {
   "week": "Jul 5 – Jul 11, 2026",
-  "updated": "Tue, Jul 7, 7:17 PM",
+  "updated": "Tue, Jul 7, 7:18 PM",
   "cleaners": {
     "nick": [
       {
@@ -124,21 +124,6 @@
         "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
         "team": "Megan/Thais",
         "id": 13516158
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-08",
-        "customer": "Cindy Yu",
-        "address": "11783 159th Avenue Northeast\n                                  Redmond, WA 98052",
-        "phone": "425-301-1551",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-08 09:30AM - 12:00PM PDT</b>",
-        "price": "335.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Thais",
-        "id": 13715975
       },
       {
         "day": "Thu",
@@ -291,7 +276,7 @@
         "price": "335.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Thais",
+        "team": "Megan",
         "id": 13715975
       },
       {
