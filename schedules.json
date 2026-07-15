@@ -1,6 +1,6 @@
 {
   "week": "Jul 12 – Jul 18, 2026",
-  "updated": "Mon, Jul 13, 8:40 PM",
+  "updated": "Tue, Jul 14, 8:36 PM",
   "cleaners": {
     "nick": [
       {
@@ -43,10 +43,25 @@
         "package": "Premium Weekly",
         "time": "<b>2026-07-14 09:00AM - 02:00PM PDT</b>",
         "price": "590.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
         "team": "Nick/Thais",
         "id": 14344286
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-15",
+        "customer": "Su Phukhopha",
+        "address": "10717 Burke Avenue NorthUnit H\n                                  Seattle, WA 98133",
+        "phone": "206-769-2021",
+        "package": "Move-In/Out",
+        "time": "<b>2026-07-15 09:00AM - 12:43PM PDT</b>",
+        "price": "438.00",
+        "payment": "None",
+        "notes": "<p>She will leave the key under the mat, in front of the front door.</p><p>There is a stain on the carpet that she would like us to try to get out. Maybe you can try using a spray and scrubbing it. If it doesn't come off, it's okay. She wants us to try and see if it will come off.</p>",
+        "team": "Nick/Thais",
+        "id": 14412637
       },
       {
         "day": "Wed",
@@ -62,21 +77,6 @@
         "notes": " | <p>Move out clean</p>",
         "team": "Vance/Nick",
         "id": 14429044
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-15",
-        "customer": "Su Phukhopha",
-        "address": "10717 Burke Avenue NorthUnit H\n                                  Seattle, WA 98133",
-        "phone": "206-769-2021",
-        "package": "Move-In/Out",
-        "time": "<b>2026-07-15 09:00AM - 12:43PM PDT</b>",
-        "price": "438.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Thais",
-        "id": 14412637
       },
       {
         "day": "Thu",
@@ -105,7 +105,7 @@
         "price": "295.20",
         "payment": "None",
         "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Nick/Thais",
+        "team": "Nick",
         "id": 13913836
       },
       {
@@ -180,7 +180,7 @@
         "package": "Design With Time",
         "time": "<b>2026-07-14 09:00AM - 11:00AM PDT</b>",
         "price": "252.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "<p>Priority list provided when arrive but no bathrooms initially. Trial before recurring</p> | Looking to do customized cleaning. No bathrooms but kitchen and common areas. Start off with 2 hrs but may want to add more to their priority list so can extend",
         "team": "Vance/Megan",
         "id": 14428473
@@ -195,7 +195,7 @@
         "package": "Premium Weekly",
         "time": "<b>2026-07-14 03:00PM - 04:15PM PDT</b>",
         "price": "207.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Vance/Megan",
         "id": 14435943
@@ -210,7 +210,7 @@
         "package": "Premium Biweekly",
         "time": "<b>2026-07-14 12:30PM - 01:45PM PDT</b>",
         "price": "262.80",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
         "team": "Vance/Megan",
         "id": 14265662
@@ -252,21 +252,6 @@
         "customer": "Rose Gabalis",
         "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
         "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-07-16 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514122
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-16",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
         "package": "3W Monthly Advancement Office",
         "time": "<b>2026-07-16 07:00PM - 09:30PM PDT</b>",
         "price": "347.26",
@@ -279,16 +264,31 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-07-16",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-16 02:15PM - 04:58PM PDT</b>",
-        "price": "356.00",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-07-16 06:00PM - 07:25PM PDT</b>",
+        "price": "173.64",
         "payment": "None",
-        "notes": "",
-        "team": "Megan/Thais",
-        "id": 14311654
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan/Andrew",
+        "id": 13514122
+      },
+            {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-16",
+        "customer": "Undisclosed Name",
+        "address": "Please ask Mina",
+        "phone": "425-458-4748",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-16 02:30PM - 5:00PM PDT</b>",
+        "price": "000.00",
+        "payment": "None",
+        "notes": " Pleae ask Mina about this cleaning",
+        "team": "Tish/Megan/Cole",
+        "id": 13678160
       },
       {
         "day": "Fri",
@@ -347,10 +347,25 @@
         "package": "Premium Weekly",
         "time": "<b>2026-07-14 09:00AM - 02:00PM PDT</b>",
         "price": "590.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
         "team": "Nick/Thais",
         "id": 14344286
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-15",
+        "customer": "Su Phukhopha",
+        "address": "10717 Burke Avenue NorthUnit H\n                                  Seattle, WA 98133",
+        "phone": "206-769-2021",
+        "package": "Move-In/Out",
+        "time": "<b>2026-07-15 09:00AM - 12:43PM PDT</b>",
+        "price": "438.00",
+        "payment": "None",
+        "notes": "<p>She will leave the key under the mat, in front of the front door.</p><p>There is a stain on the carpet that she would like us to try to get out. Maybe you can try using a spray and scrubbing it. If it doesn't come off, it's okay. She wants us to try and see if it will come off.</p>",
+        "team": "Nick/Thais",
+        "id": 14412637
       },
       {
         "day": "Wed",
@@ -368,34 +383,19 @@
         "id": 14106006
       },
       {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-15",
-        "customer": "Su Phukhopha",
-        "address": "10717 Burke Avenue NorthUnit H\n                                  Seattle, WA 98133",
-        "phone": "206-769-2021",
-        "package": "Move-In/Out",
-        "time": "<b>2026-07-15 09:00AM - 12:43PM PDT</b>",
-        "price": "438.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Thais",
-        "id": 14412637
-      },
-      {
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-07-16",
-        "customer": "Mary Jane Yamada",
-        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
-        "phone": "865-368-2157",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-16 01:00PM - 02:15PM PDT</b>",
-        "price": "295.20",
+        "customer": "Kamal Shah",
+        "address": "11825 Stendall Drive North\n                                  Seattle, WA 98133",
+        "phone": "201-396-3838",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-16 09:00AM - 11:15AM PDT</b>",
+        "price": "311.50",
         "payment": "None",
-        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "Nick/Thais",
-        "id": 13913836
+        "notes": " | Physical key",
+        "team": "Tish/Thais",
+        "id": 13678160
       },
       {
         "day": "Thu",
@@ -405,11 +405,11 @@
         "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
         "phone": "206-327-7726",
         "package": "Deep Clean",
-        "time": "<b>2026-07-16 02:15PM - 04:58PM PDT</b>",
+        "time": "<b>2026-07-16 02:30PM - 05:13PM PDT</b>",
         "price": "356.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Thais",
+        "team": "Vance/Thais",
         "id": 14311654
       },
       {
@@ -443,6 +443,130 @@
         "id": 14342583
       }
     ],
+    "andrew": [
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-16",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Monthly Advancement Office",
+        "time": "<b>2026-07-16 07:00PM - 09:30PM PDT</b>",
+        "price": "347.26",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan/Andrew",
+        "id": 13514225
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-16",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-07-16 06:00PM - 07:25PM PDT</b>",
+        "price": "173.64",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan/Andrew",
+        "id": 13514122
+      }
+    ],
+    "vance": [
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-07-14",
+        "customer": "Ryan Li",
+        "address": "7918 Northeast 124th Street\n                                  Kirkland, WA 98034",
+        "phone": "832-807-0332",
+        "package": "Design With Time",
+        "time": "<b>2026-07-14 09:00AM - 11:00AM PDT</b>",
+        "price": "252.00",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>Priority list provided when arrive but no bathrooms initially. Trial before recurring</p> | Looking to do customized cleaning. No bathrooms but kitchen and common areas. Start off with 2 hrs but may want to add more to their priority list so can extend",
+        "team": "Vance/Megan",
+        "id": 14428473
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-07-14",
+        "customer": "LaMia Hayek",
+        "address": "6306 164th Ave SE\n                                  Bellevue, WA 98006",
+        "phone": "206-458-9797",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-14 03:00PM - 04:15PM PDT</b>",
+        "price": "207.00",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Megan",
+        "id": 14435943
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-07-14",
+        "customer": "David Bastien",
+        "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
+        "phone": "203-907-5985",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-14 12:30PM - 01:45PM PDT</b>",
+        "price": "262.80",
+        "payment": "Automatic Credit Card",
+        "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
+        "team": "Vance/Megan",
+        "id": 14265662
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-15",
+        "customer": "Anthony Kustas",
+        "address": "2414 139th Avenue Southeast\n                                  Bellevue, WA 98005",
+        "phone": "519-320-1733",
+        "package": "Move-In/Out",
+        "time": "<b>2026-07-15 01:00PM - 04:28PM PDT</b>",
+        "price": "514.00",
+        "payment": "None",
+        "notes": " | <p>Move out clean</p>",
+        "team": "Vance/Nick",
+        "id": 14429044
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-16",
+        "customer": "Lauren Williams",
+        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
+        "phone": "206-327-7726",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-16 02:30PM - 05:13PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Vance/Thais",
+        "id": 14311654
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-07-17",
+        "customer": "Leighann Subuh",
+        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
+        "phone": "817-807-8089",
+        "package": "Premium Monthly",
+        "time": "<b>2026-07-17 09:00AM - 10:15AM PDT</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
+        "team": "Vance/Megan",
+        "id": 14123853
+      }
+    ],
     "tish": [
       {
         "day": "Mon",
@@ -471,7 +595,7 @@
         "price": "311.50",
         "payment": "None",
         "notes": " | Physical key",
-        "team": "Tish",
+        "team": "Tish/Thais",
         "id": 13678160
       },
       {
@@ -482,11 +606,11 @@
         "address": "Please ask Mina",
         "phone": "425-458-4748",
         "package": "Premium Weekly",
-        "time": "<b>2026-07-16 01:00PM - 4:15PM PDT</b>",
+        "time": "<b>2026-07-16 02:30PM - 5:00PM PDT</b>",
         "price": "000.00",
         "payment": "None",
         "notes": " Pleae ask Mina about this cleaning",
-        "team": "Tish",
+        "team": "Tish/Megan/Cole",
         "id": 13678160
       },
       {
@@ -518,115 +642,6 @@
         "notes": " | Townhouse complex located behind a home",
         "team": "Tish/Thais",
         "id": 14342583
-      }
-    ],
-    "vance": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-07-14",
-        "customer": "Ryan Li",
-        "address": "7918 Northeast 124th Street\n                                  Kirkland, WA 98034",
-        "phone": "832-807-0332",
-        "package": "Design With Time",
-        "time": "<b>2026-07-14 09:00AM - 11:00AM PDT</b>",
-        "price": "252.00",
-        "payment": "None",
-        "notes": "<p>Priority list provided when arrive but no bathrooms initially. Trial before recurring</p> | Looking to do customized cleaning. No bathrooms but kitchen and common areas. Start off with 2 hrs but may want to add more to their priority list so can extend",
-        "team": "Vance/Megan",
-        "id": 14428473
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-07-14",
-        "customer": "LaMia Hayek",
-        "address": "6306 164th Ave SE\n                                  Bellevue, WA 98006",
-        "phone": "206-458-9797",
-        "package": "Premium Weekly",
-        "time": "<b>2026-07-14 03:00PM - 04:15PM PDT</b>",
-        "price": "207.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Megan",
-        "id": 14435943
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-07-14",
-        "customer": "David Bastien",
-        "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
-        "phone": "203-907-5985",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-07-14 12:30PM - 01:45PM PDT</b>",
-        "price": "262.80",
-        "payment": "None",
-        "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
-        "team": "Vance/Megan",
-        "id": 14265662
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-15",
-        "customer": "Anthony Kustas",
-        "address": "2414 139th Avenue Southeast\n                                  Bellevue, WA 98005",
-        "phone": "519-320-1733",
-        "package": "Move-In/Out",
-        "time": "<b>2026-07-15 01:00PM - 04:28PM PDT</b>",
-        "price": "514.00",
-        "payment": "None",
-        "notes": " | <p>Move out clean</p>",
-        "team": "Vance/Nick",
-        "id": 14429044
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-17",
-        "customer": "Leighann Subuh",
-        "address": "15843 Northeast 98th Way\n                                  Redmond, WA 98052",
-        "phone": "817-807-8089",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-17 09:00AM - 10:15AM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Important Notes:</p><p class=\"p1\">\r\n\r\n\r\n\r\n\r\n\r\n</p><ul><li><span class=\"s1\"><b>Client requests that we use their cleaning supplies and vacuum only.</b></span></li><li><span class=\"s1\">Please focus on all high and low dusting areas, including baseboards, ceiling fans, top of cabinets/shelving, fridge, and washer.</span></li><li><span class=\"s1\">Please do not hang the bath mats on the towel hanger. Her bath mat looks like a white hotel-style towel and can easily get mistaken.</span></li><li><span class=\"s1\">Be careful when vacuuming inside the bathroom — the rug can get caught in the vacuum.</span></li><li><span class=\"s1\">Starting in July, client would like to alternate add-ons monthly: oven add-on in July, fridge add-on the following month, and continue alternating moving forward.</span></li></ul><p><span class=\"s1\"><br></span></p><p>Request for Megan if possible&nbsp;</p>",
-        "team": "Vance/Megan",
-        "id": 14123853
-      }
-    ],
-    "andrew": [
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-16",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-07-16 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514122
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-16",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Monthly Advancement Office",
-        "time": "<b>2026-07-16 07:00PM - 09:30PM PDT</b>",
-        "price": "347.26",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514225
       }
     ]
   }
