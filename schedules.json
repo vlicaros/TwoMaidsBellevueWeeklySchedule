@@ -398,21 +398,6 @@
         "id": 13678160
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-16",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-16 02:30PM - 05:13PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Thais",
-        "id": 14311654
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-07-17",
@@ -535,21 +520,6 @@
         "notes": " | <p>Move out clean</p>",
         "team": "Vance/Nick",
         "id": 14429044
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-16",
-        "customer": "Lauren Williams",
-        "address": "3218 Eastlake Avenue EastUnit Q\n                                  Seattle, WA 98102",
-        "phone": "206-327-7726",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-16 02:30PM - 05:13PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Thais",
-        "id": 14311654
       },
       {
         "day": "Fri",
