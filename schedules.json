@@ -1,6 +1,6 @@
 {
-  "week": "Jul 19 – Jul 25, 2026",
-  "updated": "Sun, Jul 19, 3:48 PM",
+  "week": "Jul 19 – Jul 25, 9",
+  "updated": "Sun, Jul 19, 4:25 PM",
   "cleaners": {
     "vance": [
       {
@@ -122,7 +122,7 @@
         "price": "197.00",
         "payment": "None",
         "notes": " | Please enter through the leasing office.&nbsp;",
-        "team": "Tish",
+        "team": "Tish/Thais",
         "id": 13800687
       }
     ],
@@ -214,7 +214,7 @@
         "price": "390.00",
         "payment": "None",
         "notes": "<p>She needs help with only the family room, kitchen, and one bathroom downstairs. Please make sure you do a very thorough cleaning of these areas for her. Thank you so much!</p>",
-        "team": "Megan/Thais",
+        "team": "Megan/Cole",
         "id": 14436509
       }
     ],
@@ -328,21 +328,6 @@
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-07-24",
-        "customer": "Andrea Castell",
-        "address": "13609 Northeast 36th Place\n                                  Bellevue, WA 98005",
-        "phone": "425-765-8713",
-        "package": "Design With Time",
-        "time": "<b>2026-07-24 01:00PM - 04:00PM PDT</b>",
-        "price": "390.00",
-        "payment": "None",
-        "notes": "<p>She needs help with only the family room, kitchen, and one bathroom downstairs. Please make sure you do a very thorough cleaning of these areas for her. Thank you so much!</p>",
-        "team": "Megan/Thais",
-        "id": 14436509
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-24",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
@@ -353,6 +338,83 @@
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Tish/Thais",
         "id": 13730416
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-07-24",
+        "customer": "Akshita Rao",
+        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
+        "phone": "206-566-3506",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-24 02:00PM - 03:15PM PDT</b>",
+        "price": "197.00",
+        "payment": "None",
+        "notes": " | Please enter through the leasing office.&nbsp;",
+        "team": "Tish/Thais",
+        "id": 13800687
+      }
+    ],
+    "cole": [
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-07-21",
+        "customer": "Ella Harris",
+        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
+        "phone": "917-547-9388",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-21 09:00AM - 02:00PM PDT</b>",
+        "price": "590.00",
+        "payment": "None",
+        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
+        "team": "Vance/Cole",
+        "id": 14344287
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-22",
+        "customer": "Karen Cabanilla",
+        "address": "530 Broadway EastUnit 213\n                                  Seattle, WA 98102",
+        "phone": "206-407-4894",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-22 09:30AM - 12:13PM PDT</b>",
+        "price": "356.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Megan/Thais/Cole",
+        "id": 14381619
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-22",
+        "customer": "Becki Snellenberg",
+        "address": "8845 Southeast 37th Street\n                                  Mercer Island, WA 98040",
+        "phone": "206-498-7881",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-22 01:00PM - 04:01PM PDT</b>",
+        "price": "394.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Megan/Thais/Cole",
+        "id": 14467664
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-07-24",
+        "customer": "Andrea Castell",
+        "address": "13609 Northeast 36th Place\n                                  Bellevue, WA 98005",
+        "phone": "425-765-8713",
+        "package": "Design With Time",
+        "time": "<b>2026-07-24 01:00PM - 04:00PM PDT</b>",
+        "price": "390.00",
+        "payment": "None",
+        "notes": "<p>She needs help with only the family room, kitchen, and one bathroom downstairs. Please make sure you do a very thorough cleaning of these areas for her. Thank you so much!</p>",
+        "team": "Megan/Cole",
+        "id": 14436509
       }
     ],
     "andrew": [
@@ -402,68 +464,6 @@
         "notes": "",
         "team": "Nick/Tish",
         "id": 13942507
-      }
-    ],
-    "cole": [
-       {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-07-21",
-        "customer": "Ella Harris",
-        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
-        "phone": "917-547-9388",
-        "package": "Premium Weekly",
-        "time": "<b>2026-07-21 09:00AM - 02:00PM PDT</b>",
-        "price": "590.00",
-        "payment": "None",
-        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
-        "team": "Vance/Cole",
-        "id": 14344287
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-22",
-        "customer": "Karen Cabanilla",
-        "address": "530 Broadway EastUnit 213\n                                  Seattle, WA 98102",
-        "phone": "206-407-4894",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-22 09:30AM - 12:13PM PDT</b>",
-        "price": "356.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Thais/Cole",
-        "id": 14381619
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-22",
-        "customer": "Becki Snellenberg",
-        "address": "8845 Southeast 37th Street\n                                  Mercer Island, WA 98040",
-        "phone": "206-498-7881",
-        "package": "Deep Clean",
-        "time": "<b>2026-07-22 01:00PM - 04:01PM PDT</b>",
-        "price": "394.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Megan/Thais/Cole",
-        "id": 14467664
-      },
-       {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-24",
-        "customer": "Andrea Castell",
-        "address": "13609 Northeast 36th Place\n                                  Bellevue, WA 98005",
-        "phone": "425-765-8713",
-        "package": "Design With Time",
-        "time": "<b>2026-07-24 01:00PM - 04:00PM PDT</b>",
-        "price": "390.00",
-        "payment": "None",
-        "notes": "<p>She needs help with only the family room, kitchen, and one bathroom downstairs. Please make sure you do a very thorough cleaning of these areas for her. Thank you so much!</p>",
-        "team": "Megan/Thais/Cole",
-        "id": 14436509
       }
     ]
   }
