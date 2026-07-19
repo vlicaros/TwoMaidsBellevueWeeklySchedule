@@ -202,6 +202,21 @@
         "team": "Megan/Andrew",
         "id": 13514123
       },
+       {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-07-24",
+        "customer": "Helen Heidenreich",
+        "address": "508 Stevens Ave NW\n                                  Renton, WA 98057",
+        "phone": "",
+        "package": "Custom",
+        "time": "<b>2026-07-24 09:30AM - 012:30PM PDT</b>",
+        "price": "150.00",
+        "payment": "None",
+        "notes": "<p>Custom clean for Helen, she will be home</p>",
+        "team": "Megan",
+        "id": 14436509
+      },
       {
         "day": "Fri",
         "dayNum": 5,
