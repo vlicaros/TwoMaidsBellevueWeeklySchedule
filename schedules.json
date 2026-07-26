@@ -15,7 +15,7 @@
         "price": "331.00",
         "payment": "None",
         "notes": " | <p>Buzzer 904 or name</p><p>Parking - guest parking only a few spots and there’s street parking. And if not reach out to the client&nbsp;</p>",
-        "team": "Tish/Megan",
+        "team": "Cole/Megan",
         "id": 14510400
       },
       {
@@ -353,7 +353,7 @@
         "price": "331.00",
         "payment": "None",
         "notes": " | <p>Buzzer 904 or name</p><p>Parking - guest parking only a few spots and there’s street parking. And if not reach out to the client&nbsp;</p>",
-        "team": "Tish/Megan",
+        "team": "Tish/Megan/Cole",
         "id": 14510400
       },
       {
@@ -450,6 +450,21 @@
       }
     ],
     "cole": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-07-27",
+        "customer": "Shantanu Singhal",
+        "address": "75 Vine StreetApt 904\n                                  Seattle, WA 98122",
+        "phone": "608-960-0027",
+        "package": "Deep Clean",
+        "time": "<b>2026-07-27 09:30AM - 12:13PM PDT</b>",
+        "price": "331.00",
+        "payment": "None",
+        "notes": " | <p>Buzzer 904 or name</p><p>Parking - guest parking only a few spots and there’s street parking. And if not reach out to the client&nbsp;</p>",
+        "team": "Tish/Megan/Cole",
+        "id": 14510400
+      },
       {
         "day": "Mon",
         "dayNum": 1,
