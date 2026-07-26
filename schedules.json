@@ -30,7 +30,7 @@
         "price": "267.84",
         "payment": "None",
         "notes": "",
-        "team": "Vance/Megan",
+        "team": "Vance/Megan/Cole",
         "id": 13514387
       },
       {
@@ -45,23 +45,8 @@
         "price": "262.80",
         "payment": "None",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
-        "team": "Megan/Thais",
+        "team": "Megan/Thais/Cole/Trainee",
         "id": 14265663
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-07-29",
-        "customer": "Lokesh Paliwal",
-        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
-        "phone": "425-922-7848",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-07-29 01:00PM - 03:45PM PDT</b>",
-        "price": "378.00",
-        "payment": "None",
-        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
-        "team": "Vance/Megan",
-        "id": 14106007
       },
       {
         "day": "Wed",
@@ -75,8 +60,38 @@
         "price": "246.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/Cole",
+        "team": "Megan/Cole/Trainee/Trainee",
         "id": 14467262
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-29",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-29 01:00PM - 03:45PM PDT</b>",
+        "price": "378.00",
+        "payment": "None",
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
+        "team": "Vance/Megan/Cole/Trainee/Trainee",
+        "id": 14106007
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-30",
+        "customer": "Hwan Ja Perreault",
+        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
+        "phone": "206-669-1959",
+        "package": "Premium Monthly",
+        "time": "<b>2026-07-30 09:00AM - 11:30AM PDT</b>",
+        "price": "403.01",
+        "payment": "None",
+        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
+        "team": "Tish/Megan",
+        "id": 14021220
       },
       {
         "day": "Thu",
@@ -90,7 +105,7 @@
         "price": "514.00",
         "payment": "None",
         "notes": "<p>Tenant downstairs will be home if client isn’t</p> | Full move out. Just one office desk staying",
-        "team": "Vance/Megan",
+        "team": "Vance/Megan/Trainee",
         "id": 14495793
       },
       {
@@ -109,21 +124,6 @@
         "id": 13514124
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-30",
-        "customer": "Hwan Ja Perreault",
-        "address": "1924 165th Court Southeast\n                                  Bellevue, WA 98008",
-        "phone": "206-669-1959",
-        "package": "Premium Monthly",
-        "time": "<b>2026-07-30 09:00AM - 11:30AM PDT</b>",
-        "price": "403.01",
-        "payment": "None",
-        "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Tish/Megan",
-        "id": 14021220
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-07-31",
@@ -135,7 +135,7 @@
         "price": "549.00",
         "payment": "None",
         "notes": "<p>&nbsp;This will be a full move-out clean, including sweeping/dusting of the garage.&nbsp;</p>",
-        "team": "Tish/Megan",
+        "team": "Tish/Megan/Trainee",
         "id": 14465248
       },
       {
@@ -150,7 +150,7 @@
         "price": "276.00",
         "payment": "None",
         "notes": " | <span style=\"caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; -webkit-text-size-adjust: 100%; background-color: rgb(243, 243, 243);\">deep clean for the living area, bathroom, and kitchen (including fridge cleaning if possible). no cleaning needed for the bedroom</span>",
-        "team": "Tish/Megan",
+        "team": "Tish/Megan/Trainee",
         "id": 14476856
       }
     ],
@@ -182,7 +182,7 @@
         "price": "262.80",
         "payment": "None",
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
-        "team": "Megan/Thais",
+        "team": "Megan/Thais/Trainee",
         "id": 14265663
       },
       {
@@ -368,23 +368,23 @@
         "price": "403.01",
         "payment": "None",
         "notes": " | <p>Looking to do a deep clean and then schedule monthly recurring cleaning ($335 premium monthly) - called in from Church Bulletin</p><p>only 1 or 2 bedrooms need to be cleaned since others are being used for storage</p>",
-        "team": "Tish/Megan",
+        "team": "Tish/Megan/Trainee/Trainee",
         "id": 14021220
       },
       {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-07-31",
-        "customer": "Ouchitya R",
-        "address": "15732 Northeast 14th Alley\n                                  Bellevue, WA 98008",
-        "phone": "704-903-7961",
-        "package": "Move-In/Out",
-        "time": "<b>2026-07-31 01:00PM - 05:16PM PDT</b>",
-        "price": "549.00",
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-30",
+        "customer": "C Jacobs",
+        "address": "Redmond",
+        "phone": "425-458-4748",
+        "package": "Premium Weekly",
+        "time": "<b>2026-07-16 01:00PM - 4:15PM PDT</b>",
+        "price": "000.00",
         "payment": "None",
-        "notes": "<p>&nbsp;This will be a full move-out clean, including sweeping/dusting of the garage.&nbsp;</p>",
-        "team": "Tish/Megan",
-        "id": 14465248
+        "notes": "Reduced summer cleaning",
+        "team": "Tish",
+        "id": 13678160
       },
       {
         "day": "Fri",
@@ -400,6 +400,21 @@
         "notes": " | <span style=\"caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; -webkit-text-size-adjust: 100%; background-color: rgb(243, 243, 243);\">deep clean for the living area, bathroom, and kitchen (including fridge cleaning if possible). no cleaning needed for the bedroom</span>",
         "team": "Tish/Megan",
         "id": 14476856
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-07-31",
+        "customer": "Ouchitya R",
+        "address": "15732 Northeast 14th Alley\n                                  Bellevue, WA 98008",
+        "phone": "704-903-7961",
+        "package": "Move-In/Out",
+        "time": "<b>2026-07-31 01:00PM - 05:16PM PDT</b>",
+        "price": "549.00",
+        "payment": "None",
+        "notes": "<p>&nbsp;This will be a full move-out clean, including sweeping/dusting of the garage.&nbsp;</p>",
+        "team": "Tish/Megan/Trainee/Trainee",
+        "id": 14465248
       }
     ],
     "andrew": [
@@ -435,6 +450,51 @@
       }
     ],
     "cole": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-07-27",
+        "customer": "Danielle Jenne",
+        "address": "8397 158th Avenue NortheastApt 323\n                                  Redmond, WA 98052",
+        "phone": "530-356-1233",
+        "package": "Premium Monthly",
+        "time": "<b>2026-07-27 01:45PM - 02:45PM PDT</b>",
+        "price": "267.84",
+        "payment": "None",
+        "notes": "",
+        "team": "Vance/Megan/Cole",
+        "id": 13514387
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-07-28",
+        "customer": "David Bastien",
+        "address": "225 4th AvenueA201\n                                  Kirkland, WA 98033",
+        "phone": "203-907-5985",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-28 09:30AM - 10:45AM PDT</b>",
+        "price": "262.80",
+        "payment": "None",
+        "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
+        "team": "Megan/Thais/Cole/Trainee",
+        "id": 14265663
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-07-29",
+        "customer": "Lokesh Paliwal",
+        "address": "13848 Southeast 10th Street\n                                  Bellevue, WA 98005",
+        "phone": "425-922-7848",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-07-29 01:00PM - 03:45PM PDT</b>",
+        "price": "378.00",
+        "payment": "None",
+        "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
+        "team": "Vance/Megan/Cole/Trainee/Trainee",
+        "id": 14106007
+      },
       {
         "day": "Wed",
         "dayNum": 3,
