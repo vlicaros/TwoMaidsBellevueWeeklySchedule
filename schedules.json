@@ -109,21 +109,6 @@
         "id": 14495793
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-07-30",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-07-30 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514124
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-07-31",
@@ -293,6 +278,21 @@
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home. Should send 3 people as much as possible</p><p>Husband Joshua contact number (646) 431-2887</p>",
         "team": "Nick/Andrew",
         "id": 14344288
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-07-30",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-07-30 06:00PM - 07:25PM PDT</b>",
+        "price": "173.64",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Nick - Megan to do walk through",
+        "id": 13514124
       },
       {
         "day": "Thu",
