@@ -1,86 +1,7 @@
 {
   "week": "Aug 10 – Aug 16, 2026",
-  "updated": "Tue, Aug 11, 7:42 PM",
+  "updated": "Wed, Aug 12, 9:13 PM",
   "cleaners": {
-    "vance": [
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-08-12",
-        "customer": "Josh Jones",
-        "address": "12632 se 61\n                                  Bellevue, WA 98006",
-        "phone": "832-744-5561",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-08-12 11:00AM - 12:45PM PDT</b>",
-        "price": "282.90",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Nick",
-        "id": 14597635
-      }
-    ],
-    "nick": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-08-11",
-        "customer": "Joshua Harris",
-        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-08-11 09:00AM - 02:00PM PDT</b>",
-        "price": "590.00",
-        "payment": "Automatic Credit Card",
-        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Nick/Thais",
-        "id": 14344290
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-08-12",
-        "customer": "Josh Jones",
-        "address": "12632 se 61\n                                  Bellevue, WA 98006",
-        "phone": "832-744-5561",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-08-12 11:00AM - 12:45PM PDT</b>",
-        "price": "282.90",
-        "payment": "None",
-        "notes": "",
-        "team": "Vance/Nick",
-        "id": 14597635
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-08-14",
-        "customer": "Akshita Rao",
-        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
-        "phone": "206-566-3506",
-        "package": "Premium Monthly",
-        "time": "<b>2026-08-14 02:00PM - 03:15PM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | Please enter through the leasing office.&nbsp;",
-        "team": "Nick/Cole",
-        "id": 14532415
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-08-14",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "425-444-1961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-08-14 09:30AM - 11:15AM PDT</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Cole",
-        "id": 13566225
-      }
-    ],
     "megan": [
       {
         "day": "Tue",
@@ -121,8 +42,8 @@
         "phone": "425-922-7848",
         "package": "Premium Biweekly",
         "time": "<b>2026-08-12 01:00PM - 03:45PM PDT</b>",
-        "price": "378.00",
-        "payment": "None",
+        "price": "407.00",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Megan/Thais",
         "id": 14106008
@@ -137,40 +58,10 @@
         "package": "Premium Monthly",
         "time": "<b>2026-08-12 04:30PM - 05:30PM PDT</b>",
         "price": "206.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | Call or buzz Andrew for garage access if parking is difficult",
-        "team": "Megan/Thais",
+        "team": "Vance/Megan",
         "id": 14506403
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-08-13",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-08-13 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514126
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-08-13",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Monthly Advancement Office",
-        "time": "<b>2026-08-13 07:00PM - 09:30PM PDT</b>",
-        "price": "347.26",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
-        "id": 13514226
       }
     ],
     "thais": [
@@ -213,26 +104,11 @@
         "phone": "425-922-7848",
         "package": "Premium Biweekly",
         "time": "<b>2026-08-12 01:00PM - 03:45PM PDT</b>",
-        "price": "378.00",
-        "payment": "None",
+        "price": "407.00",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">They don't need all areas of the home cleaned, just the bathrooms, main living areas and kitchen. Used online 3D floorplan of their home from developer ~3000sqft of the cleaning space they are asking&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(243, 243, 243);\">The wife works at home and will be the main contact and will do a walk through.</span></p>",
         "team": "Megan/Thais",
         "id": 14106008
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-08-12",
-        "customer": "Andrew Wang",
-        "address": "123 112th Avenue NortheastApt 137\n                                  Bellevue, WA 98004",
-        "phone": "415-424-9562",
-        "package": "Premium Monthly",
-        "time": "<b>2026-08-12 04:30PM - 05:30PM PDT</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": " | Call or buzz Andrew for garage access if parking is difficult",
-        "team": "Megan/Thais",
-        "id": 14506403
       },
       {
         "day": "Thu",
@@ -312,7 +188,69 @@
         "id": 13566225
       }
     ],
-    "andrew": [
+    "vance": [
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-08-12",
+        "customer": "Andrew Wang",
+        "address": "123 112th Avenue NortheastApt 137\n                                  Bellevue, WA 98004",
+        "phone": "415-424-9562",
+        "package": "Premium Monthly",
+        "time": "<b>2026-08-12 04:30PM - 05:30PM PDT</b>",
+        "price": "206.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | Call or buzz Andrew for garage access if parking is difficult",
+        "team": "Vance/Megan",
+        "id": 14506403
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-08-12",
+        "customer": "Josh Jones",
+        "address": "12632 se 61\n                                  Bellevue, WA 98006",
+        "phone": "832-744-5561",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-08-12 11:00AM - 12:45PM PDT</b>",
+        "price": "282.90",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Nick",
+        "id": 14597635
+      }
+    ],
+    "nick": [
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-08-11",
+        "customer": "Joshua Harris",
+        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-08-11 09:00AM - 02:00PM PDT</b>",
+        "price": "590.00",
+        "payment": "Automatic Credit Card",
+        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
+        "team": "Nick/Thais",
+        "id": 14344290
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-08-12",
+        "customer": "Josh Jones",
+        "address": "12632 se 61\n                                  Bellevue, WA 98006",
+        "phone": "832-744-5561",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-08-12 11:00AM - 12:45PM PDT</b>",
+        "price": "282.90",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Nick",
+        "id": 14597635
+      },
       {
         "day": "Thu",
         "dayNum": 4,
@@ -321,11 +259,11 @@
         "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
         "phone": "206-588-0311",
         "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-08-13 06:00PM - 07:25PM PDT</b>",
+        "time": "<b>2026-08-13 03:00PM - 04:25PM PDT</b>",
         "price": "173.64",
         "payment": "None",
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
+        "team": "Nick",
         "id": 13514126
       },
       {
@@ -336,12 +274,42 @@
         "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
         "phone": "206-588-0311",
         "package": "3W Monthly Advancement Office",
-        "time": "<b>2026-08-13 07:00PM - 09:30PM PDT</b>",
+        "time": "<b>2026-08-13 03:00PM - 05:30PM PDT</b>",
         "price": "347.26",
         "payment": "None",
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Megan/Andrew",
+        "team": "Nick",
         "id": 13514226
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-08-14",
+        "customer": "Akshita Rao",
+        "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
+        "phone": "206-566-3506",
+        "package": "Premium Monthly",
+        "time": "<b>2026-08-14 02:00PM - 03:15PM PDT</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | Please enter through the leasing office.&nbsp;",
+        "team": "Nick/Cole",
+        "id": 14532415
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-08-14",
+        "customer": "Becky Gilberg",
+        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
+        "phone": "425-444-1961",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-08-14 09:30AM - 11:15AM PDT</b>",
+        "price": "372.08",
+        "payment": "None",
+        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
+        "team": "Nick/Cole",
+        "id": 13566225
       }
     ],
     "tish": [
