@@ -1,6 +1,6 @@
 {
   "week": "Aug 10 – Aug 16, 2026",
-  "updated": "Tue, Aug 18, 6:03 PM",
+  "updated": "Tue, Aug 18, 7:08 PM",
   "cleaners": {
     "megan": [
       {
@@ -56,7 +56,7 @@
         "address": "6306 164th Ave SE\n                                  Bellevue, WA 98006",
         "phone": "206-458-9797",
         "package": "Premium Biweekly",
-        "time": "<b>2026-08-19 11:30AM - 12:45PM PDT</b>",
+        "time": "<b>2026-08-19 09:30AM - 10:45AM PDT</b>",
         "price": "246.00",
         "payment": "None",
         "notes": "",
@@ -82,21 +82,6 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-08-20",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-08-20 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Vance/Megan",
-        "id": 13514127
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-08-20",
         "customer": "Leo Saha",
         "address": "16538 Northeast 33rd CourtApt VV303\n                                  Redmond, WA 98052",
         "phone": "720-401-6998",
@@ -107,6 +92,21 @@
         "notes": "",
         "team": "Megan/Thais",
         "id": 14242248
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-08-21",
+        "customer": "Rose Gabalis",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "206-588-0311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-08-21 03:30PM - 04:55PM PDT</b>",
+        "price": "173.64",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Megan",
+        "id": 13514127
       },
       {
         "day": "Fri",
@@ -193,7 +193,7 @@
         "address": "6306 164th Ave SE\n                                  Bellevue, WA 98006",
         "phone": "206-458-9797",
         "package": "Premium Biweekly",
-        "time": "<b>2026-08-19 11:30AM - 12:45PM PDT</b>",
+        "time": "<b>2026-08-19 09:30AM - 10:45AM PDT</b>",
         "price": "246.00",
         "payment": "None",
         "notes": "",
@@ -415,21 +415,6 @@
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
         "team": "Vance/Cole",
         "id": 14344291
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-08-20",
-        "customer": "Rose Gabalis",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "206-588-0311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-08-20 06:00PM - 07:25PM PDT</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Vance/Megan",
-        "id": 13514127
       },
       {
         "day": "Thu",
