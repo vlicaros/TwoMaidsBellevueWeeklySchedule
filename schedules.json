@@ -154,6 +154,21 @@
         "notes": "<p><b>Laundry only&nbsp;</b></p> | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Sarah",
         "id": 14531115
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-08-20",
+        "customer": "C Jacobs",
+        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053",
+        "phone": "425-458-4748",
+        "package": "Premium Weekly",
+        "time": "<b>2026-08-20 01:00PM - 4:15PM PDT</b>",
+        "price": "325.00",
+        "payment": "None",
+        "notes": "Regular cleaning",
+        "team": "Tish/Sarah",
+        "id": 13678160
       }
     ],
     "megan": [
@@ -265,21 +280,6 @@
         "id": 13514080
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-08-20",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053",
-        "phone": "425-458-4748",
-        "package": "Premium Weekly",
-        "time": "<b>2026-08-20 01:00PM - 4:15PM PDT</b>",
-        "price": "325.00",
-        "payment": "None",
-        "notes": "Regular cleaning",
-        "team": "Tish/Thais",
-        "id": 13678160
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-08-28",
@@ -323,7 +323,7 @@
         "price": "325.00",
         "payment": "None",
         "notes": "Regular cleaning",
-        "team": "Tish/Thais",
+        "team": "Tish/Sarah",
         "id": 13678160
       },
       {
