@@ -1,6 +1,6 @@
 {
-  "week": "Aug 25 – Aug 31, 2026",
-  "updated": "Fri, Aug 28, 9:48 PM",
+  "week": "Aug 30 – Sep 5, 2026",
+  "updated": "Sat, Aug 29, 6:47 PM",
   "cleaners": {
     "marlene": [
       {
@@ -37,6 +37,21 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-09-03",
+        "customer": "Joshua Harris",
+        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-09-03 09:00AM - 02:00PM PDT</b>",
+        "price": "590.00",
+        "payment": "None",
+        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
+        "team": "Marlene/Thais/Cole",
+        "id": 14344293
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-09-03",
         "customer": "Rose Gabalis",
         "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
         "phone": "206-588-0311",
@@ -65,21 +80,6 @@
       }
     ],
     "sarah": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-09-01",
-        "customer": "Joshua Harris",
-        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-09-01 09:00AM - 02:00PM PDT</b>",
-        "price": "590.00",
-        "payment": "None",
-        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Sarah/Thais/Cole",
-        "id": 14344293
-      },
       {
         "day": "Wed",
         "dayNum": 3,
@@ -128,21 +128,6 @@
         "id": 14211473
       },
       {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-09-01",
-        "customer": "Joshua Harris",
-        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-09-01 09:00AM - 02:00PM PDT</b>",
-        "price": "590.00",
-        "payment": "None",
-        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Sarah/Thais/Cole",
-        "id": 14344293
-      },
-      {
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-09-02",
@@ -156,6 +141,21 @@
         "notes": "",
         "team": "Sarah/Thais",
         "id": 13715977
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-09-03",
+        "customer": "Joshua Harris",
+        "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-09-03 09:00AM - 02:00PM PDT</b>",
+        "price": "590.00",
+        "payment": "None",
+        "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
+        "team": "Marlene/Thais/Cole",
+        "id": 14344293
       },
       {
         "day": "Fri",
@@ -190,18 +190,18 @@
         "id": 14688405
       },
       {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-09-01",
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-09-03",
         "customer": "Joshua Harris",
         "address": "13403 Northeast 33rd Lane\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-09-01 09:00AM - 02:00PM PDT</b>",
+        "time": "<b>2026-09-03 09:00AM - 02:00PM PDT</b>",
         "price": "590.00",
         "payment": "None",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Sarah/Thais/Cole",
+        "team": "Marlene/Thais/Cole",
         "id": 14344293
       },
       {
@@ -276,7 +276,7 @@
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-08-27 1:00PM - 03:00PM PDT</b>",
+        "time": "<b>2026-09-03 1:00PM - 03:00PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
@@ -353,7 +353,7 @@
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-08-27 1:00PM - 03:00PM PDT</b>",
+        "time": "<b>2026-09-03 1:00PM - 03:00PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
