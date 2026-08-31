@@ -1,6 +1,6 @@
 {
   "week": "Aug 30 – Sep 5, 2026",
-  "updated": "Sat, Aug 29, 6:47 PM",
+  "updated": "Mon, Aug 31, 2:16 PM",
   "cleaners": {
     "marlene": [
       {
@@ -81,21 +81,6 @@
     ],
     "sarah": [
       {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-09-02",
-        "customer": "Cindy Yu",
-        "address": "11783 159th Avenue Northeast\n                                  Redmond, WA 98052",
-        "phone": "425-301-1551",
-        "package": "Premium Monthly",
-        "time": "<b>2026-09-02 09:00AM - 11:30AM PDT</b>",
-        "price": "335.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Sarah/Thais",
-        "id": 13715977
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-09-04",
@@ -122,25 +107,10 @@
         "package": "Adi Groysman - Monday Premium",
         "time": "<b>2026-08-31 10:30AM - 12:30PM PDT</b>",
         "price": "0.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Tish/Thais",
         "id": 14211473
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-09-02",
-        "customer": "Cindy Yu",
-        "address": "11783 159th Avenue Northeast\n                                  Redmond, WA 98052",
-        "phone": "425-301-1551",
-        "package": "Premium Monthly",
-        "time": "<b>2026-09-02 09:00AM - 11:30AM PDT</b>",
-        "price": "335.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Sarah/Thais",
-        "id": 13715977
       },
       {
         "day": "Thu",
@@ -183,8 +153,8 @@
         "phone": "732-979-7551",
         "package": "Design With Time",
         "time": "<b>2026-08-31 09:00AM - 11:30AM PDT</b>",
-        "price": "334.00",
-        "payment": "None",
+        "price": "384.10",
+        "payment": "Automatic Credit Card",
         "notes": "<p>Computer repair store. Looking for office cleaning and some bathrooms. Please ask for Michael or a manager if they have any specific requirements for 2.5 hrs cleaning.</p><p>The client want us to focus on:</p><p>- Cleaning all floors</p><p>-Bathroom&nbsp;</p><p>- Front windows, which may have dust due to recent construction work.&nbsp;</p> | Company name: Nerd to go",
         "team": "Megan/Cole",
         "id": 14688405
@@ -237,6 +207,21 @@
         "id": 14531116
       },
       {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-09-03",
+        "customer": "C Jacobs",
+        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-09-03 1:00PM - 03:00PM PDT</b>",
+        "price": "325.00",
+        "payment": "None",
+        "notes": "Regular Cleaning Schedule",
+        "team": "Tish/Vance",
+        "id": 14344292
+      },
+      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-09-04",
@@ -263,7 +248,7 @@
         "package": "Adi Groysman - Monday Premium",
         "time": "<b>2026-08-31 10:30AM - 12:30PM PDT</b>",
         "price": "0.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Tish/Thais",
         "id": 14211473
@@ -280,7 +265,7 @@
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
-        "team": "Tish/Megan",
+        "team": "Tish/Vance",
         "id": 14344292
       },
       {
@@ -309,8 +294,8 @@
         "phone": "732-979-7551",
         "package": "Design With Time",
         "time": "<b>2026-08-31 09:00AM - 11:30AM PDT</b>",
-        "price": "334.00",
-        "payment": "None",
+        "price": "384.10",
+        "payment": "Automatic Credit Card",
         "notes": "<p>Computer repair store. Looking for office cleaning and some bathrooms. Please ask for Michael or a manager if they have any specific requirements for 2.5 hrs cleaning.</p><p>The client want us to focus on:</p><p>- Cleaning all floors</p><p>-Bathroom&nbsp;</p><p>- Front windows, which may have dust due to recent construction work.&nbsp;</p> | Company name: Nerd to go",
         "team": "Megan/Cole",
         "id": 14688405
@@ -349,16 +334,16 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-09-03",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-09-03 1:00PM - 03:00PM PDT</b>",
-        "price": "325.00",
+        "customer": "Cindy Yu",
+        "address": "11783 159th Avenue Northeast\n                                  Redmond, WA 98052",
+        "phone": "425-301-1551",
+        "package": "Premium Monthly",
+        "time": "<b>2026-09-03 01:00PM - 03:30PM PDT</b>",
+        "price": "335.00",
         "payment": "None",
-        "notes": "Regular Cleaning Schedule",
-        "team": "Tish/Megan",
-        "id": 14344292
+        "notes": "",
+        "team": "Megan",
+        "id": 13715977
       },
       {
         "day": "Thu",
