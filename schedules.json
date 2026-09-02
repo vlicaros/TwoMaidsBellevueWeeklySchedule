@@ -1,6 +1,6 @@
 {
-  "week": "Aug 30 – Sep 5, 2026",
-  "updated": "Tue, Sep 1, 5:38 PM",
+  "week": "Sep 1 – Sep 7, 2026",
+  "updated": "Tue, Sep 1, 6:34 PM",
   "cleaners": {
     "megan": [
       {
@@ -45,7 +45,7 @@
         "price": "246.00",
         "payment": "None",
         "notes": " | <p>Townhouse complex located behind a home</p><p>No need to change sheets or make the bed.</p>",
-        "team": "Megan/Marlene",
+        "team": "Megan/Sarah",
         "id": 14342585
       },
       {
@@ -86,12 +86,27 @@
         "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
         "phone": "570-394-2530",
         "package": "Premium Monthly",
-        "time": "<b>2026-09-04 11:00AM - 01:00PM PDT</b>",
+        "time": "<b>2026-09-04 09:00AM - 11:00AM PDT</b>",
         "price": "313.00",
         "payment": "None",
         "notes": "",
         "team": "Megan",
         "id": 13991881
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-09-04",
+        "customer": "Courtney Trindle",
+        "address": "10858 Northeast 37th PlaceUnit 2 \n                                  Bellevue, WA 98004",
+        "phone": "913-701-5022",
+        "package": "Deep Clean",
+        "time": "<b>2026-09-04 12:00PM - 03:49PM PDT</b>",
+        "price": "501.00",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Megan/Thais",
+        "id": 14574602
       }
     ],
     "marlene": [
@@ -109,21 +124,6 @@
         "notes": "<p>First deep clean of certain room: Master Bathroom, Bedroom and Kitchen (heavy grease build up on floor, stove and stove hood to be focus, cabinets will need to be addressed as maintenance items).<br>Light surface cleaning vacuuming of 3 guest bedrooms and 1 bathroom, Living areas downstairs need light surface cleaning as well.</p> | <p>Lokesh's Parents</p><p>Recurring: 2 bedrooms upstairs just need spot checking on a bi-weekly visit quick vacuum at most., Guest bath needs to be spot checked. Kitchen gets heavily used so need to make sure we rotate certain areas that get cleaned to get the build up</p>",
         "team": "Megan/Marlene",
         "id": 14702482
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-09-02",
-        "customer": "Kenny Lane",
-        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
-        "phone": "206-999-2116",
-        "package": "Premium Monthly",
-        "time": "<b>2026-09-02 01:00PM - 02:15PM PDT</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | <p>Townhouse complex located behind a home</p><p>No need to change sheets or make the bed.</p>",
-        "team": "Megan/Marlene",
-        "id": 14342585
       },
       {
         "day": "Thu",
@@ -154,6 +154,23 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan/Marlene",
         "id": 13514129
+      }
+    ],
+    "vance": [
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-09-02",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Adi Groysman - Monday Premium",
+        "time": "<b>2026-09-02 10:30AM - 12:30PM PDT</b>",
+        "price": "160.00",
+        "payment": "None",
+        "notes": "<p><b>Laundry only&nbsp;</b></p> | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Vance",
+        "id": 14531116
       },
       {
         "day": "Fri",
@@ -167,11 +184,26 @@
         "price": "867.00",
         "payment": "None",
         "notes": "",
-        "team": "Marlene/Sarah",
+        "team": "Vance/Sarah",
         "id": 14658161
       }
     ],
     "sarah": [
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-09-02",
+        "customer": "Kenny Lane",
+        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
+        "phone": "206-999-2116",
+        "package": "Premium Monthly",
+        "time": "<b>2026-09-02 01:00PM - 02:15PM PDT</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | <p>Townhouse complex located behind a home</p><p>No need to change sheets or make the bed.</p>",
+        "team": "Megan/Sarah",
+        "id": 14342585
+      },
       {
         "day": "Fri",
         "dayNum": 5,
@@ -184,7 +216,7 @@
         "price": "867.00",
         "payment": "None",
         "notes": "",
-        "team": "Marlene/Sarah",
+        "team": "Vance/Sarah",
         "id": 14658161
       }
     ],
@@ -216,7 +248,7 @@
         "price": "590.00",
         "payment": "None",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Marlene/Thais/Cole",
+        "team": "Thais/Cole",
         "id": 14344293
       },
       {
@@ -257,11 +289,11 @@
         "address": "10858 Northeast 37th PlaceUnit 2 \n                                  Bellevue, WA 98004",
         "phone": "913-701-5022",
         "package": "Deep Clean",
-        "time": "<b>2026-09-04 01:00PM - 04:49PM PDT</b>",
+        "time": "<b>2026-09-04 12:00PM - 03:49PM PDT</b>",
         "price": "501.00",
         "payment": "Automatic Credit Card",
         "notes": "",
-        "team": "Vance/Thais",
+        "team": "Megan/Thais",
         "id": 14574602
       }
     ],
@@ -293,7 +325,7 @@
         "price": "590.00",
         "payment": "None",
         "notes": " | <p>There are two Toto smart toilets, please do NOT use cleaner. only use water or dust with a microfiber. Built in freezer and fridge hard to see but in butler pantry.</p><p>1bd 1ba ADU is also required for cleaning as part of the home.</p><p>Ideal Strategy (let us know if you find a better way):</p><p>0) Can start on cottage house unless stated to do later</p><p>1) Large living room (to the right of entry) + entry</p><p>2) Master Bathroom+ Bedroom</p><p>3) Lower split level - Laundry + mudroom+ half bath and hall way</p><p>4) Kids section and family room + Office vacuum / dust desk + bathroom (doesn't get used often just clean toilet, sink and empty trash</p><p>5) Living room next to Kitchen</p><p>6) Kitchen + 2nd kitchen</p><p>7) Dining room</p><p>8) Cottage house. (unless stated to do first)</p>",
-        "team": "Marlene/Thais/Cole",
+        "team": "Thais/Cole",
         "id": 14344293
       }
     ],
@@ -342,53 +374,6 @@
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
         "team": "Tish/Thais",
         "id": 13730422
-      }
-    ],
-    "vance": [
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-09-02",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Adi Groysman - Monday Premium",
-        "time": "<b>2026-09-02 10:30AM - 12:30PM PDT</b>",
-        "price": "160.00",
-        "payment": "None",
-        "notes": "<p><b>Laundry only&nbsp;</b></p> | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Vance",
-        "id": 14531116
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-09-03",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-09-03 1:00PM - 03:00PM PDT</b>",
-        "price": "325.00",
-        "payment": "None",
-        "notes": "Regular Cleaning Schedule",
-        "team": "Tish/Vance",
-        "id": 14344292
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-09-04",
-        "customer": "Courtney Trindle",
-        "address": "10858 Northeast 37th PlaceUnit 2 \n                                  Bellevue, WA 98004",
-        "phone": "913-701-5022",
-        "package": "Deep Clean",
-        "time": "<b>2026-09-04 01:00PM - 04:49PM PDT</b>",
-        "price": "501.00",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Vance/Thais",
-        "id": 14574602
       }
     ]
   }
