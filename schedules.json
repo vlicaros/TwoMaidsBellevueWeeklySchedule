@@ -1,6 +1,6 @@
 {
   "week": "Sep 20 – Sep 26, 2026",
-  "updated": "Sun, Sep 20, 1:37 PM",
+  "updated": "Sun, Sep 20, 1:45 PM",
   "cleaners": {
     "vance": [
       {
@@ -32,6 +32,21 @@
         "notes": " | <p>Buzzer code 4584</p><p><span style=\"-webkit-text-size-adjust: 100%;\"><br></span></p><p><span style=\"-webkit-text-size-adjust: 100%;\">Client has been having health issues and recovering from surgery and prepping for another&nbsp;</span></p><p>automatic kitty litter box empty - drawer pull out and just tie up and dump and put new liner that’s above</p><p>No floral scents so use dawn for floor cleaning</p><p>Some times will be sleeping since his medication can be strong, knock bedroom when ready to enter</p>",
         "team": "Vance/Megan",
         "id": 14265667
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-09-22",
+        "customer": "Austin Sweet",
+        "address": "10034 Northeast 33rd Street\n                                  Bellevue, WA 98004",
+        "phone": "945-400-3971",
+        "package": "Design With Time",
+        "time": "<b>2026-09-22 12:30PM - 04:00PM PDT</b>",
+        "price": "537.05",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Vance/Megan",
+        "id": 14847637
       },
       {
         "day": "Wed",
@@ -195,11 +210,11 @@
         "address": "10034 Northeast 33rd Street\n                                  Bellevue, WA 98004",
         "phone": "945-400-3971",
         "package": "Design With Time",
-        "time": "<b>2026-09-22 01:00PM - 04:30PM PDT</b>",
+        "time": "<b>2026-09-22 12:30PM - 04:00PM PDT</b>",
         "price": "537.05",
         "payment": "Automatic Credit Card",
         "notes": "",
-        "team": "Megan/Erika",
+        "team": "Vance/Megan",
         "id": 14847637
       },
       {
@@ -432,21 +447,6 @@
         "notes": "<p>Lock box code: 8696&nbsp;</p><p>You can park at any uncovered parking spot.&nbsp;</p>",
         "team": "Nick/Erika",
         "id": 14797733
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-09-22",
-        "customer": "Austin Sweet",
-        "address": "10034 Northeast 33rd Street\n                                  Bellevue, WA 98004",
-        "phone": "945-400-3971",
-        "package": "Design With Time",
-        "time": "<b>2026-09-22 01:00PM - 04:30PM PDT</b>",
-        "price": "537.05",
-        "payment": "Automatic Credit Card",
-        "notes": "",
-        "team": "Megan/Erika",
-        "id": 14847637
       },
       {
         "day": "Wed",
