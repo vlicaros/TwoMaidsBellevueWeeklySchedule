@@ -96,21 +96,6 @@
         "id": 14342586
       },
       {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-09-29",
-        "customer": "Kathy Hiendenriech",
-        "address": "18406 215th Way NE, Woodinville, WA 98077",
-        "phone": "425-435-0020",
-        "package": "Design With Time",
-        "time": "<b>2026-09-29 3:00PM - 05:30PM PDT</b>",
-        "price": "250.00",
-        "payment": "Check",
-        "notes": "Regular Cleaning Schedule",
-        "team": "Megan",
-        "id": 14344292
-      },
-      {
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-09-30",
@@ -144,6 +129,21 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-10-01",
+        "customer": "Kathy Hiendenriech",
+        "address": "18406 215th Way NE, Woodinville, WA 98077",
+        "phone": "425-435-0020",
+        "package": "Design With Time",
+        "time": "<b>2026-10-01 1:00PM - 03:30PM PDT</b>",
+        "price": "250.00",
+        "payment": "Check",
+        "notes": "Regular Cleaning Schedule",
+        "team": "Megan",
+        "id": 14344292
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-10-01",
         "customer": "Rose Gabalis",
         "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
         "phone": "206-588-0311",
@@ -154,21 +154,6 @@
         "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
         "team": "Megan",
         "id": 13514133
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-10-01",
-        "customer": "Kimberly Turk",
-        "address": "12112 94th Place Northeast\n                                  Kirkland, WA 98034",
-        "phone": "574-216-6636",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-10-01 09:00AM - 11:30AM PDT</b>",
-        "price": "284.00",
-        "payment": "None",
-        "notes": "<p>Area that doesn't need to be cleaned every visit:</p><ul><li>Guest room and bathroom on the <b>main floor</b></li><li>Guest room and bathroom with double sinks on the <b>second floor</b></li></ul><p><br></p> | <p>They prefer the morning because of the baby's nap time.&nbsp;</p><p>Paying by Check</p>",
-        "team": "Vance/Megan",
-        "id": 14843006
       },
       {
         "day": "Fri",
@@ -263,6 +248,21 @@
         "notes": "",
         "team": "Nick",
         "id": 14831528
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-10-01",
+        "customer": "Kimberly Turk",
+        "address": "12112 94th Place Northeast\n                                  Kirkland, WA 98034",
+        "phone": "574-216-6636",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-10-01 09:00AM - 11:30AM PDT</b>",
+        "price": "284.00",
+        "payment": "None",
+        "notes": "<p>Area that doesn't need to be cleaned every visit:</p><ul><li>Guest room and bathroom on the <b>main floor</b></li><li>Guest room and bathroom with double sinks on the <b>second floor</b></li></ul><p><br></p> | <p>They prefer the morning because of the baby's nap time.&nbsp;</p><p>Paying by Check</p>",
+        "team": "Vance/Nick",
+        "id": 14843006
       },
       {
         "day": "Fri",
@@ -370,7 +370,7 @@
         "price": "284.00",
         "payment": "None",
         "notes": "<p>Area that doesn't need to be cleaned every visit:</p><ul><li>Guest room and bathroom on the <b>main floor</b></li><li>Guest room and bathroom with double sinks on the <b>second floor</b></li></ul><p><br></p> | <p>They prefer the morning because of the baby's nap time.&nbsp;</p><p>Paying by Check</p>",
-        "team": "Vance/Megan",
+        "team": "Vance/Nick",
         "id": 14843006
       },
       {
