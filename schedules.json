@@ -432,36 +432,6 @@
         "notes": "",
         "team": "May",
         "id": 14928077
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-05",
-        "customer": "Mary Jane Yamada",
-        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
-        "phone": "865-368-2157",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-05 01:00PM - 02:15PM PST</b>",
-        "price": "295.20",
-        "payment": "None",
-        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "May/Sarah",
-        "id": 13913840
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-05",
-        "customer": "Shivali Luhadia",
-        "address": "4118 93rd Avenue Southeast\n                                  Mercer Island, WA 98040",
-        "phone": "425-435-0020",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-05 10:00AM - 11:00AM PST</b>",
-        "price": "200.00",
-        "payment": "None",
-        "notes": "<p>You will need a code to get in, or text her when you get there, and she will let you in. </p><p>This will mostly be a touch-up service. </p><ul><li>2.5 bathrooms</li><li>3 bedrooms</li><li>kitchen</li><li>living room </li><li>Spot-check for fingerprints on doors, cabinet doors, and light switches.</li><li>Change bed linens if put out</li></ul> | <br>",
-        "team": "May/Sarah",
-        "id": 14681160
       }
     ],
     "sarah": [
@@ -499,21 +469,6 @@
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-11-05",
-        "customer": "Mary Jane Yamada",
-        "address": "220 153rd Place Southeast\n                                  Bellevue, WA 98007",
-        "phone": "865-368-2157",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-05 01:00PM - 02:15PM PST</b>",
-        "price": "295.20",
-        "payment": "None",
-        "notes": " | <p>Kitchen only, 3 bathrooms only.</p><p>Just moved in so should be pretty clean,</p><p>Previously we did her move out in Mercer Island</p>",
-        "team": "May/Sarah",
-        "id": 13913840
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-05",
         "customer": "Shivali Luhadia",
         "address": "4118 93rd Avenue Southeast\n                                  Mercer Island, WA 98040",
         "phone": "425-435-0020",
@@ -522,7 +477,7 @@
         "price": "200.00",
         "payment": "None",
         "notes": "<p>You will need a code to get in, or text her when you get there, and she will let you in. </p><p>This will mostly be a touch-up service. </p><ul><li>2.5 bathrooms</li><li>3 bedrooms</li><li>kitchen</li><li>living room </li><li>Spot-check for fingerprints on doors, cabinet doors, and light switches.</li><li>Change bed linens if put out</li></ul> | <br>",
-        "team": "May/Sarah",
+        "team": "Sarah",
         "id": 14681160
       },
       {
