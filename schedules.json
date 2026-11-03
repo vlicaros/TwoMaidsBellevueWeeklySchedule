@@ -1,101 +1,7 @@
 {
   "week": "Nov 1 – Nov 7, 2026",
-  "updated": "Sat, Oct 31, 2:18 PM",
+  "updated": "Mon, Nov 2, 8:39 PM",
   "cleaners": {
-    "tish": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-11-02",
-        "customer": "KrutiUmesh Mody",
-        "address": "10050 Northeast 10th Street704\n                                  Bellevue, WA 98004",
-        "phone": "206-960-5655",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-02 01:00PM - 02:00PM PST</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": "<p>Client will not be able to coordinate parking situation. there are 2 Future resident parking on the side of the building. use Visitor Pass on call box. type in&nbsp;</p><h2 class=\"fs-mask\" style=\"color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 32px; margin: 20px 0px; font-size: 36px; background-color: rgb(242, 242, 242);\">698245</h2> Client will be in the apartment to let you in.| Parking: You can park at the future resident's spot in front of the building, but if that spot is not available. Please call her, and she will give you access to park in the garage, at the guest spot.&nbsp;",
-        "team": "Tish/Claire",
-        "id": 14424157
-      },
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-05",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-11-05 1:00PM - 04:30PM PDT</b>",
-        "price": "325.00",
-        "payment": "None",
-        "notes": "Regular Cleaning Schedule",
-        "team": "Megan/Tish",
-        "id": 14344292
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-06",
-        "customer": "Adi Groysman",
-        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-589-1350",
-        "package": "Touch-Up Weekly",
-        "time": "<b>2026-11-06 09:30AM - 11:45AM PST</b>",
-        "price": "330.00",
-        "payment": "None",
-        "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Tish/Megan",
-        "id": 13730431
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-06",
-        "customer": "Bridget Claycomb",
-        "address": "16372 Northeast 16th Court\n                                  Bellevue, WA 98008",
-        "phone": "3608010975",
-        "package": "Touch-Up Biweekly",
-        "time": "<b>2026-11-06 01:00PM - 03:00PM PST</b>",
-        "price": "238.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Tish/Megan",
-        "id": 14985869
-      }
-    ],
-    "claire": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-11-02",
-        "customer": "KrutiUmesh Mody",
-        "address": "10050 Northeast 10th Street704\n                                  Bellevue, WA 98004",
-        "phone": "206-960-5655",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-02 01:00PM - 02:00PM PST</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": "<p>Client will not be able to coordinate parking situation. there are 2 Future resident parking on the side of the building. use Visitor Pass on call box. type in&nbsp;</p><h2 class=\"fs-mask\" style=\"color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 32px; margin: 20px 0px; font-size: 36px; background-color: rgb(242, 242, 242);\">698245</h2> Client will be in the apartment to let you in. | Parking: You can park at the future resident's spot in front of the building, but if that spot is not available. Please call her, and she will give you access to park in the garage, at the guest spot.&nbsp;",
-        "team": "Tish/Claire",
-        "id": 14424157
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-11-03",
-        "customer": "Austin Sweet",
-        "address": "10034 Northeast 33rd Street\n                                  Bellevue, WA 98004",
-        "phone": "945-400-3971",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-03 10:00AM - 12:30PM PST</b>",
-        "price": "284.00",
-        "payment": "None",
-        "notes": "",
-        "team": "May/Claire",
-        "id": 14877917
-      }
-    ],
     "nick": [
       {
         "day": "Mon",
@@ -103,11 +9,11 @@
         "date": "2026-11-02",
         "customer": "Sarah DiChiara",
         "address": "9848 Northeast 30th Street\n                                  Bellevue, WA 98004",
-        "phone": "434-221-7938",
+        "phone": "4342217938",
         "package": "Premium Biweekly",
         "time": "<b>2026-11-02 09:00AM - 10:45AM PST</b>",
         "price": "227.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Sarina",
         "id": 14884621
@@ -121,8 +27,8 @@
         "phone": "8184452816",
         "package": "Deep Clean",
         "time": "<b>2026-11-02 12:00PM - 03:20PM PST</b>",
-        "price": "395.00",
-        "payment": "None",
+        "price": "454.25",
+        "payment": "Automatic Credit Card",
         "notes": " | Close door firmly on your way in and on your way out. Cat friendly home",
         "team": "Nick/Sarina",
         "id": 15056773
@@ -139,8 +45,23 @@
         "price": "320.00",
         "payment": "None",
         "notes": "",
-        "team": "Sarah/Nick",
+        "team": "Nick/Sarina",
         "id": 14605875
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-04",
+        "customer": "Josh Jones",
+        "address": "12632 se 61\n                                  Bellevue, WA 98006",
+        "phone": "8327445561",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-11-04 09:00AM - 10:45AM PST</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | Lockbox on railing 4123",
+        "team": "Sarah/Nick",
+        "id": 14597641
       },
       {
         "day": "Thu",
@@ -195,11 +116,11 @@
         "date": "2026-11-02",
         "customer": "Sarah DiChiara",
         "address": "9848 Northeast 30th Street\n                                  Bellevue, WA 98004",
-        "phone": "434-221-7938",
+        "phone": "4342217938",
         "package": "Premium Biweekly",
         "time": "<b>2026-11-02 09:00AM - 10:45AM PST</b>",
         "price": "227.00",
-        "payment": "None",
+        "payment": "Automatic Credit Card",
         "notes": "",
         "team": "Nick/Sarina",
         "id": 14884621
@@ -213,11 +134,26 @@
         "phone": "8184452816",
         "package": "Deep Clean",
         "time": "<b>2026-11-02 12:00PM - 03:20PM PST</b>",
-        "price": "395.00",
-        "payment": "None",
+        "price": "454.25",
+        "payment": "Automatic Credit Card",
         "notes": " | Close door firmly on your way in and on your way out. Cat friendly home",
         "team": "Nick/Sarina",
         "id": 15056773
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-04",
+        "customer": "Karen Duncan",
+        "address": "10431 Northeast 52nd Street\n                                  Kirkland, WA 98033",
+        "phone": "4259414194",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-11-04 12:00PM - 03:00PM PST</b>",
+        "price": "320.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Nick/Sarina",
+        "id": 14605875
       },
       {
         "day": "Thu",
@@ -265,6 +201,68 @@
         "id": 14560552
       }
     ],
+    "tish": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-02",
+        "customer": "KrutiUmesh Mody",
+        "address": "10050 Northeast 10th Street704\n                                  Bellevue, WA 98004",
+        "phone": "2069605655",
+        "package": "Premium Monthly",
+        "time": "<b>2026-11-02 01:00PM - 02:00PM PST</b>",
+        "price": "206.00",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>Client will not be able to coordinate parking situation. there are 2 Future resident parking on the side of the building. use Visitor Pass on call box. type in&nbsp;</p><h2 class=\"fs-mask\" style=\"color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 32px; margin: 20px 0px; font-size: 36px; background-color: rgb(242, 242, 242);\">698245</h2> | Parking: You can park at the future resident's spot in front of the building, but if that spot is not available. Please call her, and she will give you access to park in the garage, at the guest spot.&nbsp;",
+        "team": "Tish/Claire",
+        "id": 14424157
+      },
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-11-05",
+        "customer": "C Jacobs",
+        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-11-05 1:00PM - 04:30PM PDT</b>",
+        "price": "325.00",
+        "payment": "None",
+        "notes": "Cheryan is away for a couple weeks but his wife Merin will be home after 3:30 or Friday also works. Regular Cleaning Schedule",
+        "team": "Megan/Tish",
+        "id": 14344292
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-11-06",
+        "customer": "Adi Groysman",
+        "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-589-1350",
+        "package": "Touch-Up Weekly",
+        "time": "<b>2026-11-06 09:30AM - 11:45AM PST</b>",
+        "price": "330.00",
+        "payment": "None",
+        "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
+        "team": "Tish/Megan",
+        "id": 13730431
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-11-06",
+        "customer": "Bridget Claycomb",
+        "address": "16372 Northeast 16th Court\n                                  Bellevue, WA 98008",
+        "phone": "3608010975",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-11-06 01:00PM - 03:00PM PST</b>",
+        "price": "238.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Megan",
+        "id": 14985869
+      }
+    ],
     "megan": [
       {
         "day": "Tue",
@@ -307,7 +305,7 @@
         "time": "<b>2026-11-05 1:00PM - 04:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
-        "notes": "Regular Cleaning Schedule",
+        "notes": "Cheryan is away for a couple weeks but his wife Merin will be home after 3:30 or Friday also works. Regular Cleaning Schedule",
         "team": "Megan/Tish",
         "id": 14344292
       },
@@ -372,6 +370,23 @@
         "id": 14985869
       }
     ],
+    "team6580": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-02",
+        "customer": "Ravi Kiran Kuppa",
+        "address": "11903 Northeast 128th StreetUnit 215\n                                  Kirkland, WA 98034",
+        "phone": "2145661437",
+        "package": "Move-In/Out",
+        "time": "<b>2026-11-02 01:00PM - 03:43PM PST</b>",
+        "price": "410.00",
+        "payment": "Automatic Credit Card",
+        "notes": "",
+        "team": "Team 6580",
+        "id": 15099932
+      }
+    ],
     "may": [
       {
         "day": "Tue",
@@ -434,21 +449,53 @@
         "id": 14928077
       }
     ],
+    "claire": [
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-02",
+        "customer": "KrutiUmesh Mody",
+        "address": "10050 Northeast 10th Street704\n                                  Bellevue, WA 98004",
+        "phone": "2069605655",
+        "package": "Premium Monthly",
+        "time": "<b>2026-11-02 01:00PM - 02:00PM PST</b>",
+        "price": "206.00",
+        "payment": "Automatic Credit Card",
+        "notes": "<p>Client will not be able to coordinate parking situation. there are 2 Future resident parking on the side of the building. use Visitor Pass on call box. type in&nbsp;</p><h2 class=\"fs-mask\" style=\"color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 32px; margin: 20px 0px; font-size: 36px; background-color: rgb(242, 242, 242);\">698245</h2> | Parking: You can park at the future resident's spot in front of the building, but if that spot is not available. Please call her, and she will give you access to park in the garage, at the guest spot.&nbsp;",
+        "team": "Tish/Claire",
+        "id": 14424157
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-11-03",
+        "customer": "Austin Sweet",
+        "address": "10034 Northeast 33rd Street\n                                  Bellevue, WA 98004",
+        "phone": "945-400-3971",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-11-03 10:00AM - 12:30PM PST</b>",
+        "price": "284.00",
+        "payment": "None",
+        "notes": "",
+        "team": "May/Claire",
+        "id": 14877917
+      }
+    ],
     "sarah": [
       {
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-11-04",
-        "customer": "Karen Duncan",
-        "address": "10431 Northeast 52nd Street\n                                  Kirkland, WA 98033",
-        "phone": "4259414194",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-04 12:00PM - 03:00PM PST</b>",
-        "price": "320.00",
+        "customer": "Martha Alvarado",
+        "address": "17620 NE 69th CtN403\n                                  Redmond, WA 98052",
+        "phone": "2693255423",
+        "package": "Deep Clean",
+        "time": "<b>2026-11-04 11:00AM - 02:20PM PST</b>",
+        "price": "422.00",
         "payment": "None",
         "notes": "",
-        "team": "Sarah/Nick",
-        "id": 14605875
+        "team": "Erika/Sarah",
+        "id": 15103488
       },
       {
         "day": "Wed",
@@ -462,7 +509,7 @@
         "price": "246.00",
         "payment": "None",
         "notes": " | Lockbox on railing 4123",
-        "team": "Sarah",
+        "team": "Sarah/Nick",
         "id": 14597641
       },
       {
@@ -505,7 +552,7 @@
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
         "package": "Adi Groysman - Laundry/Refresh",
-        "time": "<b>2026-11-03 10:30AM - 12:30PM PST</b>",
+        "time": "<b>2026-11-03 09:00AM - 11:00AM PST</b>",
         "price": "160.00",
         "payment": "None",
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
@@ -516,11 +563,26 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-11-04",
+        "customer": "Martha Alvarado",
+        "address": "17620 NE 69th CtN403\n                                  Redmond, WA 98052",
+        "phone": "2693255423",
+        "package": "Deep Clean",
+        "time": "<b>2026-11-04 11:00AM - 02:20PM PST</b>",
+        "price": "422.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Erika/Sarah",
+        "id": 15103488
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-04",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
         "package": "Adi Groysman - Laundry/Refresh",
-        "time": "<b>2026-11-04 10:30AM - 12:30PM PST</b>",
+        "time": "<b>2026-11-04 09:00AM - 11:00AM PST</b>",
         "price": "160.00",
         "payment": "None",
         "notes": "<p><b>Laundry only </b></p> | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
