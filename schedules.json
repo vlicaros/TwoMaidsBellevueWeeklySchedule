@@ -82,21 +82,6 @@
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-11-06",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "4254441961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-06 09:30AM - 11:15AM PST</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Sarina",
-        "id": 13566231
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-06",
         "customer": "Akshita Rao",
         "address": "7977 170th Avenue NortheastB430\n                                  Redmond, WA 98052",
         "phone": "206-566-3506",
@@ -169,21 +154,6 @@
         "notes": " | <p>Physical key</p><p>Garage code: 1216</p>",
         "team": "Nick/Sarina",
         "id": 13678168
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-06",
-        "customer": "Becky Gilberg",
-        "address": "6707 123rd Avenue Southeast\n                                  Bellevue, WA 98006",
-        "phone": "4254441961",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-06 09:30AM - 11:15AM PST</b>",
-        "price": "372.08",
-        "payment": "None",
-        "notes": " | <p>8/15/2025</p><p>4 dogs = lots of dog hair, have started to just use vacuum while sweeping to save time.&nbsp; First cleaning prior was very dusty due to air duct clean out, so slowly getting all the dust out but also dogs run in and outside of the house. Make sure behind and under dog bowls are clean.&nbsp;</p>",
-        "team": "Nick/Sarina",
-        "id": 13566231
       },
       {
         "day": "Fri",
