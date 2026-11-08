@@ -126,6 +126,21 @@
         "id": 14724839
       },
       {
+        "day": "Thurs",
+        "dayNum": 4,
+        "date": "2026-11-12",
+        "customer": "Kathy Hiendenriech",
+        "address": "18406 215th Way NE, Woodinville, WA 98077",
+        "phone": "425-435-0020",
+        "package": "Design With Time",
+        "time": "<b>2026-11-12 11:30AM - 2:30PM PDT</b>",
+        "price": "300.00",
+        "payment": "Check",
+        "notes": "3 hours, Only cleaning stove, half bath floors in the first floor (living room, kitchen) and hallway.",
+        "team": "Megan",
+        "id": 14344292
+      },
+      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-11-13",
