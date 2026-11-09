@@ -34,21 +34,6 @@
         "id": 13942511
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-12",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-11-12 1:00PM - 04:30PM PDT</b>",
-        "price": "325.00",
-        "payment": "None",
-        "notes": "Regular Cleaning Schedule",
-        "team": "Claire/Tish",
-        "id": 14344292
-      },
-      {
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-11-13",
@@ -126,6 +111,21 @@
         "id": 14724839
       },
       {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-11",
+        "customer": "C Jacobs",
+        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-11-11 3:30PM - 06:30PM PDT</b>",
+        "price": "325.00",
+        "payment": "None",
+        "notes": "Regular Cleaning Schedule",
+        "team": "Megan/Claire",
+        "id": 14344292
+      },
+      {
         "day": "Thurs",
         "dayNum": 4,
         "date": "2026-11-12",
@@ -188,18 +188,18 @@
         "id": 14724839
       },
       {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-12",
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-11",
         "customer": "C Jacobs",
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-11-12 1:00PM - 04:30PM PDT</b>",
+        "time": "<b>2026-11-11 3:30PM - 06:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
-        "team": "Claire/Tish",
+        "team": "Megan/Claire",
         "id": 14344292
       }
     ],
