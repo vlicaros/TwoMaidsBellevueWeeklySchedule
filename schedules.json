@@ -297,21 +297,6 @@
         "id": 13543814
       },
       {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-11-11",
-        "customer": "Hadi Yami",
-        "address": "10301 Northeast 10th StreetApt 860\n                                  Bellevue, WA 98004",
-        "phone": "2408998460",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-11 01:00PM - 02:00PM PST</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Sarina",
-        "id": 14974190
-      },
-      {
         "day": "Thu",
         "dayNum": 4,
         "date": "2026-11-12",
@@ -342,21 +327,6 @@
         "notes": "",
         "team": "Nick/Sarina",
         "id": 13543814
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-11-11",
-        "customer": "Hadi Yami",
-        "address": "10301 Northeast 10th StreetApt 860\n                                  Bellevue, WA 98004",
-        "phone": "2408998460",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-11 01:00PM - 02:00PM PST</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/Sarina",
-        "id": 14974190
       },
       {
         "day": "Thu",
