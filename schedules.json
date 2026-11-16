@@ -1,6 +1,6 @@
 {
   "week": "Nov 15 – Nov 21, 2026",
-  "updated": "Sun, Nov 15, 12:38 PM",
+  "updated": "Mon, Nov 16, 1:41 PM",
   "cleaners": {
     "megan": [
       {
@@ -41,7 +41,7 @@
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-11-12 3:30PM - 06:30PM PDT</b>",
+        "time": "<b>2026-11-17 3:30PM - 06:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
@@ -60,7 +60,7 @@
         "price": "246.00",
         "payment": "None",
         "notes": " | Best cleaners",
-        "team": "Megan/May",
+        "team": "Megan/Claire",
         "id": 15177225
       },
       {
@@ -133,12 +133,27 @@
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-11-12 3:30PM - 06:30PM PDT</b>",
+        "time": "<b>2026-11-17 3:30PM - 06:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
         "team": "Claire/Megan",
         "id": 14344292
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-18",
+        "customer": "Jane Orr",
+        "address": "2929 81st Place SoutheastA1\n                                  Mercer Island, WA 98040",
+        "phone": "2066504927",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-11-18 11:00AM - 12:45PM PST</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | Best cleaners",
+        "team": "Megan/Claire",
+        "id": 15177225
       },
       {
         "day": "Thu",
@@ -238,16 +253,31 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-11-18",
-        "customer": "Jane Orr",
-        "address": "2929 81st Place SoutheastA1\n                                  Mercer Island, WA 98040",
-        "phone": "2066504927",
+        "customer": "Mike Saltz",
+        "address": "16150 Southeast Eastgate WayF-104\n                                  Bellevue, WA 98008",
+        "phone": "4255773650",
         "package": "Premium Biweekly",
-        "time": "<b>2026-11-18 11:00AM - 12:45PM PST</b>",
-        "price": "246.00",
+        "time": "<b>2026-11-18 11:30AM - 12:30PM PST</b>",
+        "price": "232.80",
         "payment": "None",
-        "notes": " | Best cleaners",
-        "team": "Megan/May",
-        "id": 15177225
+        "notes": "",
+        "team": "May/Erika",
+        "id": 14928078
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-18",
+        "customer": "Rick Robertson",
+        "address": "909 112th AVE NEUnit 1503\n                                  Bellevue, WA 98004",
+        "phone": "2063833360",
+        "package": "Design With Time",
+        "time": "<b>2026-11-18 02:00PM - 04:00PM PST</b>",
+        "price": "250.00",
+        "payment": "None",
+        "notes": "<p>Only these items:</p><ul type=\"disc\" style=\"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 15px; margin-bottom: 0px;\"><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\"><span data-olk-copy-source=\"MessageBody\">Both bathrooms</span></li><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\">Floors (swept/vacuumed) throughout the apartment</li><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\">Baseboards</li></ul> | Elements building parking. Use QR code to validate parking for 3hrs. Client will meet at the parkade. look for elevator entrance with big 909 painted on it.",
+        "team": "May/Erika",
+        "id": 15185668
       },
       {
         "day": "Thu",
@@ -319,12 +349,27 @@
         "address": "16150 Southeast Eastgate WayF-104\n                                  Bellevue, WA 98008",
         "phone": "4255773650",
         "package": "Premium Biweekly",
-        "time": "<b>2026-11-18 12:00PM - 01:00PM PST</b>",
+        "time": "<b>2026-11-18 11:30AM - 12:30PM PST</b>",
         "price": "232.80",
         "payment": "None",
         "notes": "",
-        "team": "Erika",
+        "team": "May/Erika",
         "id": 14928078
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-18",
+        "customer": "Rick Robertson",
+        "address": "909 112th AVE NEUnit 1503\n                                  Bellevue, WA 98004",
+        "phone": "2063833360",
+        "package": "Design With Time",
+        "time": "<b>2026-11-18 02:00PM - 04:00PM PST</b>",
+        "price": "250.00",
+        "payment": "None",
+        "notes": "<p>Only these items:</p><ul type=\"disc\" style=\"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 15px; margin-bottom: 0px;\"><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\"><span data-olk-copy-source=\"MessageBody\">Both bathrooms</span></li><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\">Floors (swept/vacuumed) throughout the apartment</li><li style=\"font-size: 12pt; font-family: Aptos, sans-serif; margin: 0px;\">Baseboards</li></ul> | Elements building parking. Use QR code to validate parking for 3hrs. Client will meet at the parkade. look for elevator entrance with big 909 painted on it.",
+        "team": "May/Erika",
+        "id": 15185668
       }
     ],
     "nick": [
@@ -541,6 +586,23 @@
         "id": 15177453
       }
     ],
+    "team6580": [
+      {
+        "day": "Thu",
+        "dayNum": 4,
+        "date": "2026-11-19",
+        "customer": "3W Medical",
+        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
+        "phone": "2065880311",
+        "package": "3W Weekly Clinic Office",
+        "time": "<b>2026-11-19 04:30PM - 05:55PM PST</b>",
+        "price": "173.64",
+        "payment": "None",
+        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
+        "team": "Team 6580",
+        "id": 13514140
+      }
+    ],
     "sarah": [
       {
         "day": "Mon",
@@ -551,8 +613,8 @@
         "phone": "4255201401",
         "package": "Premium Monthly",
         "time": "<b>2026-11-16 08:00AM - 09:00AM PST</b>",
-        "price": "206.00",
-        "payment": "None",
+        "price": "214.00",
+        "payment": "Automatic Credit Card",
         "notes": " | Visitor Pass code&nbsp;<span style=\"color: rgb(18, 18, 18); font-family: Lato, Helvetica, Arial, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgba(102, 102, 102, 0.08);\">359845</span>",
         "team": "Sarah",
         "id": 15173972
@@ -616,23 +678,6 @@
         "notes": " | The clients want only women to clean their place. Make sure to send Tish/Megan every time.&nbsp;",
         "team": "May/Sarah",
         "id": 13490197
-      }
-    ],
-    "Vance": [
-      {
-        "day": "Thu",
-        "dayNum": 4,
-        "date": "2026-11-19",
-        "customer": "3W Medical",
-        "address": "4528 8th Avenue NortheastUnit 1A\n                                  Seattle, WA 98105",
-        "phone": "2065880311",
-        "package": "3W Weekly Clinic Office",
-        "time": "<b>2026-11-19 04:30PM - 05:55PM PST</b>",
-        "price": "173.64",
-        "payment": "None",
-        "notes": " | <p>Touch up cleaning- horizontal surfaces only </p><p>2 offices inside and main reception desk</p><p>board room&nbsp;</p><p>main entrance has a waiting room - dust sweep &amp; mop</p><p>Kitchen/break room - countertops and spot check inside of fridge and outside.</p><p>exam rooms and ultrasound room</p><p>2 half baths - toilet and sink sweep and mop</p>",
-        "team": "Vance",
-        "id": 13514140
       }
     ]
   }
