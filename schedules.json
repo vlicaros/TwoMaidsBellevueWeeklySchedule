@@ -1,6 +1,6 @@
 {
   "week": "Nov 22 – Nov 28, 2026",
-  "updated": "Sun, Nov 22, 3:08 PM",
+  "updated": "Sun, Nov 22, 3:20 PM",
   "cleaners": {
     "tish": [
       {
@@ -65,19 +65,34 @@
       }
     ],
     "megan": [
+       {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-23",
+        "customer": "Helen Hiendenriech",
+        "address": "508 Stevens Ave NW, Renton, WA 98057",
+        "phone": "000-000-0000",
+        "package": "Design With Time",
+        "time": "<b>2026-11-23 1:00PM - 03:00PM PDT</b>",
+        "price": "250.00",
+        "payment": "Check",
+        "notes": "Regular Cleaning Schedule - might have to limit your cleaning to certain areas for this visit",
+        "team": "Megan",
+        "id": 14344293
+      },
       {
         "day": "Tue",
         "dayNum": 4,
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "customer": "C Jacobs",
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-11-23 3:30PM - 06:30PM PDT</b>",
+        "time": "<b>2026-11-24 3:30PM - 06:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
-        "team": "May/Megan",
+        "team": "Megan/May",
         "id": 14344292
       },
       {
@@ -246,7 +261,7 @@
         "price": "206.00",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Sarina",
+        "team": "Nick/May",
         "id": 15011317
       },
       {
@@ -261,7 +276,7 @@
         "price": "313.00",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Sarina",
+        "team": "Nick/May",
         "id": 14748892
       }
     ],
@@ -295,6 +310,53 @@
         "notes": "",
         "team": "Nick/Sarina",
         "id": 14831530
+      }
+    ],
+    "may": [
+      {
+        "day": "Tue",
+        "dayNum": 4,
+        "date": "2026-11-17",
+        "customer": "C Jacobs",
+        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
+        "phone": "646-431-2887",
+        "package": "Premium Weekly",
+        "time": "<b>2026-11-12 3:30PM - 06:30PM PDT</b>",
+        "price": "325.00",
+        "payment": "None",
+        "notes": "Regular Cleaning Schedule",
+        "team": "Claire/Megan",
+        "id": 14344292
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-25",
+        "customer": "Kenny Lane",
+        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
+        "phone": "2069992116",
+        "package": "Premium Monthly",
+        "time": "<b>2026-11-25 01:00PM - 02:15PM PST</b>",
+        "price": "246.00",
+        "payment": "None",
+        "notes": " | <p>Townhouse complex located behind a home</p><p>No need to change sheets or make the bed.</p><p>2 cats and 1 husky</p>",
+        "team": "May/Erika",
+        "id": 14342588
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-25",
+        "customer": "Roz Greene",
+        "address": "13350 Southeast 26th Street328\n                                  Bellevue, WA 98005",
+        "phone": "4257656903",
+        "package": "Premium Biweekly",
+        "time": "<b>2026-11-25 10:00AM - 11:00AM PST</b>",
+        "price": "194.00",
+        "payment": "None",
+        "notes": " | <p>She will provide a key, this is a senior living home. May need to sign in at the front desk. She will provide a key so we can come anytime.</p><p>just wants dusting for all her decorations, and regular bathroom cleaning. Only has a kitchenette so no stove.</p>",
+        "team": "May/Erika",
+        "id": 14972288
       },
       {
         "day": "Fri",
@@ -308,7 +370,7 @@
         "price": "206.00",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Sarina",
+        "team": "Nick/May",
         "id": 15011317
       },
       {
@@ -323,7 +385,7 @@
         "price": "313.00",
         "payment": "None",
         "notes": "",
-        "team": "Nick/Sarina",
+        "team": "Nick/May",
         "id": 14748892
       }
     ],
@@ -357,53 +419,6 @@
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>UPDATED INSTRUCTION PLEASE READ</b></p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs and workout room.</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - please&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs.</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - Adi will let us know if his room needs cleaning or not.&nbsp;</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul>",
         "team": "Tish/Claire",
         "id": 14211485
-      }
-    ],
-    "may": [
-      {
-        "day": "Tue",
-        "dayNum": 4,
-        "date": "2026-11-23",
-        "customer": "C Jacobs",
-        "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
-        "phone": "646-431-2887",
-        "package": "Premium Weekly",
-        "time": "<b>2026-11-23 3:30PM - 06:30PM PDT</b>",
-        "price": "325.00",
-        "payment": "None",
-        "notes": "Regular Cleaning Schedule",
-        "team": "May/Megan",
-        "id": 14344292
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-11-25",
-        "customer": "Kenny Lane",
-        "address": "7005 Alonzo Avenue NorthwestUnit B\n                                  Seattle, WA 98117",
-        "phone": "2069992116",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-25 01:00PM - 02:15PM PST</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | <p>Townhouse complex located behind a home</p><p>No need to change sheets or make the bed.</p><p>2 cats and 1 husky</p>",
-        "team": "May/Erika",
-        "id": 14342588
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-11-25",
-        "customer": "Roz Greene",
-        "address": "13350 Southeast 26th Street328\n                                  Bellevue, WA 98005",
-        "phone": "4257656903",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-25 10:00AM - 11:00AM PST</b>",
-        "price": "194.00",
-        "payment": "None",
-        "notes": " | <p>She will provide a key, this is a senior living home. May need to sign in at the front desk. She will provide a key so we can come anytime.</p><p>just wants dusting for all her decorations, and regular bathroom cleaning. Only has a kitchenette so no stove.</p>",
-        "team": "May/Erika",
-        "id": 14972288
       }
     ],
     "erika": [
