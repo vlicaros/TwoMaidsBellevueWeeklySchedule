@@ -1,6 +1,6 @@
 {
   "week": "Nov 22 – Nov 28, 2026",
-  "updated": "Mon, Nov 23, 1:20 PM",
+  "updated": "Mon, Nov 23, 2:05 PM",
   "cleaners": {
     "tish": [
       {
@@ -65,7 +65,7 @@
       }
     ],
     "megan": [
-       {
+      {
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-11-23",
@@ -223,11 +223,26 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-11-25",
+        "customer": "Sankar Annadurai",
+        "address": "16075 Northeast 85th StreetApt 407\n                                  Redmond, WA 98052",
+        "phone": "2147386604",
+        "package": "Design With Time",
+        "time": "<b>2026-11-25 03:00PM - 05:00PM PST</b>",
+        "price": "276.00",
+        "payment": "None",
+        "notes": "<p>Empty apartment</p><p>only clean bathroom, bedrooms, baseboards and windows and doors</p><p>no kitchen or laundry room cleaning&nbsp;</p> | <p>Visitor parking inside building or assigned parking Can call when you arrive</p>",
+        "team": "Nick/Sarina",
+        "id": 15231530
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-25",
         "customer": "Danielle Jenne",
         "address": "8397 158th Avenue NortheastApt 323\n                                  Redmond, WA 98052",
         "phone": "5303561233",
         "package": "Premium Monthly",
-        "time": "<b>2026-11-25 01:00PM - 02:00PM PST</b>",
+        "time": "<b>2026-11-25 12:30PM - 01:30PM PST</b>",
         "price": "267.84",
         "payment": "None",
         "notes": "",
@@ -330,11 +345,26 @@
         "day": "Wed",
         "dayNum": 3,
         "date": "2026-11-25",
+        "customer": "Sankar Annadurai",
+        "address": "16075 Northeast 85th StreetApt 407\n                                  Redmond, WA 98052",
+        "phone": "2147386604",
+        "package": "Design With Time",
+        "time": "<b>2026-11-25 03:00PM - 05:00PM PST</b>",
+        "price": "276.00",
+        "payment": "None",
+        "notes": "<p>Empty apartment</p><p>only clean bathroom, bedrooms, baseboards and windows and doors</p><p>no kitchen or laundry room cleaning&nbsp;</p> | <p>Visitor parking inside building or assigned parking Can call when you arrive</p>",
+        "team": "Nick/Sarina",
+        "id": 15231530
+      },
+      {
+        "day": "Wed",
+        "dayNum": 3,
+        "date": "2026-11-25",
         "customer": "Danielle Jenne",
         "address": "8397 158th Avenue NortheastApt 323\n                                  Redmond, WA 98052",
         "phone": "5303561233",
         "package": "Premium Monthly",
-        "time": "<b>2026-11-25 01:00PM - 02:00PM PST</b>",
+        "time": "<b>2026-11-25 12:30PM - 01:30PM PST</b>",
         "price": "267.84",
         "payment": "None",
         "notes": "",
@@ -343,7 +373,7 @@
       }
     ],
     "may": [
-      {
+       {
         "day": "Tue",
         "dayNum": 2,
         "date": "2026-11-24",
