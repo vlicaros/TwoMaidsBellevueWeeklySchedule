@@ -1,23 +1,8 @@
 {
   "week": "Nov 22 – Nov 28, 2026",
-  "updated": "Sun, Nov 22, 3:20 PM",
+  "updated": "Mon, Nov 23, 11:30 AM",
   "cleaners": {
     "tish": [
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-11-23",
-        "customer": "Bill Glassey",
-        "address": "10715 167th Place NE\n                                  Redmond, WA 98052",
-        "phone": "2064198126",
-        "package": "Design With Time",
-        "time": "<b>2026-11-23 12:30PM - 03:00PM PST</b>",
-        "price": "334.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Tish/Claire",
-        "id": 15166606
-      },
       {
         "day": "Mon",
         "dayNum": 1,
@@ -32,6 +17,21 @@
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>UPDATED INSTRUCTION PLEASE READ</b></p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs and workout room.</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - please&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs.</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - Adi will let us know if his room needs cleaning or not.&nbsp;</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul>",
         "team": "Tish/Claire",
         "id": 14211485
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-23",
+        "customer": "Bill Glassey",
+        "address": "10715 167th Place NE\n                                  Redmond, WA 98052",
+        "phone": "2064198126",
+        "package": "Design With Time",
+        "time": "<b>2026-11-23 12:30PM - 03:00PM PST</b>",
+        "price": "334.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Claire",
+        "id": 15166606
       },
       {
         "day": "Fri",
@@ -73,7 +73,7 @@
         "address": "508 Stevens Ave NW, Renton, WA 98057",
         "phone": "000-000-0000",
         "package": "Design With Time",
-        "time": "<b>2026-11-23 1:00PM - 03:00PM PDT</b>",
+        "time": "<b>2026-11-23 1:00PM - 03:30PM PDT</b>",
         "price": "250.00",
         "payment": "Check",
         "notes": "Regular Cleaning Schedule - might have to limit your cleaning to certain areas for this visit",
@@ -82,7 +82,22 @@
       },
       {
         "day": "Tue",
-        "dayNum": 4,
+        "dayNum": 2,
+        "date": "2026-11-24",
+        "customer": "Abigail Acone",
+        "address": "10922 Southeast 4th Street\n                                  Bellevue, WA 98004",
+        "phone": "4255020207",
+        "package": "Design With Time",
+        "time": "<b>2026-11-24 11:00AM - 01:00PM PST</b>",
+        "price": "250.00",
+        "payment": "None",
+        "notes": "<p>deep clean of 2 bathrooms (downstairs bathroom had some plumbing issues so needs more attention)</p><p>If there's time do floors and quick wipe down of the kitchen and living areas and bedrooms.</p>",
+        "team": "Megan/Erika",
+        "id": 15214580
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
         "date": "2026-11-24",
         "customer": "C Jacobs",
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
@@ -92,7 +107,7 @@
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
-        "team": "Megan/May",
+        "team": "May/Megan",
         "id": 14344292
       },
       {
@@ -163,6 +178,21 @@
         "day": "Tue",
         "dayNum": 2,
         "date": "2026-11-24",
+        "customer": "Eric Dang",
+        "address": "1811 East Thomas Street\n                                  Seattle, WA 98112",
+        "phone": "4257851037",
+        "package": "Move-In/Out",
+        "time": "<b>2026-11-24 11:00AM - 03:00PM PST</b>",
+        "price": "590.00",
+        "payment": "None",
+        "notes": " | <p>Move out. Realtor</p>",
+        "team": "Nick/Sarina",
+        "id": 15229435
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-11-24",
         "customer": "Josh Jones",
         "address": "12632 se 61\n                                  Bellevue, WA 98006",
         "phone": "8327445561",
@@ -172,36 +202,6 @@
         "payment": "None",
         "notes": " | Lockbox on railing 4123",
         "team": "Nick/Sarina",
-        "id": 14597642
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-11-24",
-        "customer": "Abigail Acone",
-        "address": "10922 Southeast 4th Street\n                                  Bellevue, WA 98004",
-        "phone": "4255020207",
-        "package": "Design With Time",
-        "time": "<b>2026-11-24 11:00AM - 01:00PM PST</b>",
-        "price": "250.00",
-        "payment": "None",
-        "notes": "<p>deep clean of 2 bathrooms (downstairs bathroom had some plumbing issues so needs more attention)</p><p>If there's time do floors and quick wipe down of the kitchen and living areas and bedrooms.</p>",
-        "team": "Nick/Erika",
-        "id": 15214580
-      },
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-11-24",
-        "customer": "Josh Jones",
-        "address": "12632 se 61\n                                  Bellevue, WA 98006",
-        "phone": "8327445561",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-24 08:00AM - 09:45AM PST</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | Lockbox on railing 4123",
-        "team": "Nick",
         "id": 14597642
       },
       {
@@ -285,6 +285,21 @@
         "day": "Tue",
         "dayNum": 2,
         "date": "2026-11-24",
+        "customer": "Eric Dang",
+        "address": "1811 East Thomas Street\n                                  Seattle, WA 98112",
+        "phone": "4257851037",
+        "package": "Move-In/Out",
+        "time": "<b>2026-11-24 11:00AM - 03:00PM PST</b>",
+        "price": "590.00",
+        "payment": "None",
+        "notes": " | <p>Move out. Realtor</p>",
+        "team": "Nick/Sarina",
+        "id": 15229435
+      },
+      {
+        "day": "Tue",
+        "dayNum": 2,
+        "date": "2026-11-24",
         "customer": "Josh Jones",
         "address": "12632 se 61\n                                  Bellevue, WA 98006",
         "phone": "8327445561",
@@ -330,13 +345,13 @@
     "may": [
       {
         "day": "Tue",
-        "dayNum": 4,
-        "date": "2026-11-17",
+        "dayNum": 2,
+        "date": "2026-11-24",
         "customer": "C Jacobs",
         "address": "9429 255th Avenue Northeast, Redmond, WA, 98053\n                                  Bellevue, WA 98005",
         "phone": "646-431-2887",
         "package": "Premium Weekly",
-        "time": "<b>2026-11-12 3:30PM - 06:30PM PDT</b>",
+        "time": "<b>2026-11-24 3:30PM - 06:30PM PDT</b>",
         "price": "325.00",
         "payment": "None",
         "notes": "Regular Cleaning Schedule",
@@ -409,21 +424,6 @@
         "day": "Mon",
         "dayNum": 1,
         "date": "2026-11-23",
-        "customer": "Bill Glassey",
-        "address": "10715 167th Place NE\n                                  Redmond, WA 98052",
-        "phone": "2064198126",
-        "package": "Design With Time",
-        "time": "<b>2026-11-23 12:30PM - 03:00PM PST</b>",
-        "price": "334.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Tish/Claire",
-        "id": 15166606
-      },
-      {
-        "day": "Mon",
-        "dayNum": 1,
-        "date": "2026-11-23",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
@@ -434,6 +434,21 @@
         "notes": " | <p><b>During&nbsp;</b><span style=\"margin: 0px; padding: 0px;\"><strong>the summer,&nbsp;</strong>please knock on the kids' door and make sure the room is</span>&nbsp;cleaned.&nbsp;</p><p><b>UPDATED INSTRUCTION PLEASE READ</b></p><p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs and workout room.</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms - please&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs.</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - Adi will let us know if his room needs cleaning or not.&nbsp;</p><ul><li>Touch up guest room and bathroom.&nbsp;</li></ul>",
         "team": "Tish/Claire",
         "id": 14211485
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-11-23",
+        "customer": "Bill Glassey",
+        "address": "10715 167th Place NE\n                                  Redmond, WA 98052",
+        "phone": "2064198126",
+        "package": "Design With Time",
+        "time": "<b>2026-11-23 12:30PM - 03:00PM PST</b>",
+        "price": "334.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Tish/Claire",
+        "id": 15166606
       }
     ],
     "erika": [
@@ -449,7 +464,7 @@
         "price": "250.00",
         "payment": "None",
         "notes": "<p>deep clean of 2 bathrooms (downstairs bathroom had some plumbing issues so needs more attention)</p><p>If there's time do floors and quick wipe down of the kitchen and living areas and bedrooms.</p>",
-        "team": "Nick/Erika",
+        "team": "Megan/Erika",
         "id": 15214580
       },
       {
