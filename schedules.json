@@ -182,11 +182,11 @@
         "address": "12632 se 61\n                                  Bellevue, WA 98006",
         "phone": "8327445561",
         "package": "Premium Biweekly",
-        "time": "<b>2026-11-24 08:00AM - 09:45AM PST</b>",
+        "time": "<b>2026-11-24 09:00AM - 11:45AM PST</b>",
         "price": "246.00",
         "payment": "None",
         "notes": " | Lockbox on railing 4123",
-        "team": "Nick/Sarina",
+        "team": "Nick",
         "id": 14597642
       },
       {
@@ -266,21 +266,6 @@
       }
     ],
     "sarina": [
-      {
-        "day": "Tue",
-        "dayNum": 2,
-        "date": "2026-11-24",
-        "customer": "Josh Jones",
-        "address": "12632 se 61\n                                  Bellevue, WA 98006",
-        "phone": "8327445561",
-        "package": "Premium Biweekly",
-        "time": "<b>2026-11-24 08:00AM - 09:45AM PST</b>",
-        "price": "246.00",
-        "payment": "None",
-        "notes": " | Lockbox on railing 4123",
-        "team": "Nick/Sarina",
-        "id": 14597642
-      },
       {
         "day": "Wed",
         "dayNum": 3,
