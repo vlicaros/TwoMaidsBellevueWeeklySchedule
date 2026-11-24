@@ -37,21 +37,6 @@
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-11-27",
-        "customer": "Navneet Paliwal",
-        "address": "3290 165th Place Northeast\n                                  Bellevue, WA 98008",
-        "phone": "425-922-3346",
-        "package": "Touch-Up Biweekly",
-        "time": "<b>2026-11-27 01:00PM - 03:15PM PST</b>",
-        "price": "230.00",
-        "payment": "None",
-        "notes": " | <p>Lokesh's Parents</p><p>Recurring: 2 bedrooms upstairs just need spot checking on a bi-weekly visit quick vacuum at most., Guest bath needs to be spot checked. Kitchen gets heavily used so need to make sure we rotate certain areas that get cleaned to get the build up</p>",
-        "team": "Tish/Megan",
-        "id": 14724840
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-27",
         "customer": "Adi Groysman",
         "address": "3402 169th Avenue Northeast\n                                  Bellevue, WA 98008",
         "phone": "425-589-1350",
@@ -432,6 +417,21 @@
         "notes": "",
         "team": "Sarah/May",
         "id": 14748892
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-11-27",
+        "customer": "Navneet Paliwal",
+        "address": "3290 165th Place Northeast\n                                  Bellevue, WA 98008",
+        "phone": "425-922-3346",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-11-27 01:00PM - 03:15PM PST</b>",
+        "price": "230.00",
+        "payment": "None",
+        "notes": " | <p>Lokesh's Parents</p><p>Recurring: 2 bedrooms upstairs just need spot checking on a bi-weekly visit quick vacuum at most., Guest bath needs to be spot checked. Kitchen gets heavily used so need to make sure we rotate certain areas that get cleaned to get the build up</p>",
+        "team": "May/Megan",
+        "id": 14724840
       }
     ],
     "claire": [
