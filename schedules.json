@@ -156,6 +156,21 @@
         "notes": "",
         "team": "Sarah",
         "id": 13715980
+      },
+      {
+        "day": "Fri",
+        "dayNum": 5,
+        "date": "2026-11-27",
+        "customer": "Patrick Dorion",
+        "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
+        "phone": "5703942530",
+        "package": "Premium Monthly",
+        "time": "<b>2026-11-27 09:30AM - 11:30AM PST</b>",
+        "price": "313.00",
+        "payment": "None",
+        "notes": "",
+        "team": "Sarah/May",
+        "id": 14748892
       }
     ],
     "nick": [
@@ -278,21 +293,6 @@
         "notes": "",
         "team": "Nick/May",
         "id": 15011317
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-27",
-        "customer": "Patrick Dorion",
-        "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
-        "phone": "5703942530",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-27 09:30AM - 11:30AM PST</b>",
-        "price": "313.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/May",
-        "id": 14748892
       }
     ],
     "sarina": [
@@ -422,21 +422,6 @@
         "day": "Fri",
         "dayNum": 5,
         "date": "2026-11-27",
-        "customer": "Maggie Brown",
-        "address": "3050 118th Avenue SoutheastJ304\n                                  Bellevue, WA 98005",
-        "phone": "2087316060",
-        "package": "Premium Monthly",
-        "time": "<b>2026-11-27 02:00PM - 03:00PM PST</b>",
-        "price": "206.00",
-        "payment": "None",
-        "notes": "",
-        "team": "Nick/May",
-        "id": 15011317
-      },
-      {
-        "day": "Fri",
-        "dayNum": 5,
-        "date": "2026-11-27",
         "customer": "Patrick Dorion",
         "address": "12820 Northeast 139th Court\n                                  Kirkland, WA 98034",
         "phone": "5703942530",
@@ -445,7 +430,7 @@
         "price": "313.00",
         "payment": "None",
         "notes": "",
-        "team": "Nick/May",
+        "team": "Sarah/May",
         "id": 14748892
       }
     ],
